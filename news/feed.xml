@@ -8837,8 +8837,7 @@ loading="lazy"
 &lt;p>This could be someone fluent in the language you’re transcribing into, a copy editor, or just a second set of eyes to vet the content. If you are subscribed to our service, you can add unlimited users.&lt;/p>
 &lt;p>If you are using the &lt;a href="https://videotranslator.ai/free-trial">free-trial&lt;/a>, or not yet subscribed, you can add one user per language.&lt;/p>
 &lt;h2 id="comparing-videotranslatorai-to-revcom">Comparing VideoTranslator.ai to Rev.com&lt;/h2>
-&lt;div class='table-responsive' id="table-mark">
-&lt;table>
+&lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -8894,7 +8893,6 @@ loading="lazy"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;/div>
 &lt;h2 id="should-i-use-videotranslatorai-or-revcom">Should I use VideoTranslator.ai or Rev.com?&lt;/h2>
 &lt;p>Ultimately, it is up to you to decide. Each platform has its advantages and disadvantages. If you think you can do your own post-editing of the copy, and budget is really important to you, VideoTranslator.ai may be preferable.&lt;/p>
 &lt;p>We encourage you to research and try video transcription services to find the one that works best for you. We welcome you to try our service for free—and let us know how we can improve.&lt;/p>
@@ -13634,8 +13632,7 @@ poster=''
 &lt;p>As the platform is still in closed beta, (1) the &lt;code>UI may change in the future&lt;/code>, (2) the &lt;code>pricing numbers shown are indicative&lt;/code> only.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>More Text-To-Speech Transcription!</title><link>https://videotranslator.ai/news/more-text-to-speech-transcription/</link><pubDate>January 7, 2019</pubDate><guid>https://videotranslator.ai/news/more-text-to-speech-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/more_text_speech_transcription_banner.jpg"/><description>More Text-To-Speech Transcription!</description><content:encoded>&lt;p>Our platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. Recently, we added a number of additional languages specific to &lt;code>Text-To-Speech&lt;/code> transcription. These are, (a) &lt;code>French (Canadian)&lt;/code>, (b) &lt;code>Portuguese (Brazilian)&lt;/code>, (c) &lt;code>Spanish&lt;/code>, (d) &lt;code>Swedish&lt;/code>, and (e) &lt;code>Turkish&lt;/code>.&lt;/p>
 &lt;p>In total, &lt;code>Text-To-Speech&lt;/code> transcription now has the below set of languages available. Please note each language has multiple dialects, and gender specific voices are available.&lt;/p>
-&lt;div class='table-responsive' id="table-mark">
-&lt;table>
+&lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -13669,7 +13666,6 @@ poster=''
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;/div>
 &lt;p>In the below description, we show you how to use the additional languages, by &lt;code>overlaying audio into a video&lt;/code>. It should be noted, &lt;em>transcription can be used in two ways, (a) Speech-To-Text, and (b) Text-To-Speech&lt;/em>. This post is focused on the second option, &lt;code>Text-To-Speech&lt;/code>.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -13894,8 +13890,7 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>Please remember to check the captions (&lt;code>play the video&lt;/code>) and make corrections are required. The rule of thumb here is, use the AI to do the heavy lifting, and get a (human) subject matter expert to check the results for your subject matter's (i.e. your industry) specific acronyms/words.&lt;/p>
-&lt;div class='table-responsive' id="table-mark">
-&lt;table>
+&lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -13999,15 +13994,13 @@ loading="lazy"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;/div>
 &lt;ul>
 &lt;li>Please note, we are working on adding additional AI's for languages not currently covered. If you require a specific language, or your firm wants to plug a custom AI into our platform, please reach out.&lt;/li>
 &lt;li>Additionally, each language can have several dialects - &lt;code>Spanish for example has 20 dialects&lt;/code> - please ensure you select the appropriate dialect.&lt;/li>
 &lt;/ul>
 &lt;h3 id="texttospeech">Text-To-Speech&lt;/h3>
 &lt;p>The following languages are available within the Text-To-Speech AI. The context here is, (i) &lt;code>add audio&lt;/code>, (ii) add the &lt;code>*.srt&lt;/code> or simply the text, (iii) &lt;code>trigger the transcribe&lt;/code>.&lt;/p>
-&lt;div class='table-responsive' id="table-mark">
-&lt;table>
+&lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -14041,7 +14034,6 @@ loading="lazy"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;/div>
 &lt;ul>
 &lt;li>Please note, additional voices are available, but use a less advanced AI (i.e. the synthetic voices feel more robotic). Please contact us for more information.&lt;/li>
 &lt;/ul>
@@ -14066,8 +14058,7 @@ loading="lazy"
 &lt;/center>
 &lt;p>Again, it should be stressed, the underlying AI is only as good as its training. Depending on the information complexity of your content (i.e. legal, medical, or just complicated) it is highly recommended you use the AI to do the heavy lifting, and get a subject matter expert (i.e. a professional translator) to check the results.&lt;/p>
 &lt;p>In practise, it is likely to be a far more effective use of the translators time, allowing them to focus on the high value content, and be less involved in the simple translations.&lt;/p>
-&lt;div class='table-responsive' id="table-mark">
-&lt;table>
+&lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -14164,7 +14155,6 @@ loading="lazy"
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;/div>
 &lt;h2 id="transliteration">Transliteration&lt;/h2>
 &lt;p>Transliteration is a type of conversion of a text from one script to another that involves swapping letters in predictable ways. In the platform, this is done using a phonetic mapping.&lt;/p>
 &lt;p>Generally speaking, your subscription will provide capacity for all the required languages. The below is an image of a textbox with three language options, &lt;code>English&lt;/code>, &lt;code>German&lt;/code> and &lt;code>Hindi&lt;/code>.&lt;/p>
