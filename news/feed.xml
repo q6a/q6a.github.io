@@ -13865,12 +13865,12 @@ poster=''
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
 &lt;p>Should you have any questions, or just want to drop us a note saying hello, please feel free to send us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>What Languages Are Available?</title><link>https://videotranslator.ai/news/what-languages-are-available/</link><pubDate>January 3, 2019</pubDate><guid>https://videotranslator.ai/news/what-languages-are-available/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/what_languages_are_available_banner.jpg"/><description>What Languages Are Available?</description><content:encoded>&lt;p>We look at the &lt;code>number of languages&lt;/code> which you can use with your content. Remember, each languages is potentially a new market, and care needs to be taken to properly &lt;code>target your preferred leads&lt;/code>.&lt;/p>
-&lt;p>There are two kinds of transcription, the first is &lt;code>Speech-To-Text Transcription&lt;/code>, the second is a &lt;code>Text-To-Speech Transcription&lt;/code>. In both cases, speech is involved, hence these are referred to as transcription AI's. Similarly, with translation, what we are actually using is a &lt;code>Text-To-Text Translation&lt;/code> AI.&lt;/p>
-&lt;p>You should also know, that technically transcription is the mapping of sounds of one language into another. However, in common parlance, especially when talking in the context of using AI's, it means using the sounds to get the AI to work out the words.&lt;/p>
+&lt;p>There are two kinds of transcription, the first is &lt;code>Speech-To-Text Transcription&lt;/code>, the second is a &lt;code>Text-To-Speech Transcription&lt;/code>. In both cases, speech is involved, hence these are referred to as transcription AI&amp;rsquo;s. Similarly, with translation, what we are actually using is a &lt;code>Text-To-Text Translation&lt;/code> AI.&lt;/p>
+&lt;p>You should also know, that technically transcription is the mapping of sounds of one language into another. However, in common parlance, especially when talking in the context of using AI&amp;rsquo;s, it means using the sounds to get the AI to work out the words.&lt;/p>
 &lt;p>Transliteration is a little bit different, and does not use an AI. We simply use a mapping to achieve the desired result, and as the &lt;code>mapping can be phonetic&lt;/code>, it requires a human to make sure it is done correctly.&lt;/p>
 &lt;h2 id="transcription">Transcription&lt;/h2>
 &lt;p>From &lt;a href="https://en.wikipedia.org/wiki/Transcription_(linguistics)">Wikipedia&lt;/a>, transcription in the linguistic sense is the systematic representation of language in written form. The source can either be utterances (speech or sign language) or pre-existing text in another writing system.&lt;/p>
-&lt;h3 id="speechtotext">Speech-To-Text&lt;/h3>
+&lt;h3 id="speech-to-text">Speech-To-Text&lt;/h3>
 &lt;p>The following languages are available within the Speech-To-Text AI. The context here is, (i) &lt;code>upload video&lt;/code>, (ii) &lt;code>trigger transcription&lt;/code>, (iii) &lt;code>select dialect&lt;/code> as required, and the transcription AI will do the rest.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
@@ -13889,7 +13889,7 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;p>Please remember to check the captions (&lt;code>play the video&lt;/code>) and make corrections are required. The rule of thumb here is, use the AI to do the heavy lifting, and get a (human) subject matter expert to check the results for your subject matter's (i.e. your industry) specific acronyms/words.&lt;/p>
+&lt;p>Please remember to check the captions (&lt;code>play the video&lt;/code>) and make corrections are required. The rule of thumb here is, use the AI to do the heavy lifting, and get a (human) subject matter expert to check the results for your subject matter&amp;rsquo;s (i.e. your industry) specific acronyms/words.&lt;/p>
 &lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
 &lt;tr>
@@ -13995,10 +13995,10 @@ loading="lazy"
 &lt;/tbody>
 &lt;/table>
 &lt;ul>
-&lt;li>Please note, we are working on adding additional AI's for languages not currently covered. If you require a specific language, or your firm wants to plug a custom AI into our platform, please reach out.&lt;/li>
+&lt;li>Please note, we are working on adding additional AI&amp;rsquo;s for languages not currently covered. If you require a specific language, or your firm wants to plug a custom AI into our platform, please reach out.&lt;/li>
 &lt;li>Additionally, each language can have several dialects - &lt;code>Spanish for example has 20 dialects&lt;/code> - please ensure you select the appropriate dialect.&lt;/li>
 &lt;/ul>
-&lt;h3 id="texttospeech">Text-To-Speech&lt;/h3>
+&lt;h3 id="text-to-speech">Text-To-Speech&lt;/h3>
 &lt;p>The following languages are available within the Text-To-Speech AI. The context here is, (i) &lt;code>add audio&lt;/code>, (ii) add the &lt;code>*.srt&lt;/code> or simply the text, (iii) &lt;code>trigger the transcribe&lt;/code>.&lt;/p>
 &lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
