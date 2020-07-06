@@ -1426,28 +1426,20 @@ loading="lazy"
 &lt;p>(1) &lt;code>AI gets worse as you move up information complexity.&lt;/code> So if your video is about complicated content, get a Chinese friend to do post-editing to make sure the AI does not do anything silly.&lt;/p>
 &lt;p>(2) Give the &lt;a href="https://videotranslator.ai/free-trial">Free-Trial&lt;/a> a go!&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p>
-&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Fighting the Coronavirus and E. Coli with Machine Learning</title><link>https://videotranslator.ai/news/fighting-the-coronavirus-and-e.-coli-with-machine-learning/</link><pubDate>March 1, 2020</pubDate><guid>https://videotranslator.ai/news/fighting-the-coronavirus-and-e.-coli-with-machine-learning/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/Fighting-the-coronavirus-and-E.-coli-with-machine-learning/Fighting-the-coronavirus-and-E.-coli-with-machine-learning-banner.jpg"/><description>When it comes to combatting superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics. China is also using AI to quickly determine if a person is showing symptoms of the coronavirus, which could be a great win against getting a handle on the respiratory disease.</description><content:encoded>&lt;p>When it comes to combatting superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics.
+&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Fighting the Coronavirus and E. Coli with Machine Learning</title><link>https://videotranslator.ai/news/fighting-the-coronavirus-and-e-coli-with-machine-learning/</link><pubDate>March 1, 2020</pubDate><guid>https://videotranslator.ai/news/fighting-the-coronavirus-and-e-coli-with-machine-learning/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/Fighting-the-coronavirus-and-E.-coli-with-machine-learning/Fighting-the-coronavirus-and-E.-coli-with-machine-learning-banner.jpg"/><description>When it comes to combating superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics. China is also using AI to quickly determine if a person is showing symptoms of the coronavirus, which could be a great win against getting a handle on the respiratory disease.</description><content:encoded>&lt;p>When it comes to combating superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics.
 China is also using AI to quickly determine if a person is showing symptoms of the coronavirus, which could be a great win against getting a handle on the respiratory disease.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/Fighting-the-coronavirus-and-E.-coli-with-machine-learning/Fighting-the-coronavirus-and-E.-coli-with-machine-learning-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Fighting-the-coronavirus-and-E.-coli-with-machine-learning/Fighting-the-coronavirus-and-E.-coli-with-machine-learning-video.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/wlE6_cosADc?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Video Translator: Pricing: Subscription vs. Pay-As-You-Go&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Fighting the Coronavirus and E. Coli with Machine Learning&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="how-artificial-intelligence-outsmarted-the-superbugs">How Artificial Intelligence Outsmarted the Superbugs&lt;/h2>
 &lt;center>
 &lt;figure class="img-bod ">
