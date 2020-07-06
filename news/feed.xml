@@ -11213,26 +11213,6 @@ poster=''
 &lt;p>Video Translator&amp;rsquo;s translation platform (&amp;ldquo;the application&amp;rdquo;) is an Internet-enabled SaaS (Software as a Service) platform which assists content creators (&amp;ldquo;the client&amp;rdquo;) to engage with stakeholders (&amp;ldquo;the audience&amp;rdquo;) from different linguistic backgrounds. The application is used to convert hypermedia content from one language to another, using an Artificial Intelligence (AI) assisted process.&lt;/p>
 &lt;h2 id="explainer-video">Explainer Video&lt;/h2>
 &lt;p>We are super excited to announce that we have an explainer video finally, all thanks to the wonderful &lt;a href="https://www.linkedin.com/in/tarryn-myburgh/">Tarryn Myburgh&lt;/a> at &lt;a href="https://www.tmcreates.com/">TMCreates&lt;/a>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/qblm_explainer_video.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Video Translator: Explainer Video&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
