@@ -14293,26 +14293,6 @@ loading="lazy"
 &lt;ol>
 &lt;li>
 &lt;p>We need a &lt;code>sample video&lt;/code> to work with, and will use the Big Bunny video from &lt;a href="https://sample-videos.com/index.php#sample-mp4-video">Sample Video&amp;rsquo;s&lt;/a>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/SampleVideo_1280x720_10mb.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Translate Video: Sample Video&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Click on the &lt;code>New Item&lt;/code> button to create an item. Then, and upload the video as per the below.&lt;/p>
@@ -14373,26 +14353,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Play the video to see below. It should be noted, this is a &lt;code>Text Overlay&lt;/code>, and not a &lt;code>Caption&lt;/code>. We could also have used a caption here if required.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/SampleVideo_1280x720_10mb_atbhuu.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/wSMM2cSfRRQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translate Video: Sample Video with Overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>The next step will be a translation, we will translate &amp;lsquo;Hello World&amp;rsquo; to German. Use the &lt;code>Action -&amp;gt; Translate&lt;/code>, and select the required language. Note: Cost shown below is indicative, all documentation is written using our UAT environment.&lt;/p>
@@ -14433,26 +14405,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Once complete, the process produces the below. Congratulations, you have translated your video.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/SampleVideo_1280x720_10mb_german.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/DeRlOtbQOsI?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translate Video: Sample Video with Translated Overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
