@@ -2470,26 +2470,18 @@ loading="lazy"
 &lt;/center>
 &lt;h2 id="quick-transcribe-finished-with-open-captions">Quick Transcribe: Finished With Open Captions&lt;/h2>
 &lt;p>&lt;code>Download the video once its complete, and deploy to your preferred social network&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/quick-transcribe-for-when-you-need-to-get-transcription-done-quickly/quick-transcribe-for-when-you-need-to-get-transcription-done-quickly_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/quick-transcribe-for-when-you-need-to-get-transcription-done-quickly/quick-transcribe-for-when-you-need-to-get-transcription-done-quickly_11.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/fMwLFG4mjB4?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Quick Transcribe: Video after being transcribed with Open Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
@@ -5409,26 +5401,18 @@ loading="lazy"
 &lt;p>If you haven’t yet and are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>Transcribing Indian English: A Simple Guide To Using AI To Speed Up Transcription And Add Open Captions</title><link>https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/</link><pubDate>November 11, 2019</pubDate><guid>https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription.jpg"/><description>In this visual guide we used an Indian English AI to transcribe a video from Rajya Sabha TV. After the transcription we used post-editing to clean up our captions. Finally, we use the Auto-Overlay functionality to add open captions to our video.</description><content:encoded>&lt;p>Today we are going to look at how to transcribe Indian English. Firstly of course, what is Indian English, and what does it sound like? How many such dialects exist? Have a &lt;a href="https://videotranslator.ai/news/ai-dubbing-what-different-dialects-of-english-sound-like/">look&lt;/a>.&lt;/p>
 &lt;p>Now that we know what Indian English sounds like, we are going to use a short clip from &lt;a href="https://www.youtube.com/user/rajyasabhatv">Rajya Sabha TV&lt;/a>, an Indian government content creator. We use our AI to transcribe this clip.&lt;/p>
 &lt;p>Lastly, we add an Auto-Overlay so that we can show you the video. The final output is shown below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription_final.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Transcribing Indian English: Outcome after using the AI&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="what-is-indian-english">What Is Indian English?&lt;/h2>
 &lt;p>From the folks at &lt;a href="https://en.wikipedia.org/wiki/Indian_English">Wikipedia&lt;/a>, &amp;ldquo;Indian English is the regional variety of the English language spoken in the Republic of India, and among the Indian diaspora elsewhere in the world. The Constitution of India has mandated Hindi in the Devanagari script to be the official language of the Indian union; English is an additional official language for government work along with Hindi.&amp;rdquo;&lt;/p>
 &lt;p>Cool. &lt;code>What does it sound like?&lt;/code>&lt;/p>
@@ -5621,31 +5605,23 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>All done - what do you think? &lt;code>Download the asset and deploy!&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription_final.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Transcribing Indian English: All done!&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Transcribing Indian English: All done - sweet!&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>&lt;strong>Edit: We originally use the yellow test/blue highlight in the last section. This looked terrible on top of the pastel colouring of the video. So it was changed to black text/yellow highlight.&lt;/strong>&lt;/p>
-&lt;p>In another blog post we will translate the content into Hindi. And then get an AI to speak out the Hindi content. Stay tuned!&lt;/p>
+&lt;p>In &lt;a href="news/what-a-hindi-speaking-ai-sounds-like/">another blog post we will translate the content into Hindi&lt;/a>. And then get an AI to speak out the Hindi content. Stay tuned!&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>The Weekly Roundup: Foreign signs installed to save lives, when seeing isn't believing; learning about deepfake videos, content creators coming together to save the planet and hilarious movie translations</title><link>https://videotranslator.ai/news/the-weekly-roundup-05-nov-2019/</link><pubDate>November 5, 2019</pubDate><guid>https://videotranslator.ai/news/the-weekly-roundup-05-nov-2019/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-weekly-roundup-05-nov-2019-banner.jpg"/><description>Foreign signs installed to save lives, when seeing isn't believing; learning about deepfake videos, content creators coming together to save the planet and hilarious movie translations.</description><content:encoded>&lt;p>It&amp;rsquo;s the start of a new month and news from around the globe keeps on rolling in. This week we&amp;rsquo;ve learnt the power of YouTube, its content creators and their followers and how they&amp;rsquo;re working together for the greater good.
