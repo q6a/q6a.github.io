@@ -8315,26 +8315,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>We then embed the English captions into the video which will produce the below video.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.cloud.google.com/site-assets-prod/blog_assets/Screen%20Shot%202019-09-11%20at%202.16.21%20PM.png'
->
-&lt;source src='https://storage.googleapis.com/qbl-media-prod/PROD_E5txxBPqHwhaiZu4c/en_cp_Corporate%20Video_%20Tour%20of%20Sydney%20Opera%20House%20by%20Corporate%20Video%20Australia_xxpu_dF7x.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/RZ5rLhPE4eQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>A French Affair: Translating your video from English to French&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Once we&amp;rsquo;ve got the English captions embedded it&amp;rsquo;s time to translate them to French.&lt;/p>
@@ -8378,26 +8370,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Just as before, we want to check the AI translation and make any corrections as needed. Once all is good, we embed the French captions into the video and voila! Our video on the Sydney Opera House can now be viewed in French.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.cloud.google.com/site-assets-prod/blog_assets/Screen%20Shot%202019-09-11%20at%202.16.21%20PM.png'
->
-&lt;source src='https://storage.googleapis.com/qbl-media-prod/PROD_E5txxBPqHwhaiZu4c/fr_cp_Corporate%20Video_%20Tour%20of%20Sydney%20Opera%20House%20by%20Corporate%20Video%20Australia_xxpu_zR4u.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/4iBdS7yGHbQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>A French Affair: Translating your video from English to French&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion-we-transcribed-and-translated-an-english-video-to-french">Conclusion: We Transcribed And Translated An English Video To French&lt;/h2>
