@@ -10560,29 +10560,21 @@ loading="lazy"
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
-&lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Use Auto Overlay To Simplify Transcription</title><link>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</link><pubDate>March 5, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription_banner.jpg"/><description>How To Use Auto Overlay To Simplify Transcription</description><content:encoded>&lt;p>We got this video from &lt;a href="https://www.osl.com/">OSL Brokerage&amp;rsquo;s&lt;/a> &lt;a href="https://www.linkedin.com/company/oslbrokerage/">LinkedIn page&lt;/a>. We are not suggesting that we have any relationship with OSL, and largely, we are using this content to demonstrate the process by which video content can be translated.&lt;/p>
+&lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Use Auto Overlay To Simplify Transcription</title><link>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</link><pubDate>March 5, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_banner.jpg"/><description>We look at an example where we translate a video from English to Chinese.</description><content:encoded>&lt;p>We got this video from &lt;a href="https://www.osl.com/">OSL Brokerage&amp;rsquo;s&lt;/a> &lt;a href="https://www.linkedin.com/company/oslbrokerage/">LinkedIn page&lt;/a>. We are not suggesting that we have any relationship with OSL, and largely, we are using this content to demonstrate the process by which video content can be translated.&lt;/p>
 &lt;p>This specific video already has captions, so we don&amp;rsquo;t need these per se. However, we will be adding Chinese captions as an overlay, as opposed to captions.&lt;/p>
 &lt;p>The &lt;code>final output is shown below&lt;/code>. The video covers news in a specialist topic, so the translation below is not accurate, but will be close. &lt;code>I have yet to meet an AI that understands the word 'Ethereum'&lt;/code>. Additionally, &lt;code>the stripe shown in the video has not been optimised, it cuts 1/2 way through so that the process makes sense&lt;/code>. In practise, &lt;code>you would edit further to make it look nice&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_osl_zh_stripe.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/68xlFq3iKyA?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>OSL: Chinese captions &amp;#43; blue overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -10595,7 +10587,7 @@ poster=''
 &lt;span>
 &lt;img
 src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription_1.jpg"
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_1.jpg"
 alt="Template showing Language and Structure Options"
 layout="responsive"
 class="img-responsive lazyload"
@@ -10615,7 +10607,7 @@ loading="lazy"
 &lt;span>
 &lt;img
 src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription_2.jpg"
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_2.jpg"
 alt="Trigger the Transcription with American English specified as the preferred dialect"
 layout="responsive"
 class="img-responsive lazyload"
@@ -10635,7 +10627,7 @@ loading="lazy"
 &lt;span>
 &lt;img
 src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription_3.jpg"
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_3.jpg"
 alt="Trigger the Translation from English to Simplified Chinese"
 layout="responsive"
 class="img-responsive lazyload"
@@ -10650,26 +10642,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>This give us the following output. &lt;code>It works, but is not exactly very good because this video already had captions&lt;/code>. Note, this is just an AI - much like the above step, please have a subject matter expert eyeball the content and fix it up. &lt;code>Many of the words used in this context are specific, and it is a reasonable bet the AI will make mistakes&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_osl_zh.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/BOVoty9oRrk?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>OSL: Now with Chinese captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>How do we make this better? We &lt;code>use the Auto-Overlay function&lt;/code>. &lt;code>Trigger the auto-overlay&lt;/code>, and in this case, &lt;code>select the stripe option&lt;/code>, as shown below.&lt;/p>
@@ -10678,7 +10662,7 @@ poster=''
 &lt;span>
 &lt;img
 src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription_4.jpg"
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_4.jpg"
 alt="OSL: Changing Captions -&amp;gt; Overlays"
 layout="responsive"
 class="img-responsive lazyload"
@@ -10693,26 +10677,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>This is the resulting output. &lt;code>You can see that this is obviously NOT optimised, but both the Chinese overlay, and the original captioning can be seen for demonstration purposes&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_osl_zh_stripe.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/68xlFq3iKyA?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>OSL: Chinese captions and a blue overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>OSL: Now with Chinese captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
