@@ -4999,26 +4999,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>It is important to understand what is happening here. Its basically &lt;code>a mathematical function called a text writer that is writing-out (or baking-in) the open captions&lt;/code> into the video. The yellow highlight was probably not the best choice but its useful in demo.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_1.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/Qk3dwE0Xydk?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: After the Auto Overlay process has finished&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Ok - now we are going to make some changes. First we use &lt;code>Action -&amp;gt; Remove Auto-Overlay&lt;/code> to &lt;code>take away the open captions as we want to move them around&lt;/code>. This looks like the below image.&lt;/p>
@@ -5063,27 +5055,7 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;p>In this case, the video output looks like below. As you can see, &lt;code>depending on the colour scheme of the underlying asset the lack of a stripe or highlight may not offer the best user experience&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_2_no-stripe_no_highlight.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Open Captions: No Stripe or Highlight&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
+&lt;p>&lt;code>Depending on the colour scheme of the underlying asset the lack of a stripe or highlight may not offer the best user experience&lt;/code>.&lt;/p>
 &lt;h3 id="using-a-stripe">Using A Stripe&lt;/h3>
 &lt;p>In this case &lt;code>we want a stripe&lt;/code>. The idea of the stripe is a bar across the screen. Here there are two options, show the stripe always, or show it only where there is text on the screen.&lt;/p>
 &lt;p>First of course, go ahead and remove the no-stripe/no-highlight overlay from your asset. Then, trigger the Auto-Overlay process again.&lt;/p>
@@ -5113,26 +5085,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>This does not look amazing but you can see the effect of the Stripe with Text Only.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_3_stripe_text_only.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/6NgZVJ8Yy_k?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: Stripe with Text Only&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h3 id="using-a-highlight">Using A Highlight&lt;/h3>
 &lt;p>In this case we want to &lt;code>use a highlight&lt;/code>. The idea here is a highlight around the text in question. Using the highlight option looks like below. Text only is not a thing with the highlight for obvious reasons.&lt;/p>
 &lt;center>
@@ -5153,26 +5117,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>In the video below, we used the &lt;code>Centre&lt;/code> option to make it very obvious what is happening. &lt;code>Transparency is also turned down for the highlight itself&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_4_highlight.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/Y3krFyYZs18?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: Highlight but centred with no transparency&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="the-big-change-advanced-options---stripe">The Big Change: Advanced Options - Stripe&lt;/h2>
 &lt;p>The stripe example is the slightly more complicated of the two options. The first thing to note is the actual dimensions of your video. In our case, &lt;code>the video is 640 x 360 pixels&lt;/code>. This is shown in the image below.&lt;/p>
 &lt;center>
@@ -5211,26 +5167,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>What we are doing here is setting X and Y coordinates for the text at 20, 20. We are also setting the X and Y for the stripe at 40, 40. &lt;code>Normally you would set the stripe to X and Y coordinates similar to the text.&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_5_advanced_stripe.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/P-r5ivFe2A8?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: Stripe with incorrect advanced options&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>Ok - so that was nice, but not really useful. Lets try again with the below settings.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
@@ -5250,26 +5198,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>This looks much better. &lt;code>The idea here is to put the stripe at the bottom of the video. But we have made a mistake in the alignment of the text&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_6_advanced_stripe_2.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/U4Xw18BuOs8?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: Stripe with less incorrect advanced options&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>With the examples above, hopefully it makes sense how to use this functionality.&lt;/p>
 &lt;p>&lt;strong>Important: If you are using the stripe, please note that the height of the stripe is 10% of the height of the video itself. You may need to manually fix up the captions so that all the captions are single lines only.&lt;/strong>&lt;/p>
 &lt;h2 id="the-big-change-advanced-options---highlight">The Big Change: Advanced Options - Highlight&lt;/h2>
@@ -5292,26 +5232,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>This results in the following video using the highlight. &lt;code>Please note this setup is not optimised and make the changes required on your side.&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/open-captions-enhancements-november-2019/open-captions-enhancements-november-2019_video_7_advanced_highlight.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/l_NTzB4Bqro?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Open Captions: Highlight is much easier to use!&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>&lt;strong>Important: If you are using the highlight, it is well worth making sure that each sentence is roughly the same length and centring the open captions into the video nicely.&lt;/strong>&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>We hope that this visual guide is helpful to you! Open Captions are very useful, and a critical part of the value proposition our video translator offers to clients.&lt;/p>
