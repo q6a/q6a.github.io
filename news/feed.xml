@@ -6915,8 +6915,8 @@ loading="lazy"
 &lt;p>Rodeada por el Océano Atlántico hacia el Norte y el Mar Caribe hacia el Sur, República Dominicana se enorgullece de contar con más de 1,600 Km. de costa y 400 Km. de las mejores playas del mundo, magníficos hoteles y resorts, e infinidad de opciones en deportes, entretenimiento y recreación. Aquí podrás bailar al ritmo contagioso del merengue, renovarte en lujosos y variados hoteles, explorar antiguas ruinas, deleitarte con la mejor gastronomía local, o vivir aventuras ecoturísticas en sus magníficos parques naturales, cordilleras, ríos y playas.&lt;/p>
 &lt;h2 id="pasos-a-seguir">Pasos A Seguir&lt;/h2>
 &lt;ol>
-&lt;li>Abre tu navegador y dirígete a &lt;a href="https://videotranslator.ai/">https://videotranslator.ai/&lt;/a> luego, haz click en el botón Login, tras iniciar sesión correctamente ve a es_myTemplate (para traducir un video cuyo audio de origen es en Español) y selecciona New Item, este ítem será llamado RD porque el video en cuestión habla sobre la República Dominicana.&lt;/li>
-&lt;/ol>
+&lt;li>
+&lt;p>Abre tu navegador y dirígete a &lt;a href="https://videotranslator.ai/">https://videotranslator.ai/&lt;/a> luego, haz click en el botón Login, tras iniciar sesión correctamente ve a es_myTemplate (para traducir un video cuyo audio de origen es en Español) y selecciona New Item, este ítem será llamado RD porque el video en cuestión habla sobre la República Dominicana.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -6951,9 +6951,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Carga el video, espera que sea procesado y activa la acción de transcripción. La presentadora es mexicana así que seleccionaremos Español (México) como idioma principal.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Carga el video, espera que sea procesado y activa la acción de transcripción. La presentadora es mexicana así que seleccionaremos Español (México) como idioma principal.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -6971,9 +6971,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Espere mientras se ejecuta el procesamiento y transcripción del video.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Espere mientras se ejecuta el procesamiento y transcripción del video.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -6991,9 +6991,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Una vez transcrito el vídeo, debes revisar la transcripción, ya que a veces nuestra inteligencia artificial puede omitir letras mayúsculas, puntos o comas en algunas oraciones. Esto se debe a que, como todos sabemos, las personas no hablan del mismo modo en que se escribe, por tanto, necesitamos hacer que el contenido transcrito tenga sentido para la inteligencia artificial encargada de hacer la traducción.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Una vez transcrito el vídeo, debes revisar la transcripción, ya que a veces nuestra inteligencia artificial puede omitir letras mayúsculas, puntos o comas en algunas oraciones. Esto se debe a que, como todos sabemos, las personas no hablan del mismo modo en que se escribe, por tanto, necesitamos hacer que el contenido transcrito tenga sentido para la inteligencia artificial encargada de hacer la traducción.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7011,9 +7011,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Incrustamos los subtítulos en el video para obtener nuestro primer resultado, el vídeo con los subtítulos en su idioma original.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Incrustamos los subtítulos en el video para obtener nuestro primer resultado, el vídeo con los subtítulos en su idioma original.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7031,29 +7031,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/translating-your-video-from-spanish-to-english-tips-for-travelling-to-the-dominican-republic-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/qbl-media-prod/PROD_XEWrLQYiZoQyG9PdB%2F5%20TIPS%20PARA%20VIAJAR%20A%20REP%C3%9ABLICA%20DOMINICANA_NRxo.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Incruste subtítulos en video en idioma original&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
-&lt;ol>
-&lt;li>Una vez realizada la limpieza y todas las correcciones correspondientes a la transcripción, procedemos a iniciar el proceso de traducción de los subtítulos obtenidos en el paso anterior.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Una vez realizada la limpieza y todas las correcciones correspondientes a la transcripción, procedemos a iniciar el proceso de traducción de los subtítulos obtenidos en el paso anterior.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7071,9 +7051,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Luego, tendrás que esperar a que la inteligencia artificial encargada de la traducción del contenido haga su trabajo, según lo solicita el sistema.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Luego, tendrás que esperar a que la inteligencia artificial encargada de la traducción del contenido haga su trabajo, según lo solicita el sistema.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7091,9 +7071,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Luego de completar el proceso de traducción, checa la traducción para hacer la limpieza y correcciones necesarias.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Luego de completar el proceso de traducción, checa la traducción para hacer la limpieza y correcciones necesarias.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7111,9 +7091,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Una vez ha sido corregida la traducción, podemos incluir los subtítulos traducidos en el video seleccionando la opción Auto-Overlay y aplicando las configuraciones que creas necesarias para personalizar tus subtítulos, aplicarles fondos o efectos de tachado, entre otros.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Una vez ha sido corregida la traducción, podemos incluir los subtítulos traducidos en el video seleccionando la opción Auto-Overlay y aplicando las configuraciones que creas necesarias para personalizar tus subtítulos, aplicarles fondos o efectos de tachado, entre otros.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7148,9 +7128,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Y luego, esperamos a que nuestro video sea procesado para que le sean agregados los atributos que seleccionamos para nuestro video.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Y luego, esperamos a que nuestro video sea procesado para que le sean agregados los atributos que seleccionamos para nuestro video.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7168,9 +7148,9 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;ol>
-&lt;li>Tu video, transcrito y traducido, y subtitulado con atributos especiales está listo.&lt;/li>
-&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;p>Tu video, transcrito y traducido, y subtitulado con atributos especiales está listo.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -7188,28 +7168,22 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/translating-your-video-from-spanish-to-english-tips-for-travelling-to-the-dominican-republic-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/qbl-media-prod/PROD_XEWrLQYiZoQyG9PdB/en_5%20TIPS%20PARA%20VIAJAR%20A%20REP%c3%9aBLICA%20DOMINICANA_NRxo_B5E2.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/S6_PWTbkVcM?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Tips Para Viajar A República Dominicana&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
-&lt;ol>
-&lt;li>Muchas gracias por tomarte el tiempo de leer este tutorial “Transcripción y Traducción de Videos de Español a Inglés: Tips Para Viajar A República Dominicana”&lt;/li>
+&lt;/li>
+&lt;li>
+&lt;p>Muchas gracias por tomarte el tiempo de leer este tutorial “Transcripción y Traducción de Videos de Español a Inglés: Tips Para Viajar A República Dominicana”&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>&lt;em>Conclusión:&lt;/em>&lt;/strong>&lt;/p>
 &lt;p>En este tutorial, hemos transcrito, y posteriormente traducido un video del canal de YouTube &lt;a href="https://www.youtube.com/channel/UCLeusrqEwSzLNTDAVxPbi3w">Mariel de Viaje&lt;/a>, del español al inglés. Logramos esto, transcribiendo el video en español, luego traduciendo los subtítulos al inglés, y finalmente incrustando el contenido de los subtítulos en el video usando la función “Auto-Overlay.”&lt;/p>
@@ -8032,7 +8006,7 @@ loading="lazy"
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>The increasing popularity of short video apps in China are possibly a sign of what&amp;rsquo;s to come globally for how we consume and use these social platforms. The individual abilities on each app allows the user to express their creativity in different ways. We&amp;rsquo;re excited to see what&amp;rsquo;s next in the space of short video apps.&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p>
-&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Transcripción y Traducción de Videos de Inglés a Español</title><link>https://videotranslator.ai/news/transcripci%C3%B3n-y-traducci%C3%B3n-de-videos-de-ingl%C3%A9s-a-espa%C3%B1ol/</link><pubDate>September 13, 2019</pubDate><guid>https://videotranslator.ai/news/transcripci%C3%B3n-y-traducci%C3%B3n-de-videos-de-ingl%C3%A9s-a-espa%C3%B1ol/</guid><dc:creator>Gabriel Rojas</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-banner.jpg"/><description>Artículo que describe el proceso de transcripción y traducción del contenido y de un video utilizando la tecnología de inteligencia artificial de Video Translator disponible en videotranslator.ai</description><content:encoded>&lt;p>Este video pertenece al canal de YouTube &lt;a href="https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg">History Matters&lt;/a>. El video habla sobre el personaje histórico ruso con repercusiones en la historia universal, Ivan El Terrible.&lt;/p>
+&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Transcripción y Traducción de Videos de Inglés a Español</title><link>https://videotranslator.ai/news/transcripci%C3%B3n-y-traducci%C3%B3n-de-videos-de-ingl%C3%A9s-a-espa%C3%B1ol/</link><pubDate>September 13, 2019</pubDate><guid>https://videotranslator.ai/news/transcripci%C3%B3n-y-traducci%C3%B3n-de-videos-de-ingl%C3%A9s-a-espa%C3%B1ol/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-banner.jpg"/><description>Artículo que describe el proceso de transcripción y traducción del contenido y de un video utilizando la tecnología de inteligencia artificial de Video Translator disponible en videotranslator.ai</description><content:encoded>&lt;p>Este video pertenece al canal de YouTube &lt;a href="https://www.youtube.com/channel/UC22BdTgxefuvUivrjesETjg">History Matters&lt;/a>. El video habla sobre el personaje histórico ruso con repercusiones en la historia universal, Ivan El Terrible.&lt;/p>
 &lt;p>Iván IV Vasílievich, llamado Iván el Terrible, fue un gran príncipe de Moscú y de toda Rusia, además de ser el primer monarca ruso en adoptar el título de Zar. Es considerado como uno de los creadores del Estado Ruso.&lt;/p>
 &lt;h2 id="pasos-a-seguir">Pasos A Seguir&lt;/h2>
 &lt;ol>
@@ -8132,26 +8106,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Incrustamos los subtítulos en el video para obtener nuestro primer resultado, el vídeo con los subtítulos en su idioma original.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-en-captions.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/pJhnWD8lvko?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Iván el Terrible: Traducir de inglés a español&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Una vez realizadas todas las correcciones a la transcripción, procedemos a iniciar el proceso de traducción de los subtítulos obtenidos en el proceso anterior.&lt;/p>
@@ -8215,26 +8181,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Una vez ha sido corregida la traducción, procedemos a incrustar los subtítulos en el video.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ivan-the-terrible-es-captions.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/-j3W5H2guKg?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Iván el Terrible: Traducir de inglés a español&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Todo está listo, muchas gracias por tomarte el tiempo de leer este tutorial “Transcripción y Traducción de Videos de Ingles a Español: ¿Qué Tan Terrible Fue Iván el Terrible?”&lt;/p>
