@@ -1702,26 +1702,18 @@ loading="lazy"
 &lt;p>Here at &lt;a href="https://videotranslator.ai/free-trial">VideoTranslator&lt;/a> we feel that most people are quite proud of where they come from - its totally natural.&lt;/p>
 &lt;p>Each one of us has a story of how we came to be, and the stories of those who came before are a vital part of any human identity. This week we have two such stories.&lt;/p>
 &lt;p>We are also experimenting with more video, so here is a sample! Let us know what you think!&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/one-igbo-woman-trying-to-save-her-language/one-igbo-woman-trying-to-save-her-language_5.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/Pc5XA5kdNmc?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>One Igbo Woman Trying To Save Her Language&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="one-igbo-woman-trying-to-save-her-language">One Igbo Woman Trying To Save Her language&lt;/h2>
 &lt;p>This &lt;a href="https://www.vanguardngr.com/2020/01/onyinye-ibelegbu-her-battle-to-save-mother-tongue/">article from the Nigerian Vanguard newspaper&lt;/a> covers one such story.&lt;/p>
 &lt;p>Onyinye Ibelegbu, the CEO of the NwaadaIgbo Language School is working to save indigenous Nigerian languages from extinction.&lt;/p>
