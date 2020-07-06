@@ -8419,26 +8419,18 @@ loading="lazy"
 &lt;p>All in all, we felt it was time for a new explainer video which covered how to use the platform.&lt;/p>
 &lt;p>&lt;strong>Here it is&amp;hellip; enjoy!&lt;/strong>&lt;/p>
 &lt;h2 id="how-to-transcribe-a-video-using-ai">How To Transcribe A Video Using AI&lt;/h2>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/Grow-Your-Audience.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/qbl_explainer_video2-en.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/W6LQRhnz8AM?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Explainer: How to Transcribe A Video Using AI&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Technology is offering us ways to look at old problems with new eyes. We should look at open captions as a tool - something good for accessibility, and for boosting your bottom line.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
@@ -13378,7 +13370,7 @@ poster=''
 &lt;p>The platform is currently in closed beta, while we work out bugs in the code. If you are interested in trying out our technology, please drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p>
 &lt;h2 id="extra">Extra&lt;/h2>
 &lt;p>As the platform is still in closed beta, (1) the &lt;code>UI may change in the future&lt;/code>, (2) the &lt;code>pricing numbers shown are indicative&lt;/code> only.&lt;/p>
-&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>More Text-To-Speech Transcription!</title><link>https://videotranslator.ai/news/more-text-to-speech-transcription/</link><pubDate>January 7, 2019</pubDate><guid>https://videotranslator.ai/news/more-text-to-speech-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/more_text_speech_transcription_banner.jpg"/><description>More Text-To-Speech Transcription!</description><content:encoded>&lt;p>Our platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. Recently, we added a number of additional languages specific to &lt;code>Text-To-Speech&lt;/code> transcription. These are, (a) &lt;code>French (Canadian)&lt;/code>, (b) &lt;code>Portuguese (Brazilian)&lt;/code>, (c) &lt;code>Spanish&lt;/code>, (d) &lt;code>Swedish&lt;/code>, and (e) &lt;code>Turkish&lt;/code>.&lt;/p>
+&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>More Text-To-Speech Transcription!</title><link>https://videotranslator.ai/news/more-text-to-speech-transcription/</link><pubDate>January 7, 2019</pubDate><guid>https://videotranslator.ai/news/more-text-to-speech-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/more-text-to-speech-transcription/how-to-add-an-ai-voice-overlay-to-your-video_banner.jpg"/><description>In this small tutorial we look at how to add a AI Dubbing to our Big Bunny video!</description><content:encoded>&lt;p>Our platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. Recently, we added a number of additional languages specific to &lt;code>Text-To-Speech&lt;/code> transcription. These are, (a) &lt;code>French (Canadian)&lt;/code>, (b) &lt;code>Portuguese (Brazilian)&lt;/code>, (c) &lt;code>Spanish&lt;/code>, (d) &lt;code>Swedish&lt;/code>, and (e) &lt;code>Turkish&lt;/code>.&lt;/p>
 &lt;p>In total, &lt;code>Text-To-Speech&lt;/code> transcription now has the below set of languages available. Please note each language has multiple dialects, and gender specific voices are available.&lt;/p>
 &lt;table class="table table-dark table-striped table-bordered">
 &lt;thead>
@@ -13417,7 +13409,8 @@ poster=''
 &lt;p>In the below description, we show you how to use the additional languages, by &lt;code>overlaying audio into a video&lt;/code>. It should be noted, &lt;em>transcription can be used in two ways, (a) Speech-To-Text, and (b) Text-To-Speech&lt;/em>. This post is focused on the second option, &lt;code>Text-To-Speech&lt;/code>.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
-&lt;li>&lt;p>Please direct your browser to &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a>, and then click on the &lt;code>Login&lt;/code> button. On successfully logging into the application, you should see an interface similar to the below. &lt;code>Select Template&lt;/code>, and using the highlighted button, &lt;code>Edit Template: myTemplate&lt;/code>.&lt;/p>
+&lt;li>
+&lt;p>Please direct your browser to &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a>, and then click on the &lt;code>Login&lt;/code> button. On successfully logging into the application, you should see an interface similar to the below. &lt;code>Select Template&lt;/code>, and using the highlighted button, &lt;code>Edit Template: myTemplate&lt;/code>.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13436,7 +13429,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>Originally &lt;code>myTemplate&lt;/code> has only one &lt;code>component&lt;/code>. This is the video component. We are going to &lt;code>Add Audio&lt;/code> component. On addition, you can see the Template with &lt;code>both Video and Audio&lt;/code> components. The point is to have somewhere to use our &lt;code>Text-To-Speech&lt;/code> AI.&lt;/p>
+&lt;li>
+&lt;p>Originally &lt;code>myTemplate&lt;/code> has only one &lt;code>component&lt;/code>. This is the video component. We are going to &lt;code>Add Audio&lt;/code> component. On addition, you can see the Template with &lt;code>both Video and Audio&lt;/code> components. The point is to have somewhere to use our &lt;code>Text-To-Speech&lt;/code> AI.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13472,7 +13466,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>To recap, we &lt;code>edited the template&lt;/code> to have &lt;code>both video and audio&lt;/code> components. &lt;code>Save&lt;/code> and &lt;code>Exit&lt;/code> to the file system.&lt;/p>
+&lt;li>
+&lt;p>To recap, we &lt;code>edited the template&lt;/code> to have &lt;code>both video and audio&lt;/code> components. &lt;code>Save&lt;/code> and &lt;code>Exit&lt;/code> to the file system.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13491,7 +13486,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>Click on our now &lt;code>modified myTemplate&lt;/code>, and create a new item, &lt;code>big_bunny_2&lt;/code>. The next step is to upload our old friend, the &lt;a href="https://sample-videos.com/index.php#sample-mp4-video">sample video&lt;/a>.&lt;/p>
+&lt;li>
+&lt;p>Click on our now &lt;code>modified myTemplate&lt;/code>, and create a new item, &lt;code>big_bunny_2&lt;/code>. The next step is to upload our old friend, the &lt;a href="https://sample-videos.com/index.php#sample-mp4-video">sample video&lt;/a>.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13527,7 +13523,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>But what about our &lt;code>Audio Overlay&lt;/code>, at this point we create it and are just going to add it in shortly. Scroll down to the Audio component, and instead of uploading a &lt;code>*.mp3&lt;/code>, we instead add some text (&lt;code>Hello! My name is Big Bunny!&lt;/code>) and click &lt;code>Add Caption&lt;/code>. &lt;em>We are going to get the AI to say, 'Hello! My name is Big Bunny!'&lt;/em>&lt;/p>
+&lt;li>
+&lt;p>But what about our &lt;code>Audio Overlay&lt;/code>, at this point we create it and are just going to add it in shortly. Scroll down to the Audio component, and instead of uploading a &lt;code>*.mp3&lt;/code>, we instead add some text (&lt;code>Hello! My name is Big Bunny!&lt;/code>) and click &lt;code>Add Caption&lt;/code>. &lt;em>We are going to get the AI to say, &amp;lsquo;Hello! My name is Big Bunny!'&lt;/em>&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13546,7 +13543,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>Now we have some text, (a) &lt;code>Speech-To-Text&lt;/code> transcribe, and (b) add an &lt;code>Audio Overlay&lt;/code>. As shown below, we transcribe, but &lt;em>only the second component&lt;/em> as this is where we need the voices - the plan is to use a British sounding AI voice.&lt;/p>
+&lt;li>
+&lt;p>Now we have some text, (a) &lt;code>Speech-To-Text&lt;/code> transcribe, and (b) add an &lt;code>Audio Overlay&lt;/code>. As shown below, we transcribe, but &lt;em>only the second component&lt;/em> as this is where we need the voices - the plan is to use a British sounding AI voice.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13565,7 +13563,8 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>Once complete, in the video component (a) &lt;code>Mute Original&lt;/code> audio, (b) add in the &lt;code>Audio Overlay&lt;/code>. Please note, we have set it to play between &lt;code>2 -&amp;gt; 5 seconds&lt;/code>, and used the &lt;code>+&lt;/code>.&lt;/p>
+&lt;li>
+&lt;p>Once complete, in the video component (a) &lt;code>Mute Original&lt;/code> audio, (b) add in the &lt;code>Audio Overlay&lt;/code>. Please note, we have set it to play between &lt;code>2 -&amp;gt; 5 seconds&lt;/code>, and used the &lt;code>+&lt;/code>.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -13584,27 +13583,20 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;/li>
-&lt;li>&lt;p>This gives us the final product. Please note (a) &lt;code>original audio&lt;/code> has been &lt;code>muted&lt;/code>, (b) &lt;code>new audio&lt;/code> has been added, in this case the &lt;code>robotic voice&lt;/code> of the AI. Please note, there is no &lt;em>requirement&lt;/em> to use the AI, a human recorded audio codec is often preferable, depending on the target audience - &lt;code>click play below to have a listen&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/SampleVideo_more_text_speech_languages.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;li>
+&lt;p>This gives us the final product. Please note (a) &lt;code>original audio&lt;/code> has been &lt;code>muted&lt;/code>, (b) &lt;code>new audio&lt;/code> has been added, in this case the &lt;code>robotic voice&lt;/code> of the AI. Please note, there is no &lt;em>requirement&lt;/em> to use the AI, a human recorded audio codec is often preferable, depending on the target audience - &lt;code>click play below to have a listen&lt;/code>.&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/Va_Yi_NFKEE?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translate Video: Sample Video&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
