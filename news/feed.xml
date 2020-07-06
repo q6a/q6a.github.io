@@ -6348,26 +6348,18 @@ loading="lazy"
 &lt;p>In everyday usage however, &lt;code>the term 'dubbing' commonly refers to the replacement of the actor's voices with those of different performers speaking another language&lt;/code>, which is called &lt;code>'re-voicing'&lt;/code>, or a &lt;code>'voice-over'&lt;/code> in the film industry.&lt;/p>
 &lt;h2 id="outcomes---before-and-after">Outcomes - Before And After&lt;/h2>
 &lt;p>To make it obvious what we are talking about, the after is provided.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it_11.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/pQ74yT9P5b8?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>AI Dubbing: After Adding the AI voice-over&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="steps---transcribe-your-content-using-the-provided-ai">Steps - Transcribe Your Content Using The Provided AI&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -6392,29 +6384,19 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>This is the original content.&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it_10.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/ZyNf5ml3u2g?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>AI Dubbing: Before Adding the AI voice-over&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
-&lt;ol>
+&lt;/li>
 &lt;li>
 &lt;p>We know the speaker is an Australian so &lt;code>we select English (Australia) as the preferred dialect to transcribe&lt;/code> with - note picking the correct dialect makes AI accuracy much better.&lt;/p>
 &lt;center>
@@ -6546,22 +6528,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>The audio content is below. &lt;code>Have a listen!&lt;/code> Sweet - dubbing is complete.&lt;/p>
-&lt;center>
-&lt;br/>
-&lt;audio
-controls
-type="audio/mpeg"
-preload="metadata"
-src="https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it_8.mp3"
->
-&lt;div style="border: 1px solid black; padding: 8px;">
-Sorry, your browser does not support the &lt;audio> tag.
-&lt;/div>
-&lt;/audio>
-&lt;figcaption>
-&lt;b>AI Dubbing: Click play to listen to the AI spoken content&lt;/b>
-&lt;/figcaption>
-&lt;/center>
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/852924943&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true">&lt;/iframe>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="steps---overlaying-our-audio-on-our-video">Steps - Overlaying Our Audio On Our Video&lt;/h2>
@@ -6588,26 +6555,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Notice, we have not set any times. Add (in seconds) the time. &lt;code>We added 0.5 and 21 as start and end times&lt;/code>, and then &lt;code>clicked the + button to bake in the audio overlay&lt;/code>. That is the entire process. The final output is shown below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/text-to-speech-ai-dubbing-and-what-you-can-do-with-it_11.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/pQ74yT9P5b8?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>AI Dubbing: After Adding the AI voice-over&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -8862,49 +8821,21 @@ src="https://www.youtube.com/embed/cK-wmutJias?start=&amp;end=" allowfullscreen 
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Making subtitles is straightforward. First, get the transcript of your video. Second, make the SRT file, and once this is ready (a) embed the SRT into your asset, or (b) manually upload the SRT into the social media service you are using.&lt;/p>
-&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Product Update: May 2019</title><link>https://videotranslator.ai/news/product-update-may-2019/</link><pubDate>June 1, 2019</pubDate><guid>https://videotranslator.ai/news/product-update-may-2019/</guid><dc:creator>Video Translator Engineering</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_banner.jpg"/><description>Product Update May 2019,</description><content:encoded>&lt;p>We have been putting in for a number of grant applications in the innovation space. One of the applications needed a small video as part of the application process.&lt;/p>
-&lt;p>The video covers the basic use cases, and we added the captions to the asset. Please note the Hindi version is a straight AI translation, and has not been optimised.&lt;/p>
+&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Product Update: May 2019</title><link>https://videotranslator.ai/news/product-update-may-2019/</link><pubDate>June 1, 2019</pubDate><guid>https://videotranslator.ai/news/product-update-may-2019/</guid><dc:creator>Video Translator Engineering</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_banner.jpg"/><description>Product Update May 2019</description><content:encoded>&lt;p>We have been putting in for a number of grant applications in the innovation space. One of the applications needed a small video as part of the application process.&lt;/p>
+&lt;p>The video covers the basic use cases, and we added the captions to the asset.&lt;/p>
 &lt;h2 id="may-2019-product-update">May 2019: Product update&lt;/h2>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/H66_2HisJdk?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Product Update: May 2019 (English)&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_hi.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Product Update: May 2019 (Hindi)&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
