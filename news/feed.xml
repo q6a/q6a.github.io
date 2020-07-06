@@ -4328,26 +4328,18 @@ loading="lazy"
 &lt;p>Its going to be awesome. We hope this post gives you some ideas about how to use our technology. Let&amp;rsquo;s begin!&lt;/p>
 &lt;h2 id="what-are-we-going-to-be-working-with-our-source-video-is-already-transcribed">What Are We Going To Be Working With? Our Source Video Is Already Transcribed&lt;/h2>
 &lt;p>We will use the video we produced at the end of this &lt;a href="https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/">post&lt;/a>. It is posted below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription_final.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Transcribing Indian English: Outcome after using the AI&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>First though, a bit of theory! Just like school!&lt;/p>
 &lt;h2 id="the-look-ahead-and-forward-algorithms---the-theory">The Look-Ahead And Forward Algorithms - The Theory&lt;/h2>
 &lt;p>One of the challenges in working with AI is the Look-Ahead and Forward algorithm usage. The majority of translation AI&amp;rsquo;s use the look forward algorithm to translate text content.&lt;/p>
@@ -4388,27 +4380,19 @@ loading="lazy"
 &lt;/center>
 &lt;/li>
 &lt;li>
-&lt;p>After the process was complete I &lt;code>added an Auto-Overlay so you can see the full outcome. Note that the words are a little bit different, tense had been changed to past tense for everything and sentences are shorter.&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_banner_amended_english.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;p>After the process was complete we &lt;code>add an Auto-Overlay so you can see the full outcome. Note that the words are a little bit different, tense had been changed to past tense for everything and sentences are shorter.&lt;/code>&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/v3_p4usHHhU?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>What A Hindi Speaking AI Sounds Like: Amend the English and add an Auto-Overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Very cool. Now we can begin the translation process. &lt;code>Nicely done!&lt;/code>&lt;/p>
@@ -4501,26 +4485,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>This is a direct AI translation so &lt;code>some errors are expected&lt;/code>. Also, note that the timings are a little bit off. What is happening in the background is our code is trying to do a best fit of the sentences, but &lt;code>manual edits are often required. Please do this as part of the post-editing process.&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_hindi_captions.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/Tl3Lfm9xA64?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>What A Hindi Speaking AI Sounds Like: After adding the Hindi captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Well done! Your video is now translated. But you thought it was going to speak Hindi?&lt;/p>
@@ -4572,25 +4548,10 @@ loading="lazy"
 &lt;/center>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;code>Abracadabra!&lt;/code>&lt;/p>
-&lt;center>
-&lt;br/>
-&lt;audio
-controls
-type="audio/mpeg"
-preload="metadata"
-src="https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_hindi_ai_dubbing.mp3"
->
-&lt;div style="border: 1px solid black; padding: 8px;">
-Sorry, your browser does not support the &lt;audio> tag.
-&lt;/div>
-&lt;/audio>
-&lt;figcaption>
-&lt;b>What A Hindi Speaking AI Sounds Like: AI dubbed synthetic voice&lt;/b>
-&lt;/figcaption>
-&lt;/center>
+&lt;p>Abracadabra!&lt;/p>
 &lt;/li>
 &lt;/ol>
+&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/852832399&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true">&lt;/iframe>
 &lt;h2 id="next-steps---how-to-implement-your-own-ai-dubbing">Next Steps - How To Implement Your Own AI Dubbing&lt;/h2>
 &lt;p>There are many options you have once you AI dubbing is complete. Several clients simply &lt;code>prefer to download the asset and work on it in their preferred audio/video editor. However, much of the same functionality is also present in the app&lt;/code>.&lt;/p>
 &lt;ol>
@@ -4642,26 +4603,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>The final outcome is below. This has several errors, and needs more work. &lt;code>To see the error forward to 1:57 and you will hear the sound stops. This is because we have just used one mp3 Voice Overlay for simplicity to explain the workflow&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/what-a-hindi-speaking-ai-sounds-like/what-a-hindi-speaking-ai-sounds-like_hindi_speech.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/UQ26a5PR_q0?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>What A Hindi Speaking AI Sounds Like: After adding a female Hindi speaker&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>What A Hindi Speaking AI Sounds Like: After adding the Hindi speech - we choose a female sounding AI as the anchor is a woman&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Congratulations! We hope you found this post useful. This is quite a simplified workflow - let us know if you have any questions.&lt;/p>
