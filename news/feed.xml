@@ -11017,52 +11017,24 @@ poster=''
 &lt;li>Use the &lt;code>AI Translation&lt;/code> from &lt;code>English to Afrikaans&lt;/code> to translate the video.&lt;/li>
 &lt;/ul>
 &lt;p>Please note we have not cleaned up the Afrikaans text. The below video from &lt;code>LionWhispererTV is Bongani's Birthday&lt;/code>. &lt;code>Bongani is the friendly male lion&lt;/code> this video is about. In the video, Kevin refers to Bongani the lion as, &lt;code>'a nice old man, but full of beans'&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Bonganis_Birthday_The_Lion_Whisperer_af.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>LionWhispererTV: English (South Africa) with Afrikaans captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>We choose this video for two purposes, first the work that the Kevin Richardson Foundation is doing is pretty amazing. You only have to look at the video titled &lt;code>Lion Kisses&lt;/code> &lt;a href="https://www.youtube.com/watch?v=lHbfsUUI1Hk">here&lt;/a>, to see what we are talking about. Trust me on this one.&lt;/p>
 &lt;p>Secondly, &lt;code>a large part of their work is in raising awareness&lt;/code>. While we have no idea what the exact level of awareness in South Africa relating to conservation efforts is, we do know South Africa has a &lt;a href="https://en.wikipedia.org/wiki/Languages_of_South_Africa">large number of languages&lt;/a>, and getting information out remains a challenge.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
 &lt;li>
-&lt;p>The original video is shown below, it was sourced from the &lt;a href="https://www.youtube.com/watch?v=mF_YCBCatoU">LionWhispererTV&amp;rsquo;s&lt;/a> channel. We are big fans of their work, and you should absolutely &lt;code>subscribe to their channel&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Bonganis_Birthday_The_Lion_Whisperer_org.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>LionWhispererTV: Bongani’s Birthday!&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
+&lt;p>The original video was sourced from the &lt;a href="https://www.youtube.com/watch?v=mF_YCBCatoU">LionWhispererTV&amp;rsquo;s&lt;/a> channel. We are big fans of their work, and you should absolutely &lt;code>subscribe to their channel&lt;/code>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Please direct your browser to &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a>, and then click on the &lt;code>Login&lt;/code> button. &lt;code>Select myTemplate&lt;/code>, or your preferred template, and &lt;code>create a new item&lt;/code>. Note to follow this visual guide you will require only a &lt;code>video component&lt;/code> in your template.&lt;/p>
@@ -11112,26 +11084,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Open up the item, and have a look at the captions. The main task here, is to &lt;code>fix up the transcription&lt;/code>. The notes section below covers some of the issues around this specific video. &lt;code>After fixing up&lt;/code>, the end result is below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Bonganis_Birthday_The_Lion_Whisperer_en.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/xl0kSNBqo44?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Bongani’s Birthday! Post transcription with English captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Bongani’s Birthday! post transcription with English captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Now that we have our transcription sorted, we can translate. Click &lt;code>Action -&amp;gt; Translation&lt;/code>, to trigger the video captions being translated. This is a pretty simple process, and can be seen in the image below.&lt;/p>
@@ -11175,26 +11139,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>The final version of the video is shown below. In a real workflow, &lt;code>please ask your subject matter expert to eyeball the translation and verify suitability&lt;/code> for your stakeholders.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Bonganis_Birthday_The_Lion_Whisperer_af.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Bongani’s Birthday! Captions translated from English to Afrikaans&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="notes">Notes&lt;/h2>
