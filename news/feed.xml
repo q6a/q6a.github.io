@@ -957,7 +957,7 @@ loading="lazy"
 &lt;p>Also shown above was the Auto-Overlay where we bake-in the captions into the video. &lt;code>Note you are looking at images of the Video Translator desktop app.&lt;/code>&lt;/p>
 &lt;h2 id="now-lets-translate-this-english-video-into-filipino-or-tagalog">Now Lets Translate This English Video Into Filipino Or Tagalog&lt;/h2>
 &lt;p>&lt;code>How do we translate the English video into Filipino? Or if it was the other way around, how would we translate a Filipino video into English?&lt;/code>&lt;/p>
-&lt;p>It is basically the same process. We take out original language captions / subtitles, basically the real time editable *.srt file, and translate it into the target language, in this case Filipino or Tagalog.&lt;/p>
+&lt;p>It is basically the same process. We take out original language captions / subtitles, basically the real time editable &lt;code>.srt&lt;/code> file, and translate it into the target language, in this case Filipino or Tagalog.&lt;/p>
 &lt;center>
 &lt;figure class="img-bod ">
 &lt;span>
@@ -976,26 +976,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>Click Action -&amp;gt; Translate as shown above, and we get a familar output. &lt;code>You should also do Post-Editing of the Filipino output, and below we have added our familiar Auto-Overlay.&lt;/code>&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/translate-your-english-video-to-filipino-and-chinese/translate-your-english-video-to-filipino-banner2.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/translate-your-english-video-to-filipino-and-chinese/matija_org_fi.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/lkDitjfoQDE?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translate Your English Video Into Filipino And Chinese: Auto-Overlay with Filipino Open Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="translate-your-english-video-into-mandarin">Translate Your English Video Into Mandarin&lt;/h2>
 &lt;p>We do the exact same thing from our English video into Mandarin. &lt;code>Make sure you select the correct dialect as Simplified Chinese as shown below.&lt;/code>&lt;/p>
 &lt;center>
@@ -1016,26 +1008,18 @@ loading="lazy"
 &lt;/figure>
 &lt;/center>
 &lt;p>Which gives us the below video!&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/translate-your-english-video-to-filipino-and-chinese/translate-your-english-video-to-filipino-banner2.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/translate-your-english-video-to-filipino-and-chinese/matija_org_zh.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/yFXtGFAmIyI?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translate Your English Video Into Filipino And Chinese: Auto-Overlay with Chinese Open Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>We really hope you found this blog post useful, and are able to increase your target audience using our technology.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a> or &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
@@ -1200,26 +1184,18 @@ src="https://www.youtube.com/embed/U__Hm-yXHfw?start=&amp;end=" allowfullscreen 
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>&lt;code>To really get the value of SEO, you should make sure that Titles, Description, Open Captions and Closed Captions are all in place! If you are using social channels outside YouTubr you may also want to use WebVTT properly.&lt;/code>&lt;/p>
 &lt;p>Best of luck and I am sure you will do amazing! &lt;a href="https://www.linkedin.com/company/videotranslator/">Connect with us on LinkedIn&lt;/a>, or if you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>The Girls and Women Revitalising Canada's Indigenous Languages</title><link>https://videotranslator.ai/news/the-girls-and-women-revitalising-canadas-indigenous-languages/</link><pubDate>March 10, 2020</pubDate><guid>https://videotranslator.ai/news/the-girls-and-women-revitalising-canadas-indigenous-languages/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-girls-and-women-revitalising-canadas-indigenous-languages/the-girls-and-women-revitalising-canadas-indigenous-languages-banner.jpg"/><description>It was International Women's Day this past Sunday 8 March and in honour of the day we're looking at some incredible females who are doing all they can for their native languages.</description><content:encoded>&lt;p>It was International Women&amp;rsquo;s Day this past Sunday 8 March and in honour of the day we&amp;rsquo;re looking at some incredible females who are doing all they can for their native languages.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/the-girls-and-women-revitalising-canadas-indigenous-languages/the-girls-and-women-revitalising-canadas-indigenous-languages-banner.jp'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/the-girls-and-women-revitalising-canadas-indigenous-languages/the-girls-and-women-revitalising-canadas-indigenous-languages-video.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/rOwPFPzE74c?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>The Girls and Women Revitalising Canada&amp;#39;s Indigenous Languages&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="celebrating-indigenous-women-who-are-reclaiming-and-revitalising-their-languages">Celebrating Indigenous Women Who Are Reclaiming and Revitalising Their Languages&lt;/h2>
 &lt;center>
 &lt;figure class="img-bod ">
