@@ -529,50 +529,34 @@ src="https://www.youtube.com/embed/d4XqvrajM24?start=&amp;end=" allowfullscreen 
 &lt;p>First off, we&amp;rsquo;ve logged into our &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a> account; if you don&amp;rsquo;t have an account yet, &lt;a href="https://videotranslator.ai/free-trial">sign up here&lt;/a> for a free trial.
 Once logged in, hit Quick Transcribe and follow the prompts to upload your video and to select the language and dialect that your video is originally in.&lt;/p>
 &lt;h3 id="quicktranscribe-click-quicktranscribe-to-upload-and-transcribe-your-video">QuickTranscribe: Click QuickTranscribe To Upload And Transcribe Your Video&lt;/h3>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-1.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/JO-Cz6jX2sg?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translating Your First Video: QuickTranscribe (Upload &amp;#43; Transcribe)&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h3 id="post-editing-fix-up-the-ai-output-to-maximise-conversions">Post-Editing: Fix Up The AI Output To Maximise Conversions&lt;/h3>
 &lt;ul>
 &lt;li>Once the video has loaded, it&amp;rsquo;s time to edit the captions. Because &lt;code>people don't always speak the way they write, the AI can sometimes miss capitalisation, commas and full stops as well as misuse certain words&lt;/code>; use the Picture-in-Picture popup to help you edit the timing and captions of the video in its original language.&lt;/li>
 &lt;/ul>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-2.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/U_jOc5WZCJs?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translating Your First Video: Edit Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;ul>
 &lt;li>Remember &lt;code>make time blocks a minimum of 1 second long, ideally 1.5 seconds to make it easier to read&lt;/code>.&lt;/li>
 &lt;/ul>
@@ -581,49 +565,33 @@ poster='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-st
 &lt;li>When you&amp;rsquo;re happy with the captions and timing, scroll up to Translate and choose the language you&amp;rsquo;d like your video to be translated into.
 To do this, select &lt;code>Translate from the Action menu and then select 'Automatic' for the AI translation as well as setting the language of your choice&lt;/code>.&lt;/li>
 &lt;/ul>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-3.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/U_jOc5WZCJs?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translating Your First Video: QuickTranscribe &amp;#43; Transcribe &amp;#43; Translate&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;ul>
 &lt;li>And that&amp;rsquo;s it! You&amp;rsquo;ve translated your first video! See below for the full video and step-by-step guide.&lt;/li>
 &lt;/ul>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-banner.jpg'
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-final-2.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/h0cF-ogBXSk?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Translating Your First Video: Full Flow&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
