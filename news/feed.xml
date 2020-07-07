@@ -11237,26 +11237,18 @@ src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen 
 &lt;li>&lt;code>Translate the video&lt;/code> from &lt;code>English to Hindi&lt;/code>.&lt;/li>
 &lt;/ul>
 &lt;p>The final result is below. Please note, we have &lt;code>not cleaned up the Hindi result&lt;/code>, this &lt;code>post is specifically about the limitations of AI&lt;/code>, and where the &lt;code>human subject matter expert needs to take stewardship over the AI&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribed_Equal_Rating_Innovation_Challenge_Semifinalist_Gram_Marg_hi.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/7xWoR0Gz2v4?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Gram Marg: An English video translated into Hindi&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Gram Marg: English, with Hindi captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>For context from the &lt;a href="http://grammarg.in">website&lt;/a>, &lt;code>Gram Marg's main aim is to empower rural India digitally by first and foremost bringing in Internet connectivity thereby empowering rural citizens digitally and in the due course, bringing rural India on board as a major contributor to economic growth and development&lt;/code>.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -11265,26 +11257,6 @@ poster=''
 &lt;/li>
 &lt;li>
 &lt;p>The &lt;a href="https://www.youtube.com/watch?v=QuzG8Ok0WKc">original video&lt;/a> was sourced from &lt;a href="https://www.youtube.com/channel/UCltqjpqVd-IowlC-iLp91eg">Mozilla&amp;rsquo;s YouTube channel&lt;/a>, and was produced under the auspices of their &lt;a href="https://www.equalrating.com/">Equal Rating&lt;/a> project. The team behind &lt;a href="http://grammarg.in/">Gram Marg&lt;/a> won the competition, and you should check out their work &lt;a href="http://grammarg.in/#!/technology">here&lt;/a> - it is a very interesting programme that could improve the lives of millions of people.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Equal_Rating_Innovation_Challenge_Semifinalist_Gram_Marg_original.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Gram Marg: Original Video in Indian English&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>As a first step, &lt;code>create a new item 'gm_en'&lt;/code> and &lt;code>upload the video&lt;/code>. This should look like the below when you have finished uploading.&lt;/p>
@@ -11328,26 +11300,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>This was then corrected manually as described in the &lt;code>heuristics section below&lt;/code>. This gives us the same video with English captions, shown below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribed_Equal_Rating_Innovation_Challenge_Semifinalist_Gram_Marg_en.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/sMzSEwKsxEU?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Gram Marg: English captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Gram Marg: English, now with captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>After that process, the content was translated using the &lt;code>Action -&amp;gt; Translate&lt;/code> modal shown below.&lt;/p>
@@ -11371,26 +11335,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>After the translation, we did not fix up the Hindi text. In a normal workflow, you would have a Hindi speaker eyeball and clean up the text for a superior result. The results are shown below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribed_Equal_Rating_Innovation_Challenge_Semifinalist_Gram_Marg_hi.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/7xWoR0Gz2v4?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Gram Marg: An English video translated into Hindi&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Gram Marg: English, with Hindi captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="heuristics">Heuristics&lt;/h2>
@@ -12655,29 +12611,21 @@ loading="lazy"
 &lt;p>This is a fairly complex post, and largely, it is not expected that the average user will need to use this functionality. Should you have any questions, specific to &lt;code>enterprise subscription&lt;/code> functionality, please talk to your account manager.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
-&lt;p>Should you have any questions, or just want to drop us a note saying hello, please feel free to send us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>English German Video Translation (What is a Babybündel?)</title><link>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</link><pubDate>January 10, 2019</pubDate><guid>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/transcribe_video_in_a_different_language_banner.jpg"/><description>Video Translator's platform provides a client with the ability to transcribe and translate content to/from a number of languages. Today we'll transcribe content to a different language, and use a practical example to demonstrate the technology.</description><content:encoded>&lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. What we are going to do today is transcribe content to a different language, and use a &lt;code>practical example&lt;/code> to demonstrate the technology.&lt;/p>
+&lt;p>Should you have any questions, or just want to drop us a note saying hello, please feel free to send us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>English To German Video Translation: What is a Babybündel?</title><link>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</link><pubDate>January 10, 2019</pubDate><guid>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/transcribe_video_in_a_different_language_banner.jpg"/><description>Video Translator's platform provides a client with the ability to transcribe and translate content to/from a number of languages. Today we'll transcribe content to a different language, and use a practical example to demonstrate the technology.</description><content:encoded>&lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. What we are going to do today is transcribe content to a different language, and use a &lt;code>practical example&lt;/code> to demonstrate the technology.&lt;/p>
 &lt;p>We will be using &lt;a href="https://twitter.com/NSWHealth/status/1076613352447631360">this&lt;/a> video, from the team at &lt;a href="https://www.health.nsw.gov.au/Pages/default.aspx">NSWHealth&lt;/a>. The video is a simple, but effective solution for young mothers, where NSWHealth provide a &lt;code>useful box of household items aimed at first time mothers&lt;/code>.&lt;/p>
 &lt;p>The idea is to (1) &lt;code>transcribe from English&lt;/code>, (2) &lt;code>translate to German&lt;/code>, (3) &lt;code>transcribe to German&lt;/code>, with the end output being the same video in German. To illustrate using a contrast, we use a &lt;code>male German voice&lt;/code>. That is, we are doing a &lt;code>English to German video translation&lt;/code>. Please &lt;code>play the video&lt;/code> to see the &lt;code>end result of the process&lt;/code> described below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/baby_bundle_german.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/rHsTd1fuMtw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Baby Bundle: English Audio Muted &amp;#43; German Audio Overlaid&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -12708,26 +12656,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Lets quickly &lt;code>create an item of type myTemplate&lt;/code>, called &lt;code>baby_bundle&lt;/code> and &lt;code>upload the video&lt;/code>. The voice&amp;rsquo;s are unsurprisingly, &lt;code>Australian female&lt;/code> which we will switch to &lt;code>German male&lt;/code> to demonstrate the multiple voices. Below is the original video from &lt;a href="https://twitter.com/NSWHealth">NSW Health&lt;/a>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/baby_bundle.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/O7ZER3ybKZk?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Baby Bundle: Original&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>We do a &lt;code>quick transcription&lt;/code>, and then investigate the returned &lt;code>Captions&lt;/code>. The captions are pretty good, but its important to check the result. A good rule of thumb is to check when different people start talking, as the differences in how two individuals sound, can confuse the AI.&lt;/p>
@@ -12848,26 +12788,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Please note that the &lt;code>German will be incorrect&lt;/code> - its just an AI. After translation, it is recommend that a &lt;code>human subject-matter expert clean up&lt;/code> the results. The Video Translator platform is built on the logic of &lt;code>AI assisting people&lt;/code>, the recommendation is to use the &lt;code>AI to do the heavy lifting&lt;/code>, and use the &lt;code>human to do the high value tasks&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/baby_bundle_german.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/rHsTd1fuMtw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Baby Bundle: Completed Video Translation&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
