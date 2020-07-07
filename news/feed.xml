@@ -10691,7 +10691,7 @@ src="https://www.youtube.com/embed/hsPOHh0H2rk?start=&amp;end=" allowfullscreen 
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
-&lt;p>We hope you enjoyed our explainer video. Feedback or Questions? We&amp;rsquo;d love to hear from you. Do let us know at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Reach Refugees, And Combat People Smugglers, With AI</title><link>https://videotranslator.ai/news/how-to-reach-refugees-and-combat-people-smugglers-with-ai/</link><pubDate>February 20, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-reach-refugees-and-combat-people-smugglers-with-ai/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-scare-people-smugglers-with-ai_banner.jpg"/><description>Video translation is all the rage in Sydney currently. The controversy revolves around a secret video, which the current Australian Prime Minister, Scott Morrison has apparently recorded.</description><content:encoded>&lt;p>&lt;code>Video translation is all the rage in Sydney currently&lt;/code>. It sounds hard to believe, but this is honestly the case at the moment. The controversy revolves around &lt;code>a secret video&lt;/code>, which the current Australian &lt;code>Prime Minister, Scott Morrison has (apparently) recorded&lt;/code>.&lt;/p>
+&lt;p>We hope you enjoyed our explainer video. Feedback or Questions? We&amp;rsquo;d love to hear from you. Do let us know at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Reach Refugees, And Combat People Smugglers, With AI</title><link>https://videotranslator.ai/news/how-to-reach-refugees-and-combat-people-smugglers-with-ai/</link><pubDate>February 20, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-reach-refugees-and-combat-people-smugglers-with-ai/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-reach-refugees-and-combat-people-smugglers-with-ai/how-to-fight-people-smugglers-with-ai-english-to-swahili-video-translation_banner.jpg"/><description>Video translation is all the rage in Sydney currently. The controversy revolves around a secret video, which the current Australian Prime Minister, Scott Morrison has apparently recorded.</description><content:encoded>&lt;p>&lt;code>Video translation is all the rage in Sydney currently&lt;/code>. It sounds hard to believe, but this is honestly the case at the moment. The controversy revolves around &lt;code>a secret video&lt;/code>, which the current Australian &lt;code>Prime Minister, Scott Morrison has (apparently) recorded&lt;/code>.&lt;/p>
 &lt;p>The gist of the news is that the Australian Prime Minister has recorded a video, which will be translated into a number of languages. &lt;code>Once translated&lt;/code>, the video will be &lt;code>broadcast in the media in different countries&lt;/code> including Indonesia, Malaysia, Thailand, Pakistan, Bangladesh, Sri Lanka, Afghanistan and Iraq. Obviously this is a concerning message, but it can well be argued &lt;code>we live in concerning times&lt;/code>.&lt;/p>
 &lt;p>What we would like to do in &lt;code>today's post&lt;/code> is show that sometimes, &lt;code>the stories are not all bad&lt;/code>. Specifically, in this case we took a video from &lt;a href="https://www.youtube.com/user/ImmiTV">BorderTV&lt;/a>, which is run by the &lt;a href="https://www.homeaffairs.gov.au/">Department of Home Affairs&lt;/a>.&lt;/p>
 &lt;p>Today we will do the following:&lt;/p>
@@ -10701,26 +10701,18 @@ src="https://www.youtube.com/embed/hsPOHh0H2rk?start=&amp;end=" allowfullscreen 
 &lt;li>Following this, we will &lt;code>use the second AI to translate&lt;/code> the content &lt;code>into Swahili, which the government is trying to popularise in South Sudan&lt;/code> to &lt;a href="https://www.worldatlas.com/articles/what-languages-are-spoken-in-sudan.html">encourage integration into the East African Economic Community&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;p>The end result is shown below, &lt;code>please play to see the Swahili&lt;/code> translation in the captions. Note, for a client facing asset, &lt;code>you would also translate the title, filename and associated metadata&lt;/code> into Swahili, the idea being &lt;code>search engines can properly index the content&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Aliirs_storyRefugee_Week_2017_sw.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/f4hdrMVDY60?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Aliir’s story: Swahili captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="context">Context&lt;/h2>
 &lt;p>Globally human trafficking is a serious law enforcement challenge. We do not particularly have ideas about how to combat this challenge. We think that serious people are looking into this, and &lt;code>if it makes sense for PM Morrison to make this video, there is probably good reason behind it&lt;/code>, seeing as he has better access to information from law enforcement. Snippets from this video have surfaced on the Internet, below is from ABC News sourced from &lt;a href="https://www.youtube.com/channel/UCULldxqht8mAVpBPTQlEAlA">here&lt;/a>.&lt;/p>
 &lt;div class="embed video-player">
@@ -10739,29 +10731,7 @@ src="https://www.youtube.com/embed/wce5QDeCuOk?start=33&amp;end=" allowfullscree
 &lt;p>These issues are complicated, but we think more stories need to be heard, and maybe we get lucky and our product helps someone find their voice.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
-&lt;li>
-&lt;p>The &lt;code>original video is shown below&lt;/code>, it was sourced from the &lt;a href="https://www.youtube.com/user/ImmiTV">Border TV&amp;rsquo;s&lt;/a> channel. Cynical minds may consider this a public relations exercise by the Department Of Home Affairs. However, &lt;code>these stories are real, and the information is well worth understanding&lt;/code> before &lt;code>coming to conclusions on this very contentious topic&lt;/code>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Aliirs_storyRefugee_Week_2017.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>BorderTV: Aliir’s story—Refugee Week 2017&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
-&lt;/li>
+&lt;li>The original video was sourced from the &lt;a href="https://www.youtube.com/user/ImmiTV">Border TV&amp;rsquo;s&lt;/a> channel. Cynical minds may consider this a public relations exercise by the Department Of Home Affairs. However, &lt;code>these stories are real, and the information is well worth understanding&lt;/code> before &lt;code>coming to conclusions on this very contentious topic&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;h2 id="steps---setting-up-swahili">Steps - Setting Up Swahili&lt;/h2>
 &lt;ol>
@@ -10890,26 +10860,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>After transcription, the below result is shown below. There was&lt;code> quite a lot of correction/addition after 1:30 -&amp;gt; 1:40&lt;/code>. This is because &lt;code>Aliir is talking about a fairly emotional time for himself and his family, so the intonation is quite different&lt;/code>, and the AI struggled with this.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Aliirs_storyRefugee_Week_2017_en.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/6kv9dz-JgAI?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Aliir’s story: English captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Now we translate. Using the same &lt;code>Action -&amp;gt; Translation&lt;/code>, we can &lt;code>translate from Australian English to Swahili&lt;/code>.&lt;/p>
@@ -10933,26 +10895,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>The end result after the translation from English to Swahili is shown below. Note, for your own projects, always &lt;code>have someone who speaks the target language eyeball the results&lt;/code>. The process shows an AI, which is likely to be very close to correct, but probably wrong in a few small ways.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Aliirs_storyRefugee_Week_2017_sw.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/f4hdrMVDY60?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Aliir’s story: Swahili captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -11476,7 +11430,7 @@ poster=''
 &lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate video content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
-&lt;p>The platform is currently in closed beta, where it is being tested. If you are interested in trying out our technology, please drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Transcribe English Into Hebrew: ChangePlan</title><link>https://videotranslator.ai/news/how-to-transcribe-english-into-hebrew-changeplan/</link><pubDate>February 11, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-transcribe-english-into-hebrew-changeplan/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/eng_heb_change_plan_banner.jpg"/><description>Video Translator's platform provides a client with the ability to transcribe and translate content to/from a number of languages. Today, we will be using our video translation platform on a video from our friends at ChangePlan.</description><content:encoded>&lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. Today, we will be using the video translation platform on a video from our friends at &lt;a href="https://changeplan.co/">ChangePlan&lt;/a>. We will do the following:&lt;/p>
+&lt;p>The platform is currently in closed beta, where it is being tested. If you are interested in trying out our technology, please drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Transcribe English Into Hebrew: ChangePlan</title><link>https://videotranslator.ai/news/how-to-transcribe-english-into-hebrew-changeplan/</link><pubDate>February 11, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-transcribe-english-into-hebrew-changeplan/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-transcribe-english-into-hebrew-changeplan/how-to-translate-an-english-video-into-hebrew_banner.jpg"/><description>Video Translator's platform provides a client with the ability to transcribe and translate content to/from a number of languages. Today, we will be using our video translation platform on a video from our friends at ChangePlan.</description><content:encoded>&lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. Today, we will be using the video translation platform on a video from our friends at &lt;a href="https://changeplan.co/">ChangePlan&lt;/a>. We will do the following:&lt;/p>
 &lt;ul>
 &lt;li>Transcribe ChangePlan&amp;rsquo;s video using &lt;code>Australian English&lt;/code>.&lt;/li>
 &lt;li>Fix up spelling/grammar in our captions.&lt;/li>
@@ -11484,26 +11438,18 @@ poster=''
 &lt;/ul>
 &lt;p>If you are looking to replicate this process, please note, after the translation step, it is highly recommended that you have a Hebrew qualified subject-matter expert finesse the captions. As always, &lt;code>use the AI to do the heavy lifting, and your own subject-matter experts to do the high value tasks&lt;/code>.&lt;/p>
 &lt;p>The end result is shown below. Please note &lt;code>we are using captions, and not text overlays&lt;/code>, to produce the below. In captions, we cannot control the details quite as well - in this example, &lt;code>had we used text overlays, we could have set the Hebrew text to be right-to-left&lt;/code>, but in captions we have simply set to centred.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribed_ChangePlan_intro_hebrew_captions.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/IhXhG9W10lA?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>ChangePlan: English, with Hebrew captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>A quick viewing of the video will show that &lt;code>certain words, such as ChangePlan, are not translated&lt;/code>. This is due to the fact that &lt;code>there is no translation of ChangePlan in Hebrew&lt;/code>, as this is a proper noun (technically, a named entity, for the NLP folks). In such cases, it is expected that the asset owner user phonetic transliteration, literally spell the sounds out in Hebrew. The Video Translator platform can be used for transliteration, see &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a> for more information.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -11511,27 +11457,7 @@ poster=''
 &lt;p>Please direct your browser to &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a>, and then click on the &lt;code>Login&lt;/code> button. &lt;code>Select myTemplate&lt;/code>, or your preferred template, and &lt;code>create a new item&lt;/code>. Note to follow this visual guide you will require a &lt;code>video component&lt;/code> only in your template.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>The original video is shown below. This was sourced from &lt;a href="https://www.linkedin.com/in/gavinwedell/">Gavin Wedell&lt;/a>, the brains behind &lt;a href="https://changeplan.co/">ChangePlan&lt;/a>. You should totally check out his work if ChangePlan seems relevant to your use case.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ChangePlan_intro_version_4a_flipped.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ChangePlan: Original video prior to transforms&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
+&lt;p>The original video was sourced from &lt;a href="https://www.linkedin.com/in/gavinwedell/">Gavin Wedell&lt;/a>, the brains behind &lt;a href="https://changeplan.co/">ChangePlan&lt;/a>. You should totally check out his work if ChangePlan seems relevant to your use case.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once in the new item, please upload the video, your screen should look similar to the below. In the below image, we have also scaled the size of the video.&lt;/p>
@@ -11646,26 +11572,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>On completion, the original video looks like below. Note, the Hebrew text has not been cleaned up in the below, mostly so the process can be fully documented.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/transcribed_ChangePlan_intro_hebrew_captions.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/IhXhG9W10lA?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>ChangePlan: English, with Hebrew captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ChangePlan: English, with Hebrew captions, after video translation is complete&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -12003,55 +11921,27 @@ loading="lazy"
 &lt;p>The platform is currently in closed beta, while we work out bugs in the code. Now however, you are able to&lt;code> post questions on our new forum&lt;/code>, and hopefully we can start getting some useful information up. Additionally, we will be adding topics from posts into the forum, so please feel free to &lt;code>add your feedback, or any questions you may have&lt;/code> on our new forum.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
-&lt;p>If you are interested in trying out our technology, please drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Transcribe A Foreign Language Video</title><link>https://videotranslator.ai/news/how-to-transcribe-a-foreign-language/</link><pubDate>January 22, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-transcribe-a-foreign-language/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-transcribe-a-foreign-language-video.jpg"/><description>Today we are going to look at how to transcribe a foreign language video. But how does this work when we live in a globalised world where people are from many different places - exactly what is foreign?</description><content:encoded>&lt;p>Today we are going to look at how to transcribe a foreign language video. But how does this work when we live in a globalised world where people are from many different places - exactly what is foreign?&lt;/p>
+&lt;p>If you are interested in trying out our technology, please drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Transcribe A Foreign Language Video</title><link>https://videotranslator.ai/news/how-to-transcribe-a-foreign-language/</link><pubDate>January 22, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-transcribe-a-foreign-language/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-transcribe-a-foreign-language-video.jpg"/><description>Today we are going to look at how to transcribe a foreign language video. But how does this work when we live in a globalized world where people are from many different places - exactly what is foreign?</description><content:encoded>&lt;p>Today we are going to look at how to transcribe a foreign language video. But how does this work when we live in a globalised world where people are from many different places - exactly what is foreign?&lt;/p>
 &lt;p>Well, Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>.&lt;/p>
 &lt;p>What we are looking at today, is &lt;code>how to transcribe a video in an language you do not know&lt;/code>. Mostly, we will make changes to a template, and implement these changes in our items. Here, we have &lt;code>Hindi captions&lt;/code> on a speech by Narendra Modi, the current Indian Prime Minister. The assumption is, &lt;code>we do not know Hindi&lt;/code>.&lt;/p>
 &lt;p>Note, &lt;code>no edits have been made&lt;/code> to the underlying text, not &lt;code>after the transcription, or after the translation&lt;/code>, hence the accuracy is low. As always, we recommend using the &lt;code>AI to do the heavy lifting, and using a human subject-matter expert to clean up&lt;/code> the results.&lt;/p>
 &lt;p>No really, &lt;code>use a subject matter expert&lt;/code> and &lt;code>do not cheap out on translators&lt;/code>. This tool is built &lt;code>to increase efficiency, not short change&lt;/code> staff/contractors.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Why_did_PM_Modi_say_the_country_has_to_decide_what_kind_of_Pradhan_Sevak_it_wants_english.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/ZkuivxuCU_0?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Narendra Modi speech with English captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="context">Context&lt;/h2>
 &lt;p>It is important to understand what we are doing. We &lt;code>want to transcribe the speech, but we do NOT know Hindi&lt;/code>, hence cannot translate this content. So we will &lt;code>pretend to translate our template&lt;/code>, but actually simply &lt;code>set it up to expect Hindi&lt;/code> content.&lt;/p>
 &lt;p>Then we add the Hindi content, but because the original template was in English, we can bring back the content (&lt;code>translate back from Hindi -&amp;gt; English&lt;/code>). Effectively a &lt;code>four transform process, English template -&amp;gt; Hindi template -&amp;gt; Hindi item&lt;/code>, and lastly because the original template was in English, we &lt;code>can take our Hindi item -&amp;gt; English item&lt;/code>.&lt;/p>
-&lt;p>It may be useful to also look at &lt;a href="https://videotranslator.ai/news/multi-lingual-forms-what-black-magic-is-this/">this post&lt;/a> to understand the strategy we are using. We will be modifying our templates to work with multiple languages, its just that in this case we do not know the language we are trying to use. The video content of the original can be seen below - the asset is publicly available content sourced from &lt;a href="https://www.youtube.com/user/rajyasabhatv">Rajya Sabha TV&lt;/a>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Why_did_PM_Modi_say_the_country_has_to_decide_what_kind_of_Pradhan_Sevak_it_wants.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>Narendra Modi original speech&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
+&lt;p>It may be useful to also look at &lt;a href="https://videotranslator.ai/news/multi-lingual-forms-what-black-magic-is-this/">this post&lt;/a> to understand the strategy we are using. We will be modifying our templates to work with multiple languages, its just that in this case we do not know the language we are trying to use. The video content is publicly available content sourced from &lt;a href="https://www.youtube.com/user/rajyasabhatv">Rajya Sabha TV&lt;/a>.&lt;/p>
 &lt;h2 id="steps---template">Steps - Template&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -12168,26 +12058,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Upload the video, and then transcribe to get the captions as required. This looks like below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Why_did_PM_Modi_say_the_country_has_to_decide_what_kind_of_Pradhan_Sevak_it_wants_hindi.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/5vvgC9NF2W4?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Narendra Modi speech with Hindi captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>We can now see the captions have been populated. Note, &lt;code>general workflow would include using a Hindi subject matter&lt;/code> expert to clean up the captions.&lt;/p>
@@ -12214,26 +12096,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Below, the translated version (into English) is shown, and watching it will show the errors. The error compounds, because (i) our transcript is not great, (ii) our translation was based on the same dodgy transcript.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Why_did_PM_Modi_say_the_country_has_to_decide_what_kind_of_Pradhan_Sevak_it_wants_english.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/ZkuivxuCU_0?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>Narendra Modi speech with English captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
