@@ -9184,26 +9184,18 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;p>यह वीडियो एमसीए कलेक्शन के बंगू यिलबारा कला के बारे में है । बंगू यिलबारा शब्द अपने आप में कला के प्रयास का वर्णन है, और उस काम को बनाने का इरादा के लिए , प्रदर्शनी के लिए काम का वर्णन करने पर ज्यादा ध्यान केंद्रित नहीं करना है।&lt;/p>
 &lt;p>प्रदर्शनी कुछ अतिरिक्त लेबल के बिना जीवन की वास्तविकता के साथ संपर्क में लाने के लिए, प्रयास और दृष्टि के लिए कलाकार अभ्यास से संबंधित कला को प्रदर्शित करने पर केंद्रित है।&lt;/p>
 &lt;p>नीचे, हमारे पास मुख्य वीडियो है, अंग्रेजी में प्रतिलेखन के बाद, और हिंदी में अनुवादित।&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_hi_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="कदम">क़दम&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -9268,26 +9260,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>एक बार प्रतिलेखन पूरा हो गया है तो, हम जल्दी से इसकी मानव प्रयास के साथ जांच करते है । और अंग्रेज़ी से हिंदी में कैप्शन का अनुवाद करने के लिए अनुवाद कार्रवाई का चयन कर दूसरे चरण पर आगे बढ़ते है ।&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_en_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/A6wyfgU9BBI?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>एक बार अनुवाद की कार्रवाई की और पूरा किया, तो उस हिंदी अनुवाद फ़ाइल के लिए फ़ाइल नाम के साथ एक पॉप अप बॉक्स दिखाई देता है । फ़ाइल का नाम भरे और अनुवाद को सुरक्षित रखने के लिए सबमिट बटन दबाए।&lt;/p>
@@ -9348,26 +9332,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>सब कर लिया गया! इस प्रक्रिया को पढ़ने के लिए धन्यवाद और अंतिम ऑटो-ओवरले वीडियो यहां देखें।&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_hi_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="नषकरष">निष्कर्ष&lt;/h2>
@@ -9377,26 +9353,18 @@ poster=''
 &lt;p>यदि आप हमारी तकनीक को आजमाने में रुचि रखते हैं, कृपया &lt;a href="https://videotranslator.ai/free-trial">हमारे प्लेटफार्म का प्रयोग&lt;/a> करे या हमें ईमेल भेजे &lt;a href="mailto:hello@videotranslator.ai">यहां&lt;/a> ।&lt;/p></content:encoded></item><item><title>A Nature Of Art Bangu Yilbara Collection: English To Hindi Video Transcription And Translation</title><link>https://videotranslator.ai/news/a-nature-of-art-bangu-yilbara-collection-english-to-hindi-video-transcription-and-translation/</link><pubDate>May 1, 2019</pubDate><guid>https://videotranslator.ai/news/a-nature-of-art-bangu-yilbara-collection-english-to-hindi-video-transcription-and-translation/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/a-nature-of-art_banner.png"/><description>This post is about Bangu Yilbara collection at Museum of Contemporary Art Australia (MCA) in Sydney. We describe how to transcribe the video in English, and then translate the video into Hindi, with the help of AI.</description><content:encoded>&lt;p>We got this video from &lt;a href="https://www.mca.com.au">Museum of Contemporary Art Australia&amp;rsquo;s&lt;/a> &lt;a href="https://www.youtube.com/MCAaustralia">Youtube page&lt;/a> This video is about Bangu Yilbara collection at the MCA. The collection is focused on art produced by the Aboriginal and Torres Straits Islander cultures.&lt;/p>
 &lt;p>The exhibition focuses on the diversity of Aboriginal and Torres Straits Islander culture, primarily by looking to the artists to define their work, as opposed to labelling the work &amp;lsquo;Aboriginal&amp;rsquo; and boxing it into any particular style.&lt;/p>
 &lt;p>Below, we have the final video, after transcription into English, and translation into Hindi.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_hi_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>A Nature Of Art Bangu Yilbara Collection: English To Hindi Video Transcription And Translation&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>A Nature Of Art Bangu Yilbara Collection : English To Hindi Video Transcription And Translation&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
 &lt;li>
@@ -9461,26 +9429,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Once transcription is complete, we quickly check it with human effort. And move forward to other step to Trigger Translate action to translate captions from English to Hindi.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_en_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/A6wyfgU9BBI?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>MCA: Trigger Translation&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Once the Translate action is performed and complete, a pop up box appear with file name you want for that Hindi translation file. Input file name and click on Submit button to save the Translation.&lt;/p>
@@ -9541,26 +9501,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>That’s all. Thank you for reading this process and check out the final Auto-Overlay video here.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/mca_hi_caps.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
 &lt;p>MCA: Original Video with Hindi Overlay&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -11174,52 +11126,24 @@ src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen 
 &lt;li>&lt;code>Fix up the results&lt;/code> of the transcription.&lt;/li>
 &lt;li>Use the &lt;code>AI Translation&lt;/code> from &lt;code>English to Chinese&lt;/code> to translate the video.&lt;/li>
 &lt;/ul>
-&lt;p>Please note, &lt;code>we will not be fixing up the Chinese language&lt;/code> translation post AI translation, as this post covers the process itself. For a client facing output,&lt;code> please work with a language aware subject matter specialist&lt;/code> to ensure a&lt;code> high quality artefact&lt;/code> at the end of your process.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Australian_National_University_Institute_for_Communication_in_Health_Care_zh.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;p>Please note, &lt;code>we will not be fixing up the Chinese language&lt;/code> translation post AI translation, as this post covers the process itself. For a client facing output,&lt;code> please work with a language aware subject matter specialist&lt;/code> to ensure a &lt;code>high quality artefact&lt;/code> at the end of your process.&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>ICH: English Original With Chinese Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ICH: English, with Chinese captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;p>First we will look at the process by which this video translation was completed. Then, a discussion on challenges and options around the video translation. Finally, some extra options and how they can be used to meet your client&amp;rsquo;s requirements.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
 &lt;li>
-&lt;p>The original video is shown below, it was sourced from the &lt;a href="http://slll.cass.anu.edu.au/centres/ich/home">ICH website&lt;/a>.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/Australian_National_University_Institute_for_Communication_in_Health_Care_org.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
-&lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ICH: Original Asset&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
+&lt;p>The original video was sourced from the &lt;a href="http://slll.cass.anu.edu.au/centres/ich/home">ICH website&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Please direct your browser to &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a>, and then click on the &lt;code>Login&lt;/code> button. &lt;code>Select myTemplate&lt;/code>, or your preferred template, and &lt;code>create a new item&lt;/code>. Note to follow this visual guide you will require a &lt;code>video component&lt;/code> only in your template.&lt;/p>
@@ -11269,26 +11193,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>Open up the item, and have a look at the captions. The main task here, is to &lt;code>fix up the transcription&lt;/code>. The heuristics section below covers some of the issues around this specific video. &lt;code>After fixing up&lt;/code>, the end result is below.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Australian_National_University_Institute_for_Communication_in_Health_Care_en.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/6Q0bJc1fQsA?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>ICH: English Original With English Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ICH: English, with English captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;li>
 &lt;p>Sweet! Now that we have our transcription sorted, we can translate. Now, click &lt;code>Action -&amp;gt; Translation&lt;/code>, to trigger the video captions being translated. This is a pretty simple process, and can be seen in the image below.&lt;/p>
@@ -11332,26 +11248,18 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>The final version of the video is shown below. In a real workflow, please ask your subject matter expert to eyeball the translation and verify suitability for your stakeholders.&lt;/p>
-&lt;center>
-&lt;div class="wrapper video-wrapper inner">
-&lt;div class="videocontent">
-&lt;video
-id='my-video'
-class='video-js'
-controls
-preload="metadata"
-width="640" height="264"
-poster=''
->
-&lt;source src='https://storage.googleapis.com/site-assets-prod/blog_assets/ffmpeged_Australian_National_University_Institute_for_Communication_in_Health_Care_zh.mp4' type='video/mp4'>
-&lt;p class='vjs-no-js'>To view this video please enable JavaScript, and consider upgrading to a web browser that &lt;a rel="nofollow" href='https://videojs.com/html5-video-support/' target='_blank'>supports HTML5 video&lt;/a>&lt;/p>
-&lt;/video>
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>ICH: English Original With Chinese Captions&lt;/p>
+&lt;/figcaption>
 &lt;/div>
-&lt;div class="brightColor caption">
-&lt;p>ICH: English, with Chinese captions&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;/center>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="heuristicsnotes">Heuristics/Notes&lt;/h2>
