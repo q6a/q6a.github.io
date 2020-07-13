@@ -27,7 +27,8 @@ loading="lazy"
 &lt;p>Too many companies from non-English speaking countries have been burnt by smooth talking salesmen who disappeared after making the sale.&lt;/p>
 &lt;p>&lt;code>AI Dubbing sets the tone - a commitment to a new relationship.&lt;/code>&lt;/p>
 &lt;h2 id="redefine-the-relationship-using-language---service-internationalizationlocalization">Redefine The Relationship Using Language - Service Internationalization/Localization&lt;/h2>
-&lt;p>QAChef&amp;rsquo;s clients are global players, and implementing new technology is always in the context of successful internationalization. There are three ways to implement service level internationalization.&lt;/p>
+&lt;p>QAChef&amp;rsquo;s clients are global players, and implementing new technology is always part of the context of successful internationalization.&lt;/p>
+&lt;p>There are three ways to implement service level internationalization.&lt;/p>
 &lt;ul>
 &lt;li>App Internationalization/Localization&lt;/li>
 &lt;li>Website Internationalization/Localization&lt;/li>
@@ -100,6 +101,7 @@ src="https://www.youtube.com/embed/5tv9lN227co?start=&amp;end=" allowfullscreen 
 &lt;p>QAChef: CEO Message - Chinese&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;p>&lt;code>The use case here was as part of a pitch to a global player with a significant mainland China footprint.&lt;/code>&lt;/p>
 &lt;h2 id="video-translation-in-arabic">Video Translation In Arabic&lt;/h2>
 &lt;div class="embed video-player">
 &lt;iframe
@@ -113,12 +115,13 @@ src="https://www.youtube.com/embed/v1icDo_1v9k?start=&amp;end=" allowfullscreen 
 &lt;p>QAChef: CEO Message - Arabic&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;p>&lt;code>The use case here was as part of a pitch to a major supplier to the aviation industry across the MENA region.&lt;/code>&lt;/p>
 &lt;h2 id="notes-on-video-translation">Notes On Video Translation&lt;/h2>
 &lt;p>Its quite important to remember a few rules of thumb when you are doing a video translation.&lt;/p>
 &lt;ul>
 &lt;li>&lt;code>As you move up information complexity, the quality of AI gets worse.&lt;/code> Why? Because higher complexity information is scarce - so its hard to train an AI on it. Hence &lt;code>you need human subject matter expert post editing.&lt;/code>&lt;/li>
-&lt;li>&lt;code>Don't sell the AI dubbed content as human. People are not silly.&lt;/code> Explain it is an AI - and no one will forget your pitch.&lt;/li>
-&lt;li>&lt;/li>
+&lt;li>&lt;code>Don't sell the AI dubbed content as human. People are not silly, anyone can tell the difference between a human and a machine.&lt;/code> Explain it is an AI - and no one will forget your pitch.&lt;/li>
+&lt;li>If you put your video through a voice translator, the above will not be the output. &lt;code>There is a layer of diacritics being used prior to the AI dubbing. &lt;/code>&lt;/li>
 &lt;/ul>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>We hope you enjoyed the post, and stay tuned for more content!&lt;/p>
