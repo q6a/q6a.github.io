@@ -1,4 +1,112 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How NSW Health Is Using Video Translation To Empower Occupational Therapists</title><link>https://videotranslator.ai/news/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/</link><pubDate>August 25, 2020</pubDate><guid>https://videotranslator.ai/news/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists-banner.jpg"/><description>Working with developmentally challenged children is very rewarding work. Read how NSW Health is using video translation to help its occupational therapists.</description><content:encoded>&lt;p>One major challenge in diverse societies is the provision of healthcare services.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>The Implications Of AI Adoption In Our Tools</title><link>https://videotranslator.ai/news/the-implications-of-ai-adoption-in-our-tools/</link><pubDate>August 26, 2020</pubDate><guid>https://videotranslator.ai/news/the-implications-of-ai-adoption-in-our-tools/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-implications-of-ai-adoption-in-our-tools/the-implications-of-ai-adoption-in-our-tools-banner.jpg"/><description>AI transcription is now a standard feature in productivity toolkits. What does this mean for your business?</description><content:encoded>&lt;p>AI is everywhere in the news these days. But something critical has changed recently.&lt;/p>
+&lt;p>&lt;code>In the near past, AI has gone from being super fancy to being, well... pedestrian.&lt;/code>&lt;/p>
+&lt;p>Say what now?&lt;/p>
+&lt;p>Well - AI is becoming ordinary. And turning up in our office/productivity toolkits.&lt;/p>
+&lt;p>In recent days, Google has expanded its offering using AI, as has Microsoft, and so has Amazon.&lt;/p>
+&lt;p>&lt;code>What does this mean for how we work, and how can you use this trend to advantage your business?&lt;/code>&lt;/p>
+&lt;h2 id="nifty-live-transcription-features-in-android">Nifty Live Transcription Features In Android&lt;/h2>
+&lt;p>Google is all over this space. I mean, why wouldn&amp;rsquo;t they be?&lt;/p>
+&lt;center>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Google Duo is working on messages transcription &lt;a href="https://t.co/kEltrIKULj">pic.twitter.com/kEltrIKULj&lt;/a>&lt;/p>&amp;mdash; Jane Manchun Wong (@wongmjane) &lt;a href="https://twitter.com/wongmjane/status/1233119639770730496?ref_src=twsrc%5Etfw">February 27, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/center>
+&lt;p>And there are all kinds of features.&lt;/p>
+&lt;center>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a noisy place? No problem. Captions are now available on Google Duo, so you won’t miss a word of your video and voice messages. &lt;a href="https://t.co/jqEvy9Vyn7">https://t.co/jqEvy9Vyn7&lt;/a> &lt;a href="https://t.co/gq5Z2ntn5P">pic.twitter.com/gq5Z2ntn5P&lt;/a>&lt;/p>&amp;mdash; Made by Google (@madebygoogle) &lt;a href="https://twitter.com/madebygoogle/status/1296175585929003008?ref_src=twsrc%5Etfw">August 19, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;/center>
+&lt;p>Very cool.&lt;/p>
+&lt;p>&lt;code>Full disclosure - videotranslator uses Google's AI Cloud offering for two parts of our value proposition. In video translation, the first step is a Speech-To-Text AI transcription, the second step is a Text-To-Text AI translation, and the thrid step is a Text-To-Speech AI dubbing.&lt;/code>&lt;/p>
+&lt;p>We use Google AI Cloud offering for step 1 and step 3.&lt;/p>
+&lt;p>Have a look at the &lt;a href="https://www.reviewgeek.com/49525/googles-live-caption-tool-now-transcribes-video-and-voice-calls-on-pixel-phones/">ReviewGeek article&lt;/a> about it too!&lt;/p>
+&lt;h2 id="microsoft-has-no-intention-of-being-left-behind">Microsoft Has No Intention Of Being Left Behind&lt;/h2>
+&lt;p>In &lt;a href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/?ocid=usoc_TWITTER_M365_spl100001467359421">this article&lt;/a> - hot off the presses, all of 2 days ago - Microsoft talks about how to use transcription in its Office 365 offering.&lt;/p>
+&lt;center>
+&lt;figure class="img-bod ">
+&lt;a href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/?ocid=usoc_TWITTER_M365_spl100001467359421">
+&lt;span>
+&lt;img
+src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/the-implications-of-ai-adoption-in-our-tools/ms-transcription-with-audio-upload.gif"
+alt="Transcribe in Word is available today in Word for the web for all Microsoft 365 subscribers"
+layout="responsive"
+class="img-responsive lazyload"
+loading="lazy"
+/>
+&lt;/span>
+&lt;/a>
+&lt;figcaption>
+&lt;a href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/08/25/microsoft-365-transcription-voice-commands-word/?ocid=usoc_TWITTER_M365_spl100001467359421">Transcribe in Word is available today in Word for the web for all Microsoft 365 subscribers&lt;/a>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/center>
+&lt;p>Also very cool.&lt;/p>
+&lt;p>&lt;code>Second full disclosure - videotranslator uses Azure Cloud AI to manage the Text-To-Text AI translation in our application.&lt;/code>&lt;/p>
+&lt;p>Also why we keep an eye on the Microsoft blog. Its actually very good, so maybe &lt;a href="https://www.microsoft.com/en-us/microsoft-365/blog/">you should check it out too&lt;/a>?&lt;/p>
+&lt;h2 id="amazon-joins-the-party-too">Amazon Joins The Party Too&lt;/h2>
+&lt;p>This &lt;a href="https://www.nojitter.com/contact-center-customer-experience/aws-delivers-ai-services-contact-center-partners">super interesting post&lt;/a> - seriously, you should have a read - by &lt;a href="https://www.nojitter.com/author/sheila-mcgee-smith">Sheila McGee-Smith&lt;/a> covers the approach Amazon is taking with its AI offering.&lt;/p>
+&lt;p>We don&amp;rsquo;t really use the Amazon AI suite, but its focus is enabling enterprise service delivery, so are not really experts on it. However, the below is a really good image which shows how certain Amazon partners are using the new capabilities.&lt;/p>
+&lt;center>
+&lt;figure class="img-bod ">
+&lt;a href="https://www.nojitter.com/contact-center-customer-experience/aws-delivers-ai-services-contact-center-partners">
+&lt;span>
+&lt;img
+src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/the-implications-of-ai-adoption-in-our-tools/amazon-acqueon-ai-integration-model.jpg"
+alt="AWS Acqueon AI integration model - source Sheila McGee-Smith"
+layout="responsive"
+class="img-responsive lazyload"
+loading="lazy"
+/>
+&lt;/span>
+&lt;/a>
+&lt;figcaption>
+&lt;a href="https://www.nojitter.com/contact-center-customer-experience/aws-delivers-ai-services-contact-center-partners">AWS Acqueon AI integration model - source Sheila McGee-Smith&lt;/a>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/center>
+&lt;p>Very cool.&lt;/p>
+&lt;p>&lt;code>So it's cool because we are moving to looking at the innards of how this works, as opposed to hand waving about how awesome AI is. This is a critical point in the how AI is perceived, and hence used, in the real world.&lt;/code>&lt;/p>
+&lt;h2 id="how-can-your-business-make-use-of-this-explosion-in-capability">How Can Your Business Make Use Of This Explosion In Capability&lt;/h2>
+&lt;p>So you probably have either GSuite, MS Office or some similar kind of productivity tool. Are you likely to use these capabilities?&lt;/p>
+&lt;p>&lt;code>Well... maybe, I guess.&lt;/code>&lt;/p>
+&lt;p>I&amp;rsquo;m probably not, at least not immediately. So what is this article about?&lt;/p>
+&lt;h3 id="how-ai-can-actually-make-a-difference-to-a-business">How AI Can Actually Make A Difference To A Business&lt;/h3>
+&lt;p>&lt;code>AI needs to get you more clients.&lt;/code> That is pretty much all there is to it.&lt;/p>
+&lt;p>Making cat videos is all good, and lots of exciting things are happening in TikTok type tools, but what can you actually do with it?&lt;/p>
+&lt;p>&lt;code>It's all about stackable marketing.&lt;/code>&lt;/p>
+&lt;p>That&amp;rsquo;s it. That is the win. Not much more to it.&lt;/p>
+&lt;h3 id="how-do-i-make-my-video-marketing-stack">How Do I Make My Video Marketing Stack?&lt;/h3>
+&lt;p>So you make some kind of content. Blog post, video, LinkedIn article, podcast.&lt;/p>
+&lt;p>Two of these are not like the other two. Anything with text in it, can be searched.&lt;/p>
+&lt;p>Read more about exactly how we can help you in the blog post below.&lt;/p>
+&lt;center>
+&lt;figure class="img-bod ">
+&lt;a href="https://videotranslator.ai/news/ai-internationalization-how-subtitling-can-boost-roi/">
+&lt;span>
+&lt;img
+src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+data-src="https://storage.googleapis.com/site-assets-prod/blog_assets/the-implications-of-ai-adoption-in-our-tools/service-localization-has-three-components-app-website-stackable-marketing.jpg"
+alt="How to boost marketing ROI with your media assets"
+layout="responsive"
+class="img-responsive lazyload"
+loading="lazy"
+/>
+&lt;/span>
+&lt;/a>
+&lt;figcaption>
+&lt;a href="https://videotranslator.ai/news/ai-internationalization-how-subtitling-can-boost-roi/">How to boost marketing ROI with your media assets&lt;/a>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/center>
+&lt;p>&lt;code>The actual utility of AI transcription, and translation - which videotranslator is all about - is to add text components to audio and video content for the explicit purpose of SEO.&lt;/code>&lt;/p>
+&lt;h3 id="does-ai-adoption-in-productivity-suites-increase-audiovideo-seo">Does AI Adoption In Productivity Suites Increase Audio/Video SEO?&lt;/h3>
+&lt;p>&lt;code>Yes, but... you still need to do the work to ensure the right content is targeted at the right channels.&lt;/code>&lt;/p>
+&lt;p>The other big challenge is this - as we move up information complexity, AI accuracy reduces.&lt;/p>
+&lt;p>Do NOT rely only on the AI - this is your business, and its reason for existence is to offer high complexity solutions to specific business problems. AI can help get you there, but is not a substitution for human subject matter experts.&lt;/p>
+&lt;p>Let me repeat that - &lt;code>AI is not a substitute for human subject matter experts, and the industry is not remotely close to substituting AI for human judgement.&lt;/code>&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Are you interested in our work? &lt;a href="https://calendly.com/tbanerjee/translation-starter-call">Reach out and say hello&lt;/a> or get in touch some other way to start something&amp;hellip;&lt;/p>
+&lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
+&lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How NSW Health Is Using Video Translation To Empower Occupational Therapists</title><link>https://videotranslator.ai/news/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/</link><pubDate>August 25, 2020</pubDate><guid>https://videotranslator.ai/news/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists/how-nsw-heath-is-using-video-translation-to-empower-occupational-therapists-banner.jpg"/><description>Working with developmentally challenged children is very rewarding work. Read how NSW Health is using video translation to help its occupational therapists.</description><content:encoded>&lt;p>One major challenge in diverse societies is the provision of healthcare services.&lt;/p>
 &lt;p>In western Sydney, this problem is directly tackled by the &lt;a href="https://www.swslhd.health.nsw.gov.au/">South-West Sydney Local Health District&lt;/a>, which sits under &lt;a href="https://www.health.nsw.gov.au/Pages/default.aspx">New South Wales Health&lt;/a>.&lt;/p>
 &lt;p>Ok - so obviously this is complicated stuff. But how does video translation help?&lt;/p>
 &lt;p>&lt;code>If you don't speak good English, specifically business English, finding information is very hard. The doctor is the only resource who can help, but what happens when they don't speak your language?&lt;/code>&lt;/p>
