@@ -99,11 +99,11 @@ src="https://www.youtube.com/embed/6e_nm65Qv9E?start=&amp;end=" allowfullscreen 
 &lt;h2 id="nifty-live-transcription-features-in-android">Nifty Live Transcription Features In Android&lt;/h2>
 &lt;p>Google is all over this space. I mean, why wouldn&amp;rsquo;t they be?&lt;/p>
 &lt;center>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Google Duo is working on messages transcription &lt;a href="https://t.co/kEltrIKULj">pic.twitter.com/kEltrIKULj&lt;/a>&lt;/p>&amp;mdash; Jane Manchun Wong (@wongmjane) &lt;a href="https://twitter.com/wongmjane/status/1233119639770730496?ref_src=twsrc%5Etfw">February 27, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Google Duo is working on messages transcription &lt;a href="https://t.co/kEltrIKULj">pic.twitter.com/kEltrIKULj&lt;/a>&lt;/p>— Jane Manchun Wong (@wongmjane) &lt;a href="https://twitter.com/wongmjane/status/1233119639770730496?ref_src=twsrc%5Etfw">February 27, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;/center>
 &lt;p>And there are all kinds of features.&lt;/p>
 &lt;center>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a noisy place? No problem. Captions are now available on Google Duo, so you won’t miss a word of your video and voice messages. &lt;a href="https://t.co/jqEvy9Vyn7">https://t.co/jqEvy9Vyn7&lt;/a> &lt;a href="https://t.co/gq5Z2ntn5P">pic.twitter.com/gq5Z2ntn5P&lt;/a>&lt;/p>&amp;mdash; Made by Google (@madebygoogle) &lt;a href="https://twitter.com/madebygoogle/status/1296175585929003008?ref_src=twsrc%5Etfw">August 19, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a noisy place? No problem. Captions are now available on Google Duo, so you won’t miss a word of your video and voice messages. &lt;a href="https://t.co/jqEvy9Vyn7">https://t.co/jqEvy9Vyn7&lt;/a> &lt;a href="https://t.co/gq5Z2ntn5P">pic.twitter.com/gq5Z2ntn5P&lt;/a>&lt;/p>— Made by Google (@madebygoogle) &lt;a href="https://twitter.com/madebygoogle/status/1296175585929003008?ref_src=twsrc%5Etfw">August 19, 2020&lt;/a>&lt;/blockquote> &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;/center>
 &lt;p>Very cool.&lt;/p>
 &lt;p>&lt;code>Full disclosure - videotranslator uses Google's AI Cloud offering for two parts of our value proposition. In video translation, the first step is a Speech-To-Text AI transcription, the second step is a Text-To-Text AI translation, and the thrid step is a Text-To-Speech AI dubbing.&lt;/code>&lt;/p>
@@ -155,6 +155,7 @@ loading="lazy"
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
+&lt;p>&lt;img src="https://videotranslator.ai/uploads/why-you-should-translate-video-content-a-client-perspective_banner.jpg" alt="">&lt;/p>
 &lt;p>Very cool.&lt;/p>
 &lt;p>&lt;code>So it's cool because we are moving to looking at the innards of how this works, as opposed to hand waving about how awesome AI is. This is a critical point in the how AI is perceived, and hence used, in the real world.&lt;/code>&lt;/p>
 &lt;h2 id="how-can-your-business-make-use-of-this-explosion-in-capability">How Can Your Business Make Use Of This Explosion In Capability&lt;/h2>
