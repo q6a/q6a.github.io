@@ -26,7 +26,8 @@ src="https://www.youtube.com/embed/6e_nm65Qv9E?start=&amp;end=" allowfullscreen 
 &lt;p>Curt is a very interesting entrepreneur, and you should totally check out his channel - &lt;a href="https://www.youtube.com/c/TheoriesofEverything" title="Theories of Everything with Curt Jaimungal">Theories of Everything with Curt Jaimungal&lt;/a>!&lt;/p>
 &lt;p>The below images are used with his permission.&lt;/p>
 &lt;h2 id="the-use-case">The Use-Case&lt;/h2>
-&lt;p>&lt;img src="https://videotranslator.ai/uploads/it-would-be-great-if-i-could-simply-drag-and-drop-it-into-a-program-and-it-would-output-the-lecturer-speaking-in-english.jpg" alt="'&amp;hellip; it would be great if I could simply drag and drop it into a program and it would output the lecturer speaking in English'" title="Use Case: Translating Lectures">&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/it-would-be-great-if-i-could-simply-drag-and-drop-it-into-a-program-and-it-would-output-the-lecturer-speaking-in-english.jpg" alt="&amp;#39;&amp;amp;hellip; it would be great if I could simply drag and drop it into a program and it would output the lecturer speaking in English&amp;#39;" title="Use Case: Translating Lectures" layout="responsive" class="img-responsive lazyload" loading="lazy" />
+&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/it-would-be-great-if-i-could-simply-drag-and-drop-it-into-a-program-and-it-would-output-the-lecturer-speaking-in-english.jpg">Use Case: Translating Lectures &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>&lt;strong>Right - so what is Curt asking about here?&lt;/strong>&lt;/p>
 &lt;p>The use case is quite straight forward to understand, &amp;ldquo;&amp;hellip; it would be great if I could simply drag and drop it into a program and it would output the lecturer speaking in English&amp;rdquo;&lt;/p>
 &lt;p>If we were to restate it, the use case here is that the client wants to:&lt;/p>
@@ -54,20 +55,23 @@ src="https://www.youtube.com/embed/6e_nm65Qv9E?start=&amp;end=" allowfullscreen 
 &lt;p>Have a look at this blog post - &lt;a href="https://videotranslator.ai/news/samples-from-a-voice-over-robot-french-german-and-dutch/" title="Samples From A Voice Over Robot: French, German and Dutch">Samples From A Voice Over Robot: French, German and Dutch&lt;/a> - it covers how we use different AI&amp;rsquo;s for different gender effect, age effects etc.&lt;/p>
 &lt;h2 id="but-what-are-the-implications-of-an-ai-workflow">But what are the implications of an AI workflow?&lt;/h2>
 &lt;p>So we just pointed out how we can do what Curt wants, so why are we saying its messy?&lt;/p>
-&lt;p>&lt;img src="https://videotranslator.ai/uploads/three-step-process-to-video-translation-step1-transcription-step2-translation-step3-dubbing.jpg" alt="Three step process for video translation, (1) transcribe, (2) translate, and (3) synthetic voice over" title="Three step process for video translation, (1) transcribe, (2) translate, and (3) synthetic voice over">&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/three-step-process-to-video-translation-step1-transcription-step2-translation-step3-dubbing.jpg" alt="Three step process for video translation, (1) transcribe, (2) translate, and (3) synthetic voice over" title="Three step process for video translation, (1) transcribe, (2) translate, and (3) synthetic voice over" layout="responsive" class="img-responsive lazyload" loading="lazy" />
+&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/three-step-process-to-video-translation-step1-transcription-step2-translation-step3-dubbing.jpg">Three step process for video translation, (1) transcribe, (2) translate, and (3) synthetic voice over &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>To fully translate a video from German to English, we would do the below.&lt;/p>
 &lt;p>Upload the German video and use an AI to transcribe, resulting in a caption file (&lt;code>*.srt&lt;/code>).&lt;/p>
 &lt;p>After this, a human subject matter expert needs to clean up the captions.&lt;/p>
 &lt;p>Now, the Text-To-Text translation AI can be used. Again, a human subject matter expert should be used to sanity check the translation.&lt;/p>
 &lt;p>Finally, the third AI can be used to provide the synthetic voice over (&lt;code>*.mp4&lt;/code>).&lt;/p>
 &lt;h2 id="what-happens-without-human-oversight">What happens without human oversight?&lt;/h2>
-&lt;p>&lt;img src="https://videotranslator.ai/uploads/ai-gets-worse-as-we-move-up-information-complexity.jpg" alt="">&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/ai-gets-worse-as-we-move-up-information-complexity.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />
+&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/ai-gets-worse-as-we-move-up-information-complexity.jpg"> &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>As we move up information complexity, the quality of the AI&amp;rsquo;s output gets worse&amp;hellip; &lt;strong>but why?&lt;/strong>&lt;/p>
 &lt;p>High complexity information is valuable. You pay lots to go to a doctor or lawyer.&lt;/p>
 &lt;p>The information the doctor or lawyer has is &lt;strong>scarce&lt;/strong>. This is why they are expensive - not many people have the skills that the doctor or lawyer has..&lt;/p>
 &lt;p>&lt;strong>This scarcity means, there is less information on the internet, to train an AI with - this is why the quality falls a little bit.&lt;/strong>&lt;/p>
 &lt;h2 id="how-do-i-start-with-video-translation">How Do I Start With Video Translation?&lt;/h2>
-&lt;p>&lt;img src="https://videotranslator.ai/uploads/how-to-get-started-with-video-translation-step1-only-english-captions-step2-upload-to-multiple-channels.jpg" alt="How Do I Start With Video Translation?" title="How Do I Start With Video Translation?">&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-get-started-with-video-translation-step1-only-english-captions-step2-upload-to-multiple-channels.jpg" alt="How Do I Start With Video Translation?" title="How Do I Start With Video Translation?" layout="responsive" class="img-responsive lazyload" loading="lazy" />
+&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-get-started-with-video-translation-step1-only-english-captions-step2-upload-to-multiple-channels.jpg">How Do I Start With Video Translation? &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>Just start with English (or in this case, German) transcripts - don&amp;rsquo;t translate to begin with&amp;hellip; &lt;strong>Why?&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>The value add of captions is all about search.&lt;/strong>&lt;/p>
 &lt;p>Search engines don&amp;rsquo;t understand audio or video! They only understand text.&lt;/p>
@@ -88,7 +92,8 @@ src="https://www.youtube.com/embed/6e_nm65Qv9E?start=&amp;end=" allowfullscreen 
 &lt;p>&lt;code>Make small slices of the best bits of the video and use Captions + Auto-Overlay to measure engagement.&lt;/code>&lt;/p>
 &lt;p>Honestly, all you can do is try, measure, and refine.&lt;/p>
 &lt;p>No silver bullets (or snake oil) here sorry.&lt;/p>
-&lt;p>&lt;img src="https://videotranslator.ai/uploads/wanted-to-thank-you-for-responding-so-comprehensively-and-promptly-great-service.jpg" alt="">&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/wanted-to-thank-you-for-responding-so-comprehensively-and-promptly-great-service.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />
+&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/wanted-to-thank-you-for-responding-so-comprehensively-and-promptly-great-service.jpg"> &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>&lt;strong>Thank you very much for the kind words Curt!&lt;/strong>&lt;/p>
 &lt;p>Please let the team know if we can help out in any other way.&lt;/p></content:encoded></item><item><title>The Implications Of AI Adoption In Our Tools</title><link>https://videotranslator.ai/news/the-implications-of-ai-adoption-in-our-tools/</link><pubDate>August 26, 2020</pubDate><guid>https://videotranslator.ai/news/the-implications-of-ai-adoption-in-our-tools/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-implications-of-ai-adoption-in-our-tools/the-implications-of-ai-adoption-in-our-tools-banner.jpg"/><description>AI transcription is now a standard feature in productivity toolkits. What does this mean for your business?</description><content:encoded>&lt;p>AI is everywhere in the news these days. But something critical has changed recently.&lt;/p>
 &lt;p>&lt;code>In the near past, AI has gone from being super fancy to being, well... pedestrian.&lt;/code>&lt;/p>
