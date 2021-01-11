@@ -49,6 +49,7 @@
 &lt;p>God bless you all and thank you very much!&lt;/p>
 &lt;p>Tathagat Banerjee&lt;/p></content:encoded></item><item><title>Merry Christmas 2020! Thank You From Video Translator</title><link>https://videotranslator.ai/news/merry-christmas-2020-thank-you-from-video-translator/</link><pubDate>December 24, 2020</pubDate><guid>https://videotranslator.ai/news/merry-christmas-2020-thank-you-from-video-translator/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/merry-christmas.jpg"/><description>Thank you everyone for all your support. Its been an exciting year, and we hope you found peace and happiness in this festive season!</description><content:encoded>&lt;p>What a year it&amp;rsquo;s been! From getting locked down, to the great conjugation!&lt;/p>
 &lt;h2 id="obligatory-dancing-santa">Obligatory Dancing Santa!&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -60,6 +61,7 @@ src="https://www.youtube.com/embed/6e_nm65Qv9E?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Merry Christmas 2020! Thank you for all the support!&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="thank-you">Thank You&lt;/h2>
 &lt;p>&lt;strong>Thank you everyone for all your support! We want to wish you and yours a Merry Christmas!&lt;/strong>&lt;/p>
@@ -272,6 +274,7 @@ loading="lazy"
 &lt;p>Specifically, &lt;code>how to get information to the family unit&lt;/code> - because if you can get the family to incorporate behavioural changes - that is the win, but across multiple languages.&lt;/p>
 &lt;p>&lt;strong>The idea is to get information in different languages to the community - this allows families to educate themselves about the challenges, thus making time spent with doctors/nurses far more effective.&lt;/strong>&lt;/p>
 &lt;p>This is what the original English video is - OT&amp;rsquo;s show it to mum&amp;rsquo;s in the clinic.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -284,8 +287,10 @@ src="https://www.youtube.com/embed/Ruf1m26q3vQ?start=&amp;end=" allowfullscreen 
 &lt;p>How To Hold A Pencil - English&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="online-resources-to-help-patients-using-video-translation---arabic">Online Resources To Help Patients Using Video Translation - Arabic&lt;/h2>
 &lt;p>This is the same video in Arabic.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -298,8 +303,10 @@ src="https://www.youtube.com/embed/VfsnG1zFLX8?start=&amp;end=" allowfullscreen 
 &lt;p>How To Hold A Pencil - Arabic&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="online-resources-to-help-patients-using-video-translation---vietnamese">Online Resources To Help Patients Using Video Translation - Vietnamese&lt;/h2>
 &lt;p>This is the same video in Vietnamese.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -311,6 +318,7 @@ src="https://www.youtube.com/embed/qAQmPpfkUHk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>How To Hold A Pencil - Vietnamese&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>We&amp;rsquo;d like to thank the staff at SWSLHD for being super easy to work with, and generally for the life altering work they do - you guys rock!&lt;/p>
@@ -455,6 +463,7 @@ Vyasa University: Video Translation into 8 Indian languages
 &lt;/center>
 &lt;p>The outcome - have a look on &lt;a href="https://www.youtube.com/channel/UCH2MkZ6oLNjNs_NU_mhvTpw">their YouTube Channel&lt;/a>!&lt;/p>
 &lt;h2 id="sample-vyasa-university-video-with-marathi-open-captions">Sample Vyasa University Video With Marathi Open Captions&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -467,7 +476,9 @@ src="https://www.youtube.com/embed/DGaitLa7N0M?start=&amp;end=" allowfullscreen 
 &lt;p>ADULTS YOGA FOR COVID 19 WITH MARATHI SUBTITLES&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="sample-vyasa-university-video-with-kannada-open-captions">Sample Vyasa University Video With Kannada Open Captions&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -480,7 +491,9 @@ src="https://www.youtube.com/embed/B2J9ueZGhyo?start=&amp;end=" allowfullscreen 
 &lt;p>ELDERLY PERSONS 2 YOGA FOR COVID WITH KANNADA SUBTITLES&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="sample-vyasa-university-video-with-tamil-open-captions">Sample Vyasa University Video With Tamil Open Captions&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -492,6 +505,7 @@ src="https://www.youtube.com/embed/1vB766phix4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>YSRT YOGA FOR COVID 19 WITH TAMIL SUBTITLES&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>It was a pleasure working the with staff and leadership at Vyasa University and we wish them the best of luck with their work going forward!&lt;/p>
@@ -574,6 +588,7 @@ Video Translation is a three step process, transcription, translation and dubbin
 &lt;/figure>
 &lt;/center>
 &lt;p>This is the &lt;code>original video&lt;/code>, and we will look at in Chinese and Arabic.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -586,7 +601,9 @@ src="https://www.youtube.com/embed/46htRYyJOJE?start=&amp;end=" allowfullscreen 
 &lt;p>QAChef: CEO Message - Original&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="video-translation-in-chinese--mandarin">Video Translation In Chinese / Mandarin&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -599,8 +616,10 @@ src="https://www.youtube.com/embed/5tv9lN227co?start=&amp;end=" allowfullscreen 
 &lt;p>QAChef: CEO Message - Chinese&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;p>&lt;code>The use case here was as part of a pitch to a global player with a significant mainland China footprint.&lt;/code>&lt;/p>
 &lt;h2 id="video-translation-in-arabic">Video Translation In Arabic&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -612,6 +631,7 @@ src="https://www.youtube.com/embed/v1icDo_1v9k?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>QAChef: CEO Message - Arabic&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>&lt;code>The use case here was as part of a pitch to a major supplier to the aviation industry across the MENA region.&lt;/code>&lt;/p>
 &lt;h2 id="notes-on-video-translation">Notes On Video Translation&lt;/h2>
@@ -631,6 +651,7 @@ src="https://www.youtube.com/embed/v1icDo_1v9k?start=&amp;end=" allowfullscreen 
 &lt;p>&lt;a href="https://firetechconnect.com/mentors/">Leigh Kelson&lt;/a> is the Program Director of FireTech - he is a technology entrepreneur, cloud computing pioneer, and media tech veteran. He has founded ten ventures over the last 30 years and had a number of successful exits. Over his career, he’s been a CEO of publicly listed companies, involved in raising more than $100 million in funding and completed two successful IPO’s on the Australian stock exchange.&lt;/p>
 &lt;p>Leigh is also an all-round good guy, and we are big fans of the work FireTech Connect is doing!&lt;/p>
 &lt;h2 id="conversation">Conversation&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -642,6 +663,7 @@ src="https://www.youtube.com/embed/FFg1Pqv7FII?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>In conversation with FireTech Connects Program Director Leigh Kelson&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h3 id="highlights">Highlights&lt;/h3>
 &lt;ul>
@@ -1135,6 +1157,7 @@ loading="lazy"
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>Video Series: How to Quickly Transcribe Your Video</title><link>https://videotranslator.ai/news/video-series-how-to-quickly-transcribe-your-video/</link><pubDate>May 22, 2020</pubDate><guid>https://videotranslator.ai/news/video-series-how-to-quickly-transcribe-your-video/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/video-series-how-to-quickly-transcribe-your-video-banner.jpg"/><description>In the first of our VideoTranslator.ai video series, we show you how to quickly transcribe your video using our Quick Transcribe function</description><content:encoded>&lt;p>The QuickTranscribe feature is &lt;code>our most used feature&lt;/code> in the video transcription and translation process.&lt;/p>
 &lt;p>Our easy how-to guide on using the Quick Transcribe feature. For more information on Quick Transcribe visit our written guide &lt;a href="https://videotranslator.ai/news/quick-transcribe-for-when-you-need-to-get-transcription-done-quickly/">here&lt;/a>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1147,6 +1170,7 @@ src="https://www.youtube.com/embed/d4XqvrajM24?start=&amp;end=" allowfullscreen 
 &lt;p>How to quickly transcribe your video&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>A Step by Step Guide to Translating Your First Video</title><link>https://videotranslator.ai/news/a-step-by-step-guide-to-translating-your-first-video/</link><pubDate>May 6, 2020</pubDate><guid>https://videotranslator.ai/news/a-step-by-step-guide-to-translating-your-first-video/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/a-step-by-step-guide-to-translating-your-first-video/a-step-by-step-guide-to-translating-your-first-video-banner.jpg"/><description>Have you ever tried to translate an English video? Read on to see how to transcribe, and translate this video from English in 3 simple steps.</description><content:encoded>&lt;p>Having the ability to translate your video into a number of different languages and dialects puts your business a step ahead of the rest in means of reaching a larger audience and in turn, customers.&lt;/p>
@@ -1157,6 +1181,7 @@ src="https://www.youtube.com/embed/d4XqvrajM24?start=&amp;end=" allowfullscreen 
 &lt;p>First off, we&amp;rsquo;ve logged into our &lt;a href="https://videotranslator.ai/">videotranslator.ai&lt;/a> account; if you don&amp;rsquo;t have an account yet, &lt;a href="https://videotranslator.ai/free-trial">sign up here&lt;/a> for a free trial.
 Once logged in, hit Quick Transcribe and follow the prompts to upload your video and to select the language and dialect that your video is originally in.&lt;/p>
 &lt;h3 id="quicktranscribe-click-quicktranscribe-to-upload-and-transcribe-your-video">QuickTranscribe: Click QuickTranscribe To Upload And Transcribe Your Video&lt;/h3>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1169,10 +1194,12 @@ src="https://www.youtube.com/embed/JO-Cz6jX2sg?start=&amp;end=" allowfullscreen 
 &lt;p>Translating Your First Video: QuickTranscribe (Upload &amp;#43; Transcribe)&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h3 id="post-editing-fix-up-the-ai-output-to-maximise-conversions">Post-Editing: Fix Up The AI Output To Maximise Conversions&lt;/h3>
 &lt;ul>
 &lt;li>Once the video has loaded, it&amp;rsquo;s time to edit the captions. Because &lt;code>people don't always speak the way they write, the AI can sometimes miss capitalisation, commas and full stops as well as misuse certain words&lt;/code>; use the Picture-in-Picture popup to help you edit the timing and captions of the video in its original language.&lt;/li>
 &lt;/ul>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1185,6 +1212,7 @@ src="https://www.youtube.com/embed/U_jOc5WZCJs?start=&amp;end=" allowfullscreen 
 &lt;p>Translating Your First Video: Edit Captions&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;ul>
 &lt;li>Remember &lt;code>make time blocks a minimum of 1 second long, ideally 1.5 seconds to make it easier to read&lt;/code>.&lt;/li>
 &lt;/ul>
@@ -1193,6 +1221,7 @@ src="https://www.youtube.com/embed/U_jOc5WZCJs?start=&amp;end=" allowfullscreen 
 &lt;li>When you&amp;rsquo;re happy with the captions and timing, scroll up to Translate and choose the language you&amp;rsquo;d like your video to be translated into.
 To do this, select &lt;code>Translate from the Action menu and then select 'Automatic' for the AI translation as well as setting the language of your choice&lt;/code>.&lt;/li>
 &lt;/ul>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1205,9 +1234,11 @@ src="https://www.youtube.com/embed/U_jOc5WZCJs?start=&amp;end=" allowfullscreen 
 &lt;p>Translating Your First Video: QuickTranscribe &amp;#43; Transcribe &amp;#43; Translate&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;ul>
 &lt;li>And that&amp;rsquo;s it! You&amp;rsquo;ve translated your first video! See below for the full video and step-by-step guide.&lt;/li>
 &lt;/ul>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1219,6 +1250,7 @@ src="https://www.youtube.com/embed/h0cF-ogBXSk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translating Your First Video: Full Flow&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
@@ -1572,6 +1604,7 @@ Translate Your English Video Into Filipino And Chinese: Action -&amp;gt; Transla
 &lt;/figure>
 &lt;/center>
 &lt;p>Click Action -&amp;gt; Translate as shown above, and we get a familar output. &lt;code>You should also do Post-Editing of the Filipino output, and below we have added our familiar Auto-Overlay.&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1583,6 +1616,7 @@ src="https://www.youtube.com/embed/lkDitjfoQDE?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translate Your English Video Into Filipino And Chinese: Auto-Overlay with Filipino Open Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="translate-your-english-video-into-mandarin">Translate Your English Video Into Mandarin&lt;/h2>
 &lt;p>We do the exact same thing from our English video into Mandarin. &lt;code>Make sure you select the correct dialect as Simplified Chinese as shown below.&lt;/code>&lt;/p>
@@ -1604,6 +1638,7 @@ Translate Your English Video Into Filipino And Chinese: Action -&amp;gt; Transla
 &lt;/figure>
 &lt;/center>
 &lt;p>Which gives us the below video!&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1615,6 +1650,7 @@ src="https://www.youtube.com/embed/yFXtGFAmIyI?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translate Your English Video Into Filipino And Chinese: Auto-Overlay with Chinese Open Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>We really hope you found this blog post useful, and are able to increase your target audience using our technology.&lt;/p>
@@ -1633,6 +1669,7 @@ src="https://www.youtube.com/embed/yFXtGFAmIyI?start=&amp;end=" allowfullscreen 
 &lt;p>&lt;code>In this blog post we cover how to download a video from YouTube, then we add a transcript, and then we translate the video.&lt;/code> This is done so you can try this at home yourself.&lt;/p>
 &lt;h2 id="pick-the-video-from-youtube-that-you-want-to-translate">Pick The Video (From YouTube) That You Want To Translate&lt;/h2>
 &lt;p>First we need to find a video to download. We will use a video from the &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">VideoTranslator YouTube Channel&lt;/a>, specifically &lt;a href="https://www.youtube.com/watch?v=sCERUaErAkQ">this video&lt;/a> shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1644,6 +1681,7 @@ src="https://www.youtube.com/embed/sCERUaErAkQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Fighting The Coronavirus And E-Coli With Machine Learning&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>Note: &lt;code>This video does not have any speech - the idea is we will add some as part of this tutuorial.&lt;/code>&lt;/p>
 &lt;h2 id="download-the-video-from-youtube">Download The Video From YouTube&lt;/h2>
@@ -1765,6 +1803,7 @@ How To Translate YouTube Videos And Dominate SEO: Subtitle is translated into Hi
 &lt;/center>
 &lt;h2 id="hard-code-the-hindi-subtitles-into-the-finished-asset-using-auto-overlay">Hard Code The Hindi Subtitles Into The Finished Asset Using Auto-Overlay&lt;/h2>
 &lt;p>&lt;code>Click Action -&amp;gt; Auto-Overlay and we chose black text with a yellow background&lt;/code> for the below video.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1777,9 +1816,11 @@ src="https://www.youtube.com/embed/U__Hm-yXHfw?start=&amp;end=" allowfullscreen 
 &lt;p>Fighting The Coronavirus And E-Coli With Machine Learning&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>&lt;code>To really get the value of SEO, you should make sure that Titles, Description, Open Captions and Closed Captions are all in place! If you are using social channels outside YouTubr you may also want to use WebVTT properly.&lt;/code>&lt;/p>
 &lt;p>Best of luck and I am sure you will do amazing! &lt;a href="https://www.linkedin.com/company/videotranslator/">Connect with us on LinkedIn&lt;/a>, or if you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>The Girls and Women Revitalising Canada's Indigenous Languages</title><link>https://videotranslator.ai/news/the-girls-and-women-revitalising-canadas-indigenous-languages/</link><pubDate>March 10, 2020</pubDate><guid>https://videotranslator.ai/news/the-girls-and-women-revitalising-canadas-indigenous-languages/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-girls-and-women-revitalising-canadas-indigenous-languages/the-girls-and-women-revitalising-canadas-indigenous-languages-banner.jpg"/><description>It was International Women's Day this past Sunday 8 March and in honour of the day we're looking at some incredible females who are doing all they can for their native languages.</description><content:encoded>&lt;p>It was International Women&amp;rsquo;s Day this past Sunday 8 March and in honour of the day we&amp;rsquo;re looking at some incredible females who are doing all they can for their native languages.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -1791,6 +1832,7 @@ src="https://www.youtube.com/embed/rOwPFPzE74c?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>The Girls and Women Revitalising Canada&amp;#39;s Indigenous Languages&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="celebrating-indigenous-women-who-are-reclaiming-and-revitalising-their-languages">Celebrating Indigenous Women Who Are Reclaiming and Revitalising Their Languages&lt;/h2>
 &lt;center>
@@ -2000,6 +2042,7 @@ Clipping Chinese App: In the QuickTranscribe generated item, look for the SRT an
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Fighting the Coronavirus and E. Coli with Machine Learning</title><link>https://videotranslator.ai/news/fighting-the-coronavirus-and-e-coli-with-machine-learning/</link><pubDate>March 1, 2020</pubDate><guid>https://videotranslator.ai/news/fighting-the-coronavirus-and-e-coli-with-machine-learning/</guid><dc:creator>Renee Dubé</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/Fighting-the-coronavirus-and-E.-coli-with-machine-learning/Fighting-the-coronavirus-and-E.-coli-with-machine-learning-banner.jpg"/><description>When it comes to combating superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics. China is also using AI to quickly determine if a person is showing symptoms of the coronavirus, which could be a great win against getting a handle on the respiratory disease.</description><content:encoded>&lt;p>When it comes to combating superbugs and viruses, the human raced needs all the help it can get. Artificial Intelligence is being implemented to find treatments to fight bacteria that was formally resistant to all forms of antibiotics.
 China is also using AI to quickly determine if a person is showing symptoms of the coronavirus, which could be a great win against getting a handle on the respiratory disease.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -2011,6 +2054,7 @@ src="https://www.youtube.com/embed/sCERUaErAkQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Fighting The Coronavirus And E-Coli With Machine Learning&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="how-artificial-intelligence-outsmarted-the-superbugs">How Artificial Intelligence Outsmarted the Superbugs&lt;/h2>
 &lt;center>
@@ -2106,6 +2150,7 @@ How AI Dubbing Will Change Everything: Face To Face Translation
 &lt;li>This gets added to the visual translation (which is the bit the IIIT-H team worked on)&lt;/li>
 &lt;/ul>
 &lt;p>&lt;code>Together these give what the researchers are calling Face-To-Face Translation&lt;/code>. One of the research team has a YouTube channel, so this is a sample below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -2117,6 +2162,7 @@ src="https://www.youtube.com/embed/aHG6Oei8jF0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>How AI Dubbing Will Change Everything: Face To Face Translation Sample&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>While the technology is very cool, its not something we really do. The approach we have taken is quite different.&lt;/p>
 &lt;h2 id="video-translator-speech-to-speech-translation-our-app">Video Translator: Speech-To-Speech Translation (Our App!)&lt;/h2>
@@ -2146,6 +2192,7 @@ How AI Dubbing Will Change Everything: VideoTranslator&amp;#39;s Speech-To-Speec
 &lt;/ul>
 &lt;p>Generally this means the end-to-end flow is better suited for assets which are expected to be online for a long time. Hence we put in the extra effort into making the asset really nice.&lt;/p>
 &lt;p>What do such assets look like? This is an English video a client recently provided us.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -2158,7 +2205,9 @@ src="https://www.youtube.com/embed/Ruf1m26q3vQ?start=&amp;end=" allowfullscreen 
 &lt;p>How AI Dubbing Will Change Everything: English Original&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;p>This is the AI Vietnamese version.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -2170,6 +2219,7 @@ src="https://www.youtube.com/embed/qAQmPpfkUHk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>How AI Dubbing Will Change Everything: AI Vietnamese Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>Obviously the work that IIIT-H has done is a scientific paper, whereas you can &lt;a href="https://videotranslator.ai/free-trial">try our technology for free&lt;/a>, because its a production Saas app.&lt;/p>
 &lt;p>&lt;a href="https://videotranslator.ai/pricing">Cheap too!&lt;/a> :)&lt;/p>
@@ -2274,6 +2324,7 @@ How AI Transcription Fails And What To Do About It: Language-Dialect Mapping
 &lt;p>Here at &lt;a href="https://videotranslator.ai/free-trial">VideoTranslator&lt;/a> we feel that most people are quite proud of where they come from - its totally natural.&lt;/p>
 &lt;p>Each one of us has a story of how we came to be, and the stories of those who came before are a vital part of any human identity. This week we have two such stories.&lt;/p>
 &lt;p>We are also experimenting with more video, so here is a sample! Let us know what you think!&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -2285,6 +2336,7 @@ src="https://www.youtube.com/embed/Pc5XA5kdNmc?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>One Igbo Woman Trying To Save Her Language&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="one-igbo-woman-trying-to-save-her-language">One Igbo Woman Trying To Save Her language&lt;/h2>
 &lt;p>This &lt;a href="https://www.vanguardngr.com/2020/01/onyinye-ibelegbu-her-battle-to-save-mother-tongue/">article from the Nigerian Vanguard newspaper&lt;/a> covers one such story.&lt;/p>
@@ -3066,6 +3118,7 @@ Quick Transcribe: Some Auto-Overlay options shown above
 &lt;/center>
 &lt;h2 id="quick-transcribe-finished-with-open-captions">Quick Transcribe: Finished With Open Captions&lt;/h2>
 &lt;p>&lt;code>Download the video once its complete, and deploy to your preferred social network&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -3077,6 +3130,7 @@ src="https://www.youtube.com/embed/fMwLFG4mjB4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Quick Transcribe: Video after being transcribed with Open Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
@@ -4876,6 +4930,7 @@ Changes: Rev&amp;#39;s competition gets involved
 &lt;p>Its going to be awesome. We hope this post gives you some ideas about how to use our technology. Let&amp;rsquo;s begin!&lt;/p>
 &lt;h2 id="what-are-we-going-to-be-working-with-our-source-video-is-already-transcribed">What Are We Going To Be Working With? Our Source Video Is Already Transcribed&lt;/h2>
 &lt;p>We will use the video we produced at the end of this &lt;a href="https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/">post&lt;/a>. It is posted below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -4887,6 +4942,7 @@ src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Transcribing Indian English: Outcome after using the AI&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>First though, a bit of theory! Just like school!&lt;/p>
 &lt;h2 id="the-look-ahead-and-forward-algorithms---the-theory">The Look-Ahead And Forward Algorithms - The Theory&lt;/h2>
@@ -4929,6 +4985,7 @@ What A Hindi Speaking AI Sounds Like: Add lots of grammar
 &lt;/li>
 &lt;li>
 &lt;p>After the process was complete we &lt;code>add an Auto-Overlay so you can see the full outcome. Note that the words are a little bit different, tense had been changed to past tense for everything and sentences are shorter.&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -4940,6 +4997,7 @@ src="https://www.youtube.com/embed/v3_p4usHHhU?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>What A Hindi Speaking AI Sounds Like: Amend the English and add an Auto-Overlay&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -5033,6 +5091,7 @@ What A Hindi Speaking AI Sounds Like: The spinner shows the app adding an Auto-O
 &lt;/li>
 &lt;li>
 &lt;p>This is a direct AI translation so &lt;code>some errors are expected&lt;/code>. Also, note that the timings are a little bit off. What is happening in the background is our code is trying to do a best fit of the sentences, but &lt;code>manual edits are often required. Please do this as part of the post-editing process.&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5044,6 +5103,7 @@ src="https://www.youtube.com/embed/Tl3Lfm9xA64?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>What A Hindi Speaking AI Sounds Like: After adding the Hindi captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -5151,6 +5211,7 @@ What A Hindi Speaking AI Sounds Like: Remove the original audio stream from your
 &lt;/li>
 &lt;li>
 &lt;p>The final outcome is below. This has several errors, and needs more work. &lt;code>To see the error forward to 1:57 and you will hear the sound stops. This is because we have just used one mp3 Voice Overlay for simplicity to explain the workflow&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5162,6 +5223,7 @@ src="https://www.youtube.com/embed/UQ26a5PR_q0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>What A Hindi Speaking AI Sounds Like: After adding a female Hindi speaker&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -5595,6 +5657,7 @@ Open Captions: Step 2 in the Auto Overlay
 &lt;/li>
 &lt;li>
 &lt;p>It is important to understand what is happening here. Its basically &lt;code>a mathematical function called a text writer that is writing-out (or baking-in) the open captions&lt;/code> into the video. The yellow highlight was probably not the best choice but its useful in demo.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5606,6 +5669,7 @@ src="https://www.youtube.com/embed/Qk3dwE0Xydk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: After the Auto Overlay process has finished&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -5681,6 +5745,7 @@ Open Captions: Stripe with Text Only
 &lt;/figure>
 &lt;/center>
 &lt;p>This does not look amazing but you can see the effect of the Stripe with Text Only.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5692,6 +5757,7 @@ src="https://www.youtube.com/embed/6NgZVJ8Yy_k?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: Stripe with Text Only&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h3 id="using-a-highlight">Using A Highlight&lt;/h3>
 &lt;p>In this case we want to &lt;code>use a highlight&lt;/code>. The idea here is a highlight around the text in question. Using the highlight option looks like below. Text only is not a thing with the highlight for obvious reasons.&lt;/p>
@@ -5713,6 +5779,7 @@ Open Captions: Highlight
 &lt;/figure>
 &lt;/center>
 &lt;p>In the video below, we used the &lt;code>Centre&lt;/code> option to make it very obvious what is happening. &lt;code>Transparency is also turned down for the highlight itself&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5724,6 +5791,7 @@ src="https://www.youtube.com/embed/Y3krFyYZs18?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: Highlight but centred with no transparency&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="the-big-change-advanced-options---stripe">The Big Change: Advanced Options - Stripe&lt;/h2>
 &lt;p>The stripe example is the slightly more complicated of the two options. The first thing to note is the actual dimensions of your video. In our case, &lt;code>the video is 640 x 360 pixels&lt;/code>. This is shown in the image below.&lt;/p>
@@ -5763,6 +5831,7 @@ Open Captions: Add X and Y coordinates
 &lt;/figure>
 &lt;/center>
 &lt;p>What we are doing here is setting X and Y coordinates for the text at 20, 20. We are also setting the X and Y for the stripe at 40, 40. &lt;code>Normally you would set the stripe to X and Y coordinates similar to the text.&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5774,6 +5843,7 @@ src="https://www.youtube.com/embed/P-r5ivFe2A8?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: Stripe with incorrect advanced options&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>Ok - so that was nice, but not really useful. Lets try again with the below settings.&lt;/p>
 &lt;center>
@@ -5794,6 +5864,7 @@ Open Captions: Add different X and Y coordinates
 &lt;/figure>
 &lt;/center>
 &lt;p>This looks much better. &lt;code>The idea here is to put the stripe at the bottom of the video. But we have made a mistake in the alignment of the text&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5805,6 +5876,7 @@ src="https://www.youtube.com/embed/U4Xw18BuOs8?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: Stripe with less incorrect advanced options&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>With the examples above, hopefully it makes sense how to use this functionality.&lt;/p>
 &lt;p>&lt;strong>Important: If you are using the stripe, please note that the height of the stripe is 10% of the height of the video itself. You may need to manually fix up the captions so that all the captions are single lines only.&lt;/strong>&lt;/p>
@@ -5828,6 +5900,7 @@ Open Captions: Add X and Y coordinates - just one set for the text
 &lt;/figure>
 &lt;/center>
 &lt;p>This results in the following video using the highlight. &lt;code>Please note this setup is not optimised and make the changes required on your side.&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5839,6 +5912,7 @@ src="https://www.youtube.com/embed/l_NTzB4Bqro?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Open Captions: Highlight is much easier to use!&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>&lt;strong>Important: If you are using the highlight, it is well worth making sure that each sentence is roughly the same length and centring the open captions into the video nicely.&lt;/strong>&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -5929,6 +6003,7 @@ Image courtesy of C.J. Burton/Getty Images
 &lt;p>If you haven’t yet and are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>Transcribing Indian English: A Simple Guide To Using AI To Speed Up Transcription And Add Open Captions</title><link>https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/</link><pubDate>November 11, 2019</pubDate><guid>https://videotranslator.ai/news/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription-and-add-open-captions/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription/transcribing-indian-english-a-simple-guide-to-using-ai-to-speed-up-transcription.jpg"/><description>In this visual guide we used an Indian English AI to transcribe a video from Rajya Sabha TV. After the transcription we used post-editing to clean up our captions. Finally, we use the Auto-Overlay functionality to add open captions to our video.</description><content:encoded>&lt;p>Today we are going to look at how to transcribe Indian English. Firstly of course, what is Indian English, and what does it sound like? How many such dialects exist? Have a &lt;a href="https://videotranslator.ai/news/ai-dubbing-what-different-dialects-of-english-sound-like/">look&lt;/a>.&lt;/p>
 &lt;p>Now that we know what Indian English sounds like, we are going to use a short clip from &lt;a href="https://www.youtube.com/user/rajyasabhatv">Rajya Sabha TV&lt;/a>, an Indian government content creator. We use our AI to transcribe this clip.&lt;/p>
 &lt;p>Lastly, we add an Auto-Overlay so that we can show you the video. The final output is shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5941,9 +6016,11 @@ src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen 
 &lt;p>Transcribing Indian English: Outcome after using the AI&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="what-is-indian-english">What Is Indian English?&lt;/h2>
 &lt;p>From the folks at &lt;a href="https://en.wikipedia.org/wiki/Indian_English">Wikipedia&lt;/a>, &amp;ldquo;Indian English is the regional variety of the English language spoken in the Republic of India, and among the Indian diaspora elsewhere in the world. The Constitution of India has mandated Hindi in the Devanagari script to be the official language of the Indian union; English is an additional official language for government work along with Hindi.&amp;rdquo;&lt;/p>
 &lt;p>Cool. &lt;code>What does it sound like?&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -5955,6 +6032,7 @@ src="https://www.youtube.com/embed/7w18qU6AYZM?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Rajya Sabha TV: 5 November 2019&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>Are you keen on hearing what other dialects of English sound like? Here are some &lt;a href="https://videotranslator.ai/news/ai-dubbing-what-different-dialects-of-english-sound-like/#samples">samples&lt;/a>.&lt;/p>
 &lt;h2 id="how-do-i-transcribe-indian-english">How Do I Transcribe Indian English?&lt;/h2>
@@ -6133,6 +6211,7 @@ Transcribing Indian English: Add a yellow highlight
 &lt;/li>
 &lt;li>
 &lt;p>All done - what do you think? &lt;code>Download the asset and deploy!&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -6144,6 +6223,7 @@ src="https://www.youtube.com/embed/cyJ6NBpi0IQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Transcribing Indian English: All done!&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -6876,6 +6956,7 @@ AI Transcription, Translation And Dubbing: Several Spanish dialects are availabl
 &lt;p>In everyday usage however, &lt;code>the term 'dubbing' commonly refers to the replacement of the actor's voices with those of different performers speaking another language&lt;/code>, which is called &lt;code>'re-voicing'&lt;/code>, or a &lt;code>'voice-over'&lt;/code> in the film industry.&lt;/p>
 &lt;h2 id="outcomes---before-and-after">Outcomes - Before And After&lt;/h2>
 &lt;p>To make it obvious what we are talking about, the after is provided.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -6887,6 +6968,7 @@ src="https://www.youtube.com/embed/pQ74yT9P5b8?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>AI Dubbing: After Adding the AI voice-over&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps---transcribe-your-content-using-the-provided-ai">Steps - Transcribe Your Content Using The Provided AI&lt;/h2>
 &lt;ol>
@@ -6912,6 +6994,7 @@ AI Dubbing: Select the English Template and create and new Item
 &lt;/li>
 &lt;li>
 &lt;p>This is the original content.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -6923,6 +7006,7 @@ src="https://www.youtube.com/embed/ZyNf5ml3u2g?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>AI Dubbing: Before Adding the AI voice-over&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -7083,6 +7167,7 @@ AI Dubbing: Add the AI speech using Audio Overlay
 &lt;/li>
 &lt;li>
 &lt;p>Notice, we have not set any times. Add (in seconds) the time. &lt;code>We added 0.5 and 21 as start and end times&lt;/code>, and then &lt;code>clicked the + button to bake in the audio overlay&lt;/code>. That is the entire process. The final output is shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -7094,6 +7179,7 @@ src="https://www.youtube.com/embed/pQ74yT9P5b8?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>AI Dubbing: After Adding the AI voice-over&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -7607,6 +7693,7 @@ Tu video esta listo
 &lt;/figcaption>
 &lt;/figure>
 &lt;/center>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -7618,6 +7705,7 @@ src="https://www.youtube.com/embed/S6_PWTbkVcM?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Tips Para Viajar A República Dominicana&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -8012,6 +8100,7 @@ On Instagram Stories, you have a wider range of options such as linking multiple
 &lt;/ul>
 &lt;p>&lt;a href="https://play.google.com/store/apps/details?id=com.instagram.android&amp;amp;hl=en_US">Download Instagram&lt;/a>&lt;/p>
 &lt;h2 id="distribute-your-video-with-captions-to-all-these-apps">Distribute Your Video With Captions To All These Apps!&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8023,6 +8112,7 @@ src="https://www.youtube.com/embed/d4XqvrajM24?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>How to quickly transcribe your video&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="2-tiktok">2. TikTok&lt;/h2>
 &lt;p>TikTok is a social video app that allows you to create and share short video clips. You can trim, edit, clip and merge multiple videos, as well as add music, sound, filters, and stickers. Captioning must be done manually as text overlays.&lt;/p>
@@ -8420,6 +8510,7 @@ Iván el Terrible: Edite la transcripción para mayor precisión
 &lt;/li>
 &lt;li>
 &lt;p>Incrustamos los subtítulos en el video para obtener nuestro primer resultado, el vídeo con los subtítulos en su idioma original.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8431,6 +8522,7 @@ src="https://www.youtube.com/embed/pJhnWD8lvko?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Iván el Terrible: Traducir de inglés a español&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -8495,6 +8587,7 @@ Iván el Terrible: Edite los subtítulos en español para mayor precisión.
 &lt;/li>
 &lt;li>
 &lt;p>Una vez ha sido corregida la traducción, procedemos a incrustar los subtítulos en el video.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8506,6 +8599,7 @@ src="https://www.youtube.com/embed/-j3W5H2guKg?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Iván el Terrible: Traducir de inglés a español&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -8587,6 +8681,7 @@ A French Affair: Post-Editing is used to control quality
 &lt;/li>
 &lt;li>
 &lt;p>We then embed the English captions into the video which will produce the below video.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8598,6 +8693,7 @@ src="https://www.youtube.com/embed/RZ5rLhPE4eQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A French Affair: Translating your video from English to French&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -8642,6 +8738,7 @@ A French Affair: Translate to French With AI
 &lt;/li>
 &lt;li>
 &lt;p>Just as before, we want to check the AI translation and make any corrections as needed. Once all is good, we embed the French captions into the video and voila! Our video on the Sydney Opera House can now be viewed in French.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8653,6 +8750,7 @@ src="https://www.youtube.com/embed/4iBdS7yGHbQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A French Affair: Translating your video from English to French&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -8757,6 +8855,7 @@ Sprout Social: Best Times To Post On Social Media - Instagram
 &lt;p>All in all, we felt it was time for a new explainer video which covered how to use the platform.&lt;/p>
 &lt;p>&lt;strong>Here it is&amp;hellip; enjoy!&lt;/strong>&lt;/p>
 &lt;h2 id="how-to-transcribe-a-video-using-ai">How To Transcribe A Video Using AI&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -8768,6 +8867,7 @@ src="https://www.youtube.com/embed/W6LQRhnz8AM?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Explainer: How to Transcribe A Video Using AI&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Technology is offering us ways to look at old problems with new eyes. We should look at open captions as a tool - something good for accessibility, and for boosting your bottom line.&lt;/p>
@@ -9208,6 +9308,7 @@ Auto-Overlay -&amp;gt; Highlight
 &lt;/li>
 &lt;li>
 &lt;p>The final asset with the Auto-Overlay. &lt;code>Change the styling on your own video to make it look nice!&lt;/code>&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9220,6 +9321,7 @@ src="https://www.youtube.com/embed/cK-wmutJias?start=&amp;end=" allowfullscreen 
 &lt;p>Video Translator: Pricing: Subscription vs. Pay-As-You-Go&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -9227,6 +9329,7 @@ src="https://www.youtube.com/embed/cK-wmutJias?start=&amp;end=" allowfullscreen 
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>Product Update: May 2019</title><link>https://videotranslator.ai/news/product-update-may-2019/</link><pubDate>June 1, 2019</pubDate><guid>https://videotranslator.ai/news/product-update-may-2019/</guid><dc:creator>Video Translator Engineering</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/product-update-may-2019_banner.jpg"/><description>Product Update May 2019</description><content:encoded>&lt;p>We have been putting in for a number of grant applications in the innovation space. One of the applications needed a small video as part of the application process.&lt;/p>
 &lt;p>The video covers the basic use cases, and we added the captions to the asset.&lt;/p>
 &lt;h2 id="may-2019-product-update">May 2019: Product update&lt;/h2>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9238,6 +9341,7 @@ src="https://www.youtube.com/embed/H66_2HisJdk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Product Update: May 2019 (English)&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p>
@@ -9351,6 +9455,7 @@ Patch Notes May 2019: UI Help Bug 2
 &lt;p>&lt;code>We are very grateful for your support!&lt;/code>&lt;/p>
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>मोम का हाथ बनाने की कला: अंग्रेजी से हिंदी मे वीडियो अनुवादित</title><link>https://videotranslator.ai/news/%E0%A4%AE%E0%A5%8B%E0%A4%AE-%E0%A4%95%E0%A4%BE-%E0%A4%B9%E0%A4%BE%E0%A4%A5-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87-%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%A4/</link><pubDate>May 13, 2019</pubDate><guid>https://videotranslator.ai/news/%E0%A4%AE%E0%A5%8B%E0%A4%AE-%E0%A4%95%E0%A4%BE-%E0%A4%B9%E0%A4%BE%E0%A4%A5-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A4%B2%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87-%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%A4/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-art-of-making-wax-hands-english-to-hindi-video-translation/the-art-of-making-wax-hands-english-to-hindi-video-translation_hi_banner.jpg"/><description>यह वीडियो मैडम तुसाद सिडनी में मोम के हात बनाने की कला के बारे में है । इस पोस्ट में, हम अंग्रेजी में वीडियो प्रतिलेखन, और फिर आर्टिफिशियल इंटेलिजेंट की मदत से हिंदी में अनुवाद की प्रक्रिया का वर्णन करते है।</description><content:encoded>&lt;p>यह वीडियो &lt;a href="https://www.madametussauds.com.au/sydney/en/">मैडम तुसाद सिडनी&lt;/a> &lt;a href="https://www.youtube.com/channel/UCwoM68pTywOUN8y7pSM-FsQ/featured">यूट्यूब पृष्ठ&lt;/a> से है और यह मैडम तुसाद सिडनी में मोम के हाथ बनाने के बारे में है, जहां वे तरल मोम से लोगों के हाथ के नक्से, कुछ सरल चरणों का पालन करके बनाते है।&lt;/p>
 &lt;p>प्रक्रिया के अनुसार ठंडे पानी में लोगों के हाथों को डुबोना, और फिर तरल मोम में उनके हाथ डुबोने शामिल है । यह करीब 5 बार दोहराया जाता है, हाथों का सांचा बनाने के लिए ।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9362,6 +9467,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>मोम का हाथ बनाने की कला: अंग्रेजी से हिंदी मे वीडियो अनुवादित&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="कदम">क़दम&lt;/h2>
 &lt;ol>
@@ -9427,6 +9533,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>हम यहां ओवरले जोड़ सकते हैं, जैसा कि नीचे दिखाया गया है। जब आप प्रतिलेखन से खुश हो जाते हैं, तब अगले चरण पर आगे बढ़ें, और अनुवाद क्रिया को ट्रिगर करें। यह अंग्रेजी से हिंदी में कैप्शन का अनुवाद करेगा।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9438,6 +9545,7 @@ src="https://www.youtube.com/embed/k4pQXfVVskg?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>मोम का हाथ बनाने की कला: ऑटो ओवरले हाइलाइटर के साथ (अंग्रेजी)&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -9482,6 +9590,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>सब कर लिया गया! इस प्रक्रिया को पढ़ने के लिए धन्यवाद और अंतिम ऑटो-ओवरले वीडियो यहां देखें।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9494,6 +9603,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;p>मोम का हाथ बनाने की कला: अंग्रेजी से हिंदी मे वीडियो अनुवादित&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="नषकरष">निष्कर्ष&lt;/h2>
@@ -9501,6 +9611,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;p>क्यूबीएल मीडिया मैडम तुसाद सिडनी (एमटीएस) के संग्रहालय के साथ रिश्ते का कोई प्रतिनिधित्व नहीं करता है । हम अपने प्लेटफ़ॉर्म के एक दिलचस्प उपयोग को प्रदर्शित करने के लिए सार्वजनिक रूप से उपलब्ध सामग्री का उपयोग कर रहे हैं ।&lt;/p>
 &lt;p>यदि आप हमारी तकनीक को आजमाने में रुचि रखते हैं, कृपया &lt;a href="https://videotranslator.ai/free-trial">हमारे प्लेटफार्म का प्रयोग&lt;/a> करे या हमें ईमेल भेजे &lt;a href="mailto:hello@videotranslator.ai">यहां&lt;/a> ।&lt;/p></content:encoded></item><item><title>The Art Of Making Wax Hands: English To Hindi Video Translation</title><link>https://videotranslator.ai/news/the-art-of-making-wax-hands-english-to-hindi-video-translation/</link><pubDate>May 7, 2019</pubDate><guid>https://videotranslator.ai/news/the-art-of-making-wax-hands-english-to-hindi-video-translation/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/the-art-of-making-wax-hands-english-to-hindi-video-translation/the-art-of-making-wax-hands-english-to-hindi-video-translation_banner.jpg"/><description>This video is about art of making wax hands at Madame Tussauds Sydney. In this post, we describe the process of transcribing the video in English, and then translating to Hindi, using AI.</description><content:encoded>&lt;p>This video is from &lt;a href="https://www.madametussauds.com.au/sydney/en/">Madame Tussauds Sydney&amp;rsquo;s&lt;/a> &lt;a href="https://www.youtube.com/channel/UCwoM68pTywOUN8y7pSM-FsQ/featured">Youtube page&lt;/a> and it is about making wax hands at Madame Tussauds Sydney, where they make moulds of people hands out of liquid wax, by following a few simple steps.&lt;/p>
 &lt;p>The process involves dipping people hands into cold water, and then dipping their hands in liquid wax. This is repeated about 5 times, to make a mould of the hands.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9512,6 +9623,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>The Art Of Making Wax Hands: English Video Translation From English To Hindi&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -9577,6 +9689,7 @@ The Art Of Making Wax Hands: Human quick check for correction in English
 &lt;/li>
 &lt;li>
 &lt;p>We could add an overlay here, as shown below. Once you are happy with the transcript, move forward to the next step, and trigger the translation action. This will translate the captions from English to Hindi.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9588,6 +9701,7 @@ src="https://www.youtube.com/embed/k4pQXfVVskg?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Final output The Art Of Making Wax Hands: Auto Overlay with Highlight (English)&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -9632,6 +9746,7 @@ The Art Of Making Wax Hands: Auto-Overlay with yellow highlight
 &lt;/li>
 &lt;li>
 &lt;p>That’s all. Thank you for reading this process and check out the final Auto-Overlay video here.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9644,6 +9759,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;p>The Art Of Making Wax Hands: English Video Translation To Hindi&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -9655,6 +9771,7 @@ src="https://www.youtube.com/embed/WT9H-WpqwNs?start=&amp;end=" allowfullscreen 
 &lt;p>यह वीडियो एमसीए कलेक्शन के बंगू यिलबारा कला के बारे में है । बंगू यिलबारा शब्द अपने आप में कला के प्रयास का वर्णन है, और उस काम को बनाने का इरादा के लिए , प्रदर्शनी के लिए काम का वर्णन करने पर ज्यादा ध्यान केंद्रित नहीं करना है।&lt;/p>
 &lt;p>प्रदर्शनी कुछ अतिरिक्त लेबल के बिना जीवन की वास्तविकता के साथ संपर्क में लाने के लिए, प्रयास और दृष्टि के लिए कलाकार अभ्यास से संबंधित कला को प्रदर्शित करने पर केंद्रित है।&lt;/p>
 &lt;p>नीचे, हमारे पास मुख्य वीडियो है, अंग्रेजी में प्रतिलेखन के बाद, और हिंदी में अनुवादित।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9666,6 +9783,7 @@ src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="कदम">क़दम&lt;/h2>
 &lt;ol>
@@ -9731,6 +9849,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>एक बार प्रतिलेखन पूरा हो गया है तो, हम जल्दी से इसकी मानव प्रयास के साथ जांच करते है । और अंग्रेज़ी से हिंदी में कैप्शन का अनुवाद करने के लिए अनुवाद कार्रवाई का चयन कर दूसरे चरण पर आगे बढ़ते है ।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9742,6 +9861,7 @@ src="https://www.youtube.com/embed/A6wyfgU9BBI?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -9803,6 +9923,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>सब कर लिया गया! इस प्रक्रिया को पढ़ने के लिए धन्यवाद और अंतिम ऑटो-ओवरले वीडियो यहां देखें।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9815,6 +9936,7 @@ src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen 
 &lt;p>एक प्रकृति की कला बंगू यिलबारा संग्रह: अंग्रेजी से हिंदी वीडियो प्रतिलेखन और अनुवाद&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="नषकरष">निष्कर्ष&lt;/h2>
@@ -9824,6 +9946,7 @@ src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen 
 &lt;p>यदि आप हमारी तकनीक को आजमाने में रुचि रखते हैं, कृपया &lt;a href="https://videotranslator.ai/free-trial">हमारे प्लेटफार्म का प्रयोग&lt;/a> करे या हमें ईमेल भेजे &lt;a href="mailto:hello@videotranslator.ai">यहां&lt;/a> ।&lt;/p></content:encoded></item><item><title>A Nature Of Art Bangu Yilbara Collection: English To Hindi Video Transcription And Translation</title><link>https://videotranslator.ai/news/a-nature-of-art-bangu-yilbara-collection-english-to-hindi-video-transcription-and-translation/</link><pubDate>May 1, 2019</pubDate><guid>https://videotranslator.ai/news/a-nature-of-art-bangu-yilbara-collection-english-to-hindi-video-transcription-and-translation/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/a-nature-of-art_banner.png"/><description>This post is about Bangu Yilbara collection at Museum of Contemporary Art Australia (MCA) in Sydney. We describe how to transcribe the video in English, and then translate the video into Hindi, with the help of AI.</description><content:encoded>&lt;p>We got this video from &lt;a href="https://www.mca.com.au">Museum of Contemporary Art Australia&amp;rsquo;s&lt;/a> &lt;a href="https://www.youtube.com/MCAaustralia">Youtube page&lt;/a> This video is about Bangu Yilbara collection at the MCA. The collection is focused on art produced by the Aboriginal and Torres Straits Islander cultures.&lt;/p>
 &lt;p>The exhibition focuses on the diversity of Aboriginal and Torres Straits Islander culture, primarily by looking to the artists to define their work, as opposed to labelling the work &amp;lsquo;Aboriginal&amp;rsquo; and boxing it into any particular style.&lt;/p>
 &lt;p>Below, we have the final video, after transcription into English, and translation into Hindi.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9835,6 +9958,7 @@ src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A Nature Of Art Bangu Yilbara Collection: English To Hindi Video Transcription And Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -9900,6 +10024,7 @@ MCA: Trigger Transcribe
 &lt;/li>
 &lt;li>
 &lt;p>Once transcription is complete, we quickly check it with human effort. And move forward to other step to Trigger Translate action to translate captions from English to Hindi.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9911,6 +10036,7 @@ src="https://www.youtube.com/embed/A6wyfgU9BBI?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>MCA: Trigger Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -9972,6 +10098,7 @@ MCA: Trigger Auto-Overlay
 &lt;/li>
 &lt;li>
 &lt;p>That’s all. Thank you for reading this process and check out the final Auto-Overlay video here.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -9984,6 +10111,7 @@ src="https://www.youtube.com/embed/9u1dooY0vXw?start=&amp;end=" allowfullscreen 
 &lt;p>MCA: Original Video with Hindi Overlay&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;/ol>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -9994,6 +10122,7 @@ As the video now has Hindi captions, This Hindi Captions video will help to prom
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>ऑस्ट्रेलियाई फैशन के माध्यम से एक यात्रा: अंग्रेजी से हिंदी में वीडियो प्रतिलेख और अनुवाद</title><link>https://videotranslator.ai/news/%E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%88-%E0%A4%AB%E0%A5%88%E0%A4%B6%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%8F%E0%A4%95-%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A5%87%E0%A4%96-%E0%A4%94%E0%A4%B0-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6/</link><pubDate>April 22, 2019</pubDate><guid>https://videotranslator.ai/news/%E0%A4%91%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%88-%E0%A4%AB%E0%A5%88%E0%A4%B6%E0%A4%A8-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%8F%E0%A4%95-%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%B2%E0%A5%87%E0%A4%96-%E0%A4%94%E0%A4%B0-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/a-journey-through-australian-fashion-english-to-hindi-video-transcription-and-translation_banner.jpg"/><description>इस पोस्ट में, हम सिडनी, के संग्रहालय के एप्लाइड आर्ट्स एंड साइंसेज (मास) के एक वीडियो को देख रहे हैं । यह वीडियो मास में नए सेंटर फॉर फैशन का वर्णन करता है, और इसकी पहली प्रदर्शनी में 30,000 से अधिक कपड़ों को प्रदर्शित किया गया, जो औपनिवेशिक ऑस्ट्रेलिया से लेकर समकालीन ऑस्ट्रेलिया तक कई फैशन शैलियों का आवरण करता हैं ।</description><content:encoded>&lt;p>ये वीडियो है &lt;a href="https://maas.museum/powerhouse-museum/">म्यूजियम ऑफ एप्लाइड आर्ट्स एंड साइंसेज&lt;/a> &lt;a href="https://www.youtube.com/powerhousemuseum">यूट्यूब चैनल&lt;/a>। यह वीडियो म्यूजियम ऑफ एप्लाइड आर्ट्स एंड साइंसेज (मॉस) के परिधान और डिजाइन संग्रह के बारे में है।&lt;/p>
 &lt;p>परिधान संग्रह 18 वीं सदी से वर्तमान उदाहरण के टुकड़े को दर्शाता है। इन्हें मॉस के नए सेंटर फॉर फैशन में दिखाया गया है । कुल मिलाकर लगभग 30,000 अद्भुत टुकड़े हैं, जो मॉस, आशा करता हैं कि भविष्य की पीढ़ियों के फैशन डिजाइनरों को प्रभावित और प्रेरित करेंगे।&lt;/p>
 &lt;p>मॉस के सेंटर फ़ॉर फ़ैशन में प्रदर्शित परिधान ऑस्ट्रेलिया में सबसे व्यापक है। इस नए प्रदर्शन के पीछे आशा है कि फैशन के सांस्कृतिक प्रभाव का मानचित्रण करना, और ऑस्ट्रेलिया के सांस्कृतिक इतिहास को लोगों द्वारा पहनने के माध्यम से प्रलेखित करना।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10005,6 +10134,7 @@ src="https://www.youtube.com/embed/vkBlZ_UvRJ4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ऑस्ट्रेलियाई फैशन के माध्यम से एक यात्रा: अंग्रेजी से हिंदी में वीडियो प्रतिलेख और अनुवाद&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="कदम">क़दम&lt;/h2>
 &lt;ol>
@@ -10070,6 +10200,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>एक बार प्रतिलेखन में सुधार हो गया तो, हम अनुवाद कि कार्रवाई करते है ।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10081,6 +10212,7 @@ src="https://www.youtube.com/embed/WHQ8Q_CUn1E?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>मॉस: अंग्रेजी कैप्शन&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10125,6 +10257,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>एक बार अनुवाद ठीक हो गया! तो। हम वीडियो पर शब्दों को अनुबादित करने के लिए अंतिम चरण &amp;lsquo;ऑटो-ओवरले&amp;rsquo; पर जाते हैं ।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10136,6 +10269,7 @@ src="https://www.youtube.com/embed/vkBlZ_UvRJ4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ऑस्ट्रेलियाई फैशन के माध्यम से एक यात्रा: अंग्रेजी से हिंदी में वीडियो प्रतिलेख और अनुवाद&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10379,6 +10513,7 @@ Audio To Text: Transcript of your podcast
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>A Journey Through Australian Fashion: English To Hindi Video Transcription And Translation</title><link>https://videotranslator.ai/news/a-journey-through-australian-fashion-english-to-hindi-video-transcription-and-translation/</link><pubDate>April 16, 2019</pubDate><guid>https://videotranslator.ai/news/a-journey-through-australian-fashion-english-to-hindi-video-transcription-and-translation/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/a-journey-through-australian-fashion-english-to-hindi-video-transcription-and-translation_banner.jpg"/><description>In this post, we look at a video from the Museum of Applied Arts and Sciences (MAAS) in Sydney, Australia. This video describes the new Centre For Fashion at MAAS, and its first exhibit with over 30,000 garments displayed, covering a range of fashion styles, from colonial Australia to contemporary Australia.</description><content:encoded>&lt;p>This video is from &lt;a href="https://maas.museum/powerhouse-museum/">Museum of Applied Arts and Sciences&lt;/a> &lt;a href="https://www.youtube.com/powerhousemuseum">Youtube channel&lt;/a>. This video is about the garments and design collection at the Museum of Applied Arts and Sciences (MAAS).&lt;/p>
 &lt;p>The garment collection covers pieces from the 18th century to present day examples. These are shown at the new Centre For Fashion at MAAS. There are around 30,000 amazing pieces in total, which MAAS hopes will impact and inspire future generations of fashion designers.&lt;/p>
 &lt;p>The garment exhibit at MAAS&amp;rsquo;s Centre For Fashion is among the most comprehensive in Australia. The hope behind this new exhibit is to map the cultural impact of fashion, and to document the cultural history of Australia through what people wear.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10390,6 +10525,7 @@ src="https://www.youtube.com/embed/vkBlZ_UvRJ4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A Journey Through Australian Fashion: English To Hindi Video Transcription And Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -10455,6 +10591,7 @@ MAAS: Quick check of English captions
 &lt;/li>
 &lt;li>
 &lt;p>We embed the English captions to produce the below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10466,6 +10603,7 @@ src="https://www.youtube.com/embed/WHQ8Q_CUn1E?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>MAAS: English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10510,6 +10648,7 @@ MAAS: Check Translation
 &lt;/li>
 &lt;li>
 &lt;p>Once this translation is good, we embed the captions into the video.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10521,6 +10660,7 @@ src="https://www.youtube.com/embed/vkBlZ_UvRJ4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Now with Hindi Open Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10534,6 +10674,7 @@ src="https://www.youtube.com/embed/vkBlZ_UvRJ4?start=&amp;end=" allowfullscreen 
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a> or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p>
 &lt;p>Please connect with us on &lt;a href="https://www.linkedin.com/company/videotranslator/">LinkedIn&lt;/a>, &lt;a href="https://www.youtube.com/channel/UCGrwmRcZiFkyq8-xAwn77Yg/">YouTube&lt;/a> or &lt;a href="https://www.facebook.com/videotranslatorai/">Facebook&lt;/a> for any comments, questions, or just to keep up to date with the work we do!&lt;/p></content:encoded></item><item><title>वीडियो अनुवाद किया गया अंग्रेजी से हिंदी में: एक कोन्विक्ट हेरिटेज</title><link>https://videotranslator.ai/news/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6-%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%97%E0%A4%AF%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%8F%E0%A4%95-%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B9%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%9C/</link><pubDate>April 9, 2019</pubDate><guid>https://videotranslator.ai/news/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6-%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%97%E0%A4%AF%E0%A4%BE-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9C%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%8F%E0%A4%95-%E0%A4%95%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%B9%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%9C/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/video-translation-from-english-to-hindi-convict-heritage_banner/video-translation-from-english-to-hindi-convict-heritage_banner_hi.jpg"/><description>इस पोस्ट में, हम अंग्रेजी से हिंदी में एक वीडियो का अनुवाद करने के तरीके को देखते हैं। वीडियो सिडनी के हयडे पार्क बैरक्स संग्रहालय का है, और संग्रहालय में एक नए प्रदर्शन के बारे में है।</description><content:encoded>&lt;p>आज का वीडियो &lt;a href="https://sydneylivingmuseums.com.au/hyde-park-barracks-museum">हयडे पार्क बैरक्स म्यूजियमस&lt;/a> से है। &lt;a href="https://www.youtube.com/channel/UCLjeUPvTffpHRH3CP1_yddA">यूटूब पेज&lt;/a>, विशेष रूप से यह &lt;a href="https://youtu.be/y_d83SsXW7M">वीडियो&lt;/a> है । हम इस वीडियो को अंग्रेजी से हिंदी में बदल देंगे ।&lt;/p>
 &lt;p>हाइडल पार्क बैरक्स म्यूजियम नवीनीकरण के दौर से गुजर रहा है । इस 2019 के अंत तक पूरा होने की उम्मीद है । क्यूरेटर और शोधकर्ताओं द्वारा नए शोध की एक बड़ी मात्रा हाइड पार्क बैरक में स्थित संग्रहालय को फिर से खोलने के बाद दिखाए जाने की उम्मीद है। यह नया प्रदर्शन ऑस्ट्रेलिया की सिद्धदोष विरासत के बारे में है । प्रारंभिक औपनिवेशिक ऑस्ट्रेलिया में अपराधियों के प्रभाव का दस्तावेजीकरण किया गया है, आंखों के माध्यम से देखा स्थानीय आदिवासी लोगों, और बसने वाले दोनों ने।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10545,6 +10686,7 @@ src="https://www.youtube.com/embed/WfVfokhIubA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>वीडियो अनुवाद किया गया अंग्रेजी से हिंदी में: एक कोन्विक्ट हेरिटेज&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="कदम">क़दम&lt;/h2>
 &lt;ol>
@@ -10610,6 +10752,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>अब हम संपत्ति में कैप्शन जोड़ने के लिए &lt;code>+&lt;/code> बटन पर क्लिक करते है। परिणाम नीचे दिखाया गया है ।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10621,6 +10764,7 @@ src="https://www.youtube.com/embed/wPVzrGi1ZYw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>एक कोन्विक्ट हेरिटेज : अंग्रेजी शीर्षक जोड़ें&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10645,6 +10789,7 @@ loading="lazy"
 &lt;/li>
 &lt;li>
 &lt;p>अब, हमारे वीडियो में &lt;code>हिंदी कैप्शन&lt;/code> जोड़ने के लिए &lt;code>ऐड कैप्शन&lt;/code> करे। यह निष्कर्षित परिणामी है।&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10657,6 +10802,7 @@ src="https://www.youtube.com/embed/WfVfokhIubA?start=&amp;end=" allowfullscreen 
 &lt;p>वीडियो अनुवाद किया गया अंग्रेजी से हिंदी में: एक कोन्विक्ट हेरिटेज&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;li>
 &lt;p>सब हो गया! इस पोस्ट को पढ़ने के लिए अपना समय देने का धंयवाद।&lt;/p>
@@ -10668,6 +10814,7 @@ src="https://www.youtube.com/embed/WfVfokhIubA?start=&amp;end=" allowfullscreen 
 &lt;p>यदि आप हमारी तकनीक को आजमाने में रुचि रखते हैं, तो कृपया &lt;a href="https://videotranslator.ai/free-trial">हमारे प्लेटफार्म का प्रयोग करे&lt;/a> या हमें ईमेल भेजे यहां &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>।&lt;/p></content:encoded></item><item><title>Video Translation From English To Hindi: A Convict Heritage</title><link>https://videotranslator.ai/news/video-translation-from-english-to-hindi-a-convict-heritage/</link><pubDate>April 2, 2019</pubDate><guid>https://videotranslator.ai/news/video-translation-from-english-to-hindi-a-convict-heritage/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/video-translation-from-english-to-hindi-convict-heritage_banner/video-translation-from-english-to-hindi-convict-heritage_banner.jpg"/><description>In this post, we look at how to translate a video from English to Hindi. The video is from the Hyde Park Barracks Museum in Sydney, and is about a new exhibit at the museum.</description><content:encoded>&lt;p>Today&amp;rsquo;s video is from the &lt;a href="https://sydneylivingmuseums.com.au/hyde-park-barracks-museum">Hyde Park Barracks Museum&amp;rsquo;s&lt;/a> &lt;a href="https://www.youtube.com/channel/UCLjeUPvTffpHRH3CP1_yddA">Youtube page&lt;/a>, specifically this &lt;a href="https://youtu.be/y_d83SsXW7M">video&lt;/a>. We will convert this video from English to Hindi.&lt;/p>
 &lt;p>Hyde Park Barracks Museum is undergoing a refurbishment. This is expected to be complete late 2019. A large amount of new research by curators and researchers based at Hyde Park Barracks is also expected to be shown once the museum is reopened.&lt;/p>
 &lt;p>This new exhibit is about Australia&amp;rsquo;s convict heritage. The impact of convicts in early colonial Australia is documented, seen through the eyes of both the local aboriginal people, and the settlers.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10679,6 +10826,7 @@ src="https://www.youtube.com/embed/WfVfokhIubA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A Convict Heritage: English To Hindi Video Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -10744,6 +10892,7 @@ A Convict Heritage: Add Capitalisation and Grammar
 &lt;/li>
 &lt;li>
 &lt;p>We now click the &lt;code>+&lt;/code> button to add the captions into the asset. The result is shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10755,6 +10904,7 @@ src="https://www.youtube.com/embed/wPVzrGi1ZYw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A Convict Heritage: Add English Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10779,6 +10929,7 @@ A Convict Heritage: Translate To Hindi
 &lt;/li>
 &lt;li>
 &lt;p>Now, we &lt;code>Add Caption&lt;/code> to add the &lt;code>Hindi captions&lt;/code> to our video. This is the resulting output.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10790,6 +10941,7 @@ src="https://www.youtube.com/embed/WfVfokhIubA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>A Convict Heritage: English To Hindi Video Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -10986,6 +11138,7 @@ Free Trial: Welcome to the Video Translator platform
 &lt;p>If you are interested in trying out our technology, please &lt;a href="https://videotranslator.ai/free-trial">try our platform&lt;/a>, or drop us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>How To Use Auto Overlay To Simplify Transcription</title><link>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</link><pubDate>March 5, 2019</pubDate><guid>https://videotranslator.ai/news/how-to-use-auto-overlay-to-simplify-transcription/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/how-to-use-auto-overlay-to-simplify-transcription/how-to-use-auto-overlay-to-simplify-transcription_banner.jpg"/><description>We look at an example where we translate a video from English to Chinese.</description><content:encoded>&lt;p>We got this video from &lt;a href="https://www.osl.com/">OSL Brokerage&amp;rsquo;s&lt;/a> &lt;a href="https://www.linkedin.com/company/oslbrokerage/">LinkedIn page&lt;/a>. We are not suggesting that we have any relationship with OSL, and largely, we are using this content to demonstrate the process by which video content can be translated.&lt;/p>
 &lt;p>This specific video already has captions, so we don&amp;rsquo;t need these per se. However, we will be adding Chinese captions as an overlay, as opposed to captions.&lt;/p>
 &lt;p>The &lt;code>final output is shown below&lt;/code>. The video covers news in a specialist topic, so the translation below is not accurate, but will be close. &lt;code>I have yet to meet an AI that understands the word 'Ethereum'&lt;/code>. Additionally, &lt;code>the stripe shown in the video has not been optimised, it cuts 1/2 way through so that the process makes sense&lt;/code>. In practise, &lt;code>you would edit further to make it look nice&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -10997,6 +11150,7 @@ src="https://www.youtube.com/embed/68xlFq3iKyA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>OSL: Chinese captions &amp;#43; blue overlay&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -11065,6 +11219,7 @@ Trigger the Translation from English to Simplified Chinese
 &lt;/li>
 &lt;li>
 &lt;p>This give us the following output. &lt;code>It works, but is not exactly very good because this video already had captions&lt;/code>. Note, this is just an AI - much like the above step, please have a subject matter expert eyeball the content and fix it up. &lt;code>Many of the words used in this context are specific, and it is a reasonable bet the AI will make mistakes&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11076,6 +11231,7 @@ src="https://www.youtube.com/embed/BOVoty9oRrk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>OSL: Now with Chinese captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -11100,6 +11256,7 @@ OSL: Changing Captions -&amp;gt; Overlays
 &lt;/li>
 &lt;li>
 &lt;p>This is the resulting output. &lt;code>You can see that this is obviously NOT optimised, but both the Chinese overlay, and the original captioning can be seen for demonstration purposes&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11111,6 +11268,7 @@ src="https://www.youtube.com/embed/68xlFq3iKyA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>OSL: Chinese captions and a blue overlay&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -11146,6 +11304,7 @@ src="https://www.youtube.com/embed/68xlFq3iKyA?start=&amp;end=" allowfullscreen 
 &lt;p>Video Translator&amp;rsquo;s translation platform (&amp;ldquo;the application&amp;rdquo;) is an Internet-enabled SaaS (Software as a Service) platform which assists content creators (&amp;ldquo;the client&amp;rdquo;) to engage with stakeholders (&amp;ldquo;the audience&amp;rdquo;) from different linguistic backgrounds. The application is used to convert hypermedia content from one language to another, using an Artificial Intelligence (AI) assisted process.&lt;/p>
 &lt;h2 id="explainer-video">Explainer Video&lt;/h2>
 &lt;p>We are super excited to announce that we have an explainer video finally, all thanks to the wonderful &lt;a href="https://www.linkedin.com/in/tarryn-myburgh/">Tarryn Myburgh&lt;/a> at &lt;a href="https://www.tmcreates.com/">TMCreates&lt;/a>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11157,6 +11316,7 @@ src="https://www.youtube.com/embed/hsPOHh0H2rk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Video Translator: Explainer Video&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>&lt;code>Did you like it? Let us know what you think!&lt;/code>&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
@@ -11172,6 +11332,7 @@ src="https://www.youtube.com/embed/hsPOHh0H2rk?start=&amp;end=" allowfullscreen 
 &lt;li>Following this, we will &lt;code>use the second AI to translate&lt;/code> the content &lt;code>into Swahili, which the government is trying to popularise in South Sudan&lt;/code> to &lt;a href="https://www.worldatlas.com/articles/what-languages-are-spoken-in-sudan.html">encourage integration into the East African Economic Community&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;p>The end result is shown below, &lt;code>please play to see the Swahili&lt;/code> translation in the captions. Note, for a client facing asset, &lt;code>you would also translate the title, filename and associated metadata&lt;/code> into Swahili, the idea being &lt;code>search engines can properly index the content&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11184,8 +11345,10 @@ src="https://www.youtube.com/embed/f4hdrMVDY60?start=&amp;end=" allowfullscreen 
 &lt;p>Aliir’s story: Swahili captions&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;h2 id="context">Context&lt;/h2>
 &lt;p>Globally human trafficking is a serious law enforcement challenge. We do not particularly have ideas about how to combat this challenge. We think that serious people are looking into this, and &lt;code>if it makes sense for PM Morrison to make this video, there is probably good reason behind it&lt;/code>, seeing as he has better access to information from law enforcement. Snippets from this video have surfaced on the Internet, below is from ABC News sourced from &lt;a href="https://www.youtube.com/channel/UCULldxqht8mAVpBPTQlEAlA">here&lt;/a>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11197,6 +11360,7 @@ src="https://www.youtube.com/embed/wce5QDeCuOk?start=33&amp;end=" allowfullscree
 &lt;figcaption>
 &lt;p>Operation Sovereign Borders: Warning to People Smugglers&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>We picked our choice of video to translate below to show that not all stories fit in boxes, and solutions need to include this reality. It is possible to notice that people of African descent are over represented in the crime statistics, and to simultaneously recognise that having African genes can be an advantage for a sports person.&lt;/p>
 &lt;p>These issues are complicated, but we think more stories need to be heard, and maybe we get lucky and our product helps someone find their voice.&lt;/p>
@@ -11331,6 +11495,7 @@ Transcription: Australian English
 &lt;/li>
 &lt;li>
 &lt;p>After transcription, the below result is shown below. There was&lt;code> quite a lot of correction/addition after 1:30 -&amp;gt; 1:40&lt;/code>. This is because &lt;code>Aliir is talking about a fairly emotional time for himself and his family, so the intonation is quite different&lt;/code>, and the AI struggled with this.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11342,6 +11507,7 @@ src="https://www.youtube.com/embed/6kv9dz-JgAI?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Aliir’s story: English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -11366,6 +11532,7 @@ Translation: Australian English to Swahili
 &lt;/li>
 &lt;li>
 &lt;p>The end result after the translation from English to Swahili is shown below. Note, for your own projects, always &lt;code>have someone who speaks the target language eyeball the results&lt;/code>. The process shows an AI, which is likely to be very close to correct, but probably wrong in a few small ways.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11377,6 +11544,7 @@ src="https://www.youtube.com/embed/f4hdrMVDY60?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Aliir’s story: Swahili captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -11394,6 +11562,7 @@ src="https://www.youtube.com/embed/f4hdrMVDY60?start=&amp;end=" allowfullscreen 
 &lt;li>Use the &lt;code>AI Translation&lt;/code> from &lt;code>English to Afrikaans&lt;/code> to translate the video.&lt;/li>
 &lt;/ul>
 &lt;p>Please note we have not cleaned up the Afrikaans text. The below video from &lt;code>LionWhispererTV is Bongani's Birthday&lt;/code>. &lt;code>Bongani is the friendly male lion&lt;/code> this video is about. In the video, Kevin refers to Bongani the lion as, &lt;code>'a nice old man, but full of beans'&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11405,6 +11574,7 @@ src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>LionWhispererTV: English (South Africa) with Afrikaans captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>We choose this video for two purposes, first the work that the Kevin Richardson Foundation is doing is pretty amazing. You only have to look at the video titled &lt;code>Lion Kisses&lt;/code> &lt;a href="https://www.youtube.com/watch?v=lHbfsUUI1Hk">here&lt;/a>, to see what we are talking about. Trust me on this one.&lt;/p>
 &lt;p>Secondly, &lt;code>a large part of their work is in raising awareness&lt;/code>. While we have no idea what the exact level of awareness in South Africa relating to conservation efforts is, we do know South Africa has a &lt;a href="https://en.wikipedia.org/wiki/Languages_of_South_Africa">large number of languages&lt;/a>, and getting information out remains a challenge.&lt;/p>
@@ -11461,6 +11631,7 @@ Transcription with English (South Africa) as our dialect choice
 &lt;/li>
 &lt;li>
 &lt;p>Open up the item, and have a look at the captions. The main task here, is to &lt;code>fix up the transcription&lt;/code>. The notes section below covers some of the issues around this specific video. &lt;code>After fixing up&lt;/code>, the end result is below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11472,6 +11643,7 @@ src="https://www.youtube.com/embed/xl0kSNBqo44?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Bongani’s Birthday! Post transcription with English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -11516,6 +11688,7 @@ Captions post translation, in Afrikaans
 &lt;/li>
 &lt;li>
 &lt;p>The final version of the video is shown below. In a real workflow, &lt;code>please ask your subject matter expert to eyeball the translation and verify suitability&lt;/code> for your stakeholders.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11527,6 +11700,7 @@ src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Bongani’s Birthday! Captions translated from English to Afrikaans&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -11552,6 +11726,7 @@ src="https://www.youtube.com/embed/uYBN8wS6ZG0?start=&amp;end=" allowfullscreen 
 &lt;li>Use the &lt;code>AI Translation&lt;/code> from &lt;code>English to Chinese&lt;/code> to translate the video.&lt;/li>
 &lt;/ul>
 &lt;p>Please note, &lt;code>we will not be fixing up the Chinese language&lt;/code> translation post AI translation, as this post covers the process itself. For a client facing output,&lt;code> please work with a language aware subject matter specialist&lt;/code> to ensure a &lt;code>high quality artefact&lt;/code> at the end of your process.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11563,6 +11738,7 @@ src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ICH: English Original With Chinese Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>First we will look at the process by which this video translation was completed. Then, a discussion on challenges and options around the video translation. Finally, some extra options and how they can be used to meet your client&amp;rsquo;s requirements.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
@@ -11618,6 +11794,7 @@ Trigger the Transcription, with UK English for our dialect choice
 &lt;/li>
 &lt;li>
 &lt;p>Open up the item, and have a look at the captions. The main task here, is to &lt;code>fix up the transcription&lt;/code>. The heuristics section below covers some of the issues around this specific video. &lt;code>After fixing up&lt;/code>, the end result is below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11629,6 +11806,7 @@ src="https://www.youtube.com/embed/6Q0bJc1fQsA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ICH: English Original With English Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -11673,6 +11851,7 @@ Captions post translation, in Simplified Chinese
 &lt;/li>
 &lt;li>
 &lt;p>The final version of the video is shown below. In a real workflow, please ask your subject matter expert to eyeball the translation and verify suitability for your stakeholders.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11684,6 +11863,7 @@ src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ICH: English Original With Chinese Captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -11708,6 +11888,7 @@ src="https://www.youtube.com/embed/qUjVAzFCPyU?start=&amp;end=" allowfullscreen 
 &lt;li>&lt;code>Translate the video&lt;/code> from &lt;code>English to Hindi&lt;/code>.&lt;/li>
 &lt;/ul>
 &lt;p>The final result is below. Please note, we have &lt;code>not cleaned up the Hindi result&lt;/code>, this &lt;code>post is specifically about the limitations of AI&lt;/code>, and where the &lt;code>human subject matter expert needs to take stewardship over the AI&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11719,6 +11900,7 @@ src="https://www.youtube.com/embed/7xWoR0Gz2v4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Gram Marg: An English video translated into Hindi&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>For context from the &lt;a href="http://grammarg.in">website&lt;/a>, &lt;code>Gram Marg's main aim is to empower rural India digitally by first and foremost bringing in Internet connectivity thereby empowering rural citizens digitally and in the due course, bringing rural India on board as a major contributor to economic growth and development&lt;/code>.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
@@ -11771,6 +11953,7 @@ Gram Marg: Transcribe the video in Indian English
 &lt;/li>
 &lt;li>
 &lt;p>This was then corrected manually as described in the &lt;code>heuristics section below&lt;/code>. This gives us the same video with English captions, shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11782,6 +11965,7 @@ src="https://www.youtube.com/embed/sMzSEwKsxEU?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Gram Marg: English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -11806,6 +11990,7 @@ Gram Marg: Translate the video from Indian English to Hindi
 &lt;/li>
 &lt;li>
 &lt;p>After the translation, we did not fix up the Hindi text. In a normal workflow, you would have a Hindi speaker eyeball and clean up the text for a superior result. The results are shown below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11817,6 +12002,7 @@ src="https://www.youtube.com/embed/7xWoR0Gz2v4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Gram Marg: An English video translated into Hindi&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -11865,6 +12051,7 @@ src="https://www.youtube.com/embed/7xWoR0Gz2v4?start=&amp;end=" allowfullscreen 
 &lt;/ul>
 &lt;p>If you are looking to replicate this process, please note, after the translation step, it is highly recommended that you have a Hebrew qualified subject-matter expert finesse the captions. As always, &lt;code>use the AI to do the heavy lifting, and your own subject-matter experts to do the high value tasks&lt;/code>.&lt;/p>
 &lt;p>The end result is shown below. Please note &lt;code>we are using captions, and not text overlays&lt;/code>, to produce the below. In captions, we cannot control the details quite as well - in this example, &lt;code>had we used text overlays, we could have set the Hebrew text to be right-to-left&lt;/code>, but in captions we have simply set to centred.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -11876,6 +12063,7 @@ src="https://www.youtube.com/embed/IhXhG9W10lA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ChangePlan: English, with Hebrew captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;p>A quick viewing of the video will show that &lt;code>certain words, such as ChangePlan, are not translated&lt;/code>. This is due to the fact that &lt;code>there is no translation of ChangePlan in Hebrew&lt;/code>, as this is a proper noun (technically, a named entity, for the NLP folks). In such cases, it is expected that the asset owner user phonetic transliteration, literally spell the sounds out in Hebrew. The Video Translator platform can be used for transliteration, see &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a> for more information.&lt;/p>
 &lt;h2 id="steps">Steps&lt;/h2>
@@ -11999,6 +12187,7 @@ Hebrew Translations populated as Text Overlays in the ChangePlan video
 &lt;/li>
 &lt;li>
 &lt;p>On completion, the original video looks like below. Note, the Hebrew text has not been cleaned up in the below, mostly so the process can be fully documented.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12010,6 +12199,7 @@ src="https://www.youtube.com/embed/IhXhG9W10lA?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>ChangePlan: English, with Hebrew captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -12154,6 +12344,7 @@ StarCraft II (1v1) map Catalyst, where AlphaStar played MaNa from Team Liquid
 &lt;/li>
 &lt;li>
 &lt;p>In &lt;a href="https://www.youtube.com/watch?v=H3MCb4W7-kM&amp;amp;t=6m15s">this&lt;/a> clip, &lt;code>(i) TLO sends over a probe to scout, (ii) AlphaStar sees the probe detect a stargate, (iii) waits until the probe no longer has visibility, and (iv) cancels the stargate&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12166,9 +12357,11 @@ src="https://www.youtube.com/embed/H3MCb4W7-kM?start=375&amp;end=" allowfullscre
 &lt;p>AlphaStar plays mind games with LiquidTLO&lt;/p>
 &lt;/figcaption>
 &lt;/div>
+&lt;/div>
 &lt;/li>
 &lt;li>
 &lt;p>This &lt;code>behavior is very human like&lt;/code>, but why it is doing some of these things is not entirely clear. For example, seen &lt;a href="https://www.youtube.com/watch?v=FWbVseLiopw&amp;amp;t=2m10s">here&lt;/a> something interesting happens. &lt;code>The AI overproduces probes&lt;/code> on the first base (that is, &lt;code>it saturates the base and hence the base efficiency is lower&lt;/code>) where as a human would not do this and &lt;code>you would think that a machine would also not do this&lt;/code>, seeing as the &lt;code>AI is likely to understand going over 100% reduces efficiency&lt;/code> - but AlphaStar does any way.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12180,6 +12373,7 @@ src="https://www.youtube.com/embed/FWbVseLiopw?start=130&amp;end=" allowfullscre
 &lt;figcaption>
 &lt;p>AlphaStar over-saturates its main base, getting 19/16 drones&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ul>
@@ -12353,6 +12547,7 @@ Video Translator forum deployed successfully
 &lt;p>What we are looking at today, is &lt;code>how to transcribe a video in an language you do not know&lt;/code>. Mostly, we will make changes to a template, and implement these changes in our items. Here, we have &lt;code>Hindi captions&lt;/code> on a speech by Narendra Modi, the current Indian Prime Minister. The assumption is, &lt;code>we do not know Hindi&lt;/code>.&lt;/p>
 &lt;p>Note, &lt;code>no edits have been made&lt;/code> to the underlying text, not &lt;code>after the transcription, or after the translation&lt;/code>, hence the accuracy is low. As always, we recommend using the &lt;code>AI to do the heavy lifting, and using a human subject-matter expert to clean up&lt;/code> the results.&lt;/p>
 &lt;p>No really, &lt;code>use a subject matter expert&lt;/code> and &lt;code>do not cheap out on translators&lt;/code>. This tool is built &lt;code>to increase efficiency, not short change&lt;/code> staff/contractors.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12364,6 +12559,7 @@ src="https://www.youtube.com/embed/ZkuivxuCU_0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Narendra Modi speech with English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="context">Context&lt;/h2>
 &lt;p>It is important to understand what we are doing. We &lt;code>want to transcribe the speech, but we do NOT know Hindi&lt;/code>, hence cannot translate this content. So we will &lt;code>pretend to translate our template&lt;/code>, but actually simply &lt;code>set it up to expect Hindi&lt;/code> content.&lt;/p>
@@ -12485,6 +12681,7 @@ Item, with video in English and audio in Hindi
 &lt;/li>
 &lt;li>
 &lt;p>Upload the video, and then transcribe to get the captions as required. This looks like below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12496,6 +12693,7 @@ src="https://www.youtube.com/embed/5vvgC9NF2W4?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Narendra Modi speech with Hindi captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -12523,6 +12721,7 @@ Hindi captions with font, colour and size options
 &lt;/li>
 &lt;li>
 &lt;p>Below, the translated version (into English) is shown, and watching it will show the errors. The error compounds, because (i) our transcript is not great, (ii) our translation was based on the same dodgy transcript.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -12534,6 +12733,7 @@ src="https://www.youtube.com/embed/ZkuivxuCU_0?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Narendra Modi speech with English captions&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -13085,6 +13285,7 @@ Management: Add an external user
 &lt;p>Should you have any questions, or just want to drop us a note saying hello, please feel free to send us an email at &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>.&lt;/p></content:encoded></item><item><title>English To German Video Translation: What is a Babybündel?</title><link>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</link><pubDate>January 10, 2019</pubDate><guid>https://videotranslator.ai/news/english-to-german-video-translation-what-is-a-babyb%C3%BCndel/</guid><dc:creator>Tat Banerjee</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="https://storage.googleapis.com/site-assets-prod/blog_assets/transcribe_video_in_a_different_language_banner.jpg"/><description>Video Translator's platform provides a client with the ability to transcribe and translate content to/from a number of languages. Today we'll transcribe content to a different language, and use a practical example to demonstrate the technology.</description><content:encoded>&lt;p>Video Translator&amp;rsquo;s platform provides a client with the ability to transcribe and translate content to/from a &lt;code>number of languages&lt;/code>, as discussed &lt;a href="https://videotranslator.ai/news/what-languages-are-available/">here&lt;/a>. What we are going to do today is transcribe content to a different language, and use a &lt;code>practical example&lt;/code> to demonstrate the technology.&lt;/p>
 &lt;p>We will be using &lt;a href="https://twitter.com/NSWHealth/status/1076613352447631360">this&lt;/a> video, from the team at &lt;a href="https://www.health.nsw.gov.au/Pages/default.aspx">NSWHealth&lt;/a>. The video is a simple, but effective solution for young mothers, where NSWHealth provide a &lt;code>useful box of household items aimed at first time mothers&lt;/code>.&lt;/p>
 &lt;p>The idea is to (1) &lt;code>transcribe from English&lt;/code>, (2) &lt;code>translate to German&lt;/code>, (3) &lt;code>transcribe to German&lt;/code>, with the end output being the same video in German. To illustrate using a contrast, we use a &lt;code>male German voice&lt;/code>. That is, we are doing a &lt;code>English to German video translation&lt;/code>. Please &lt;code>play the video&lt;/code> to see the &lt;code>end result of the process&lt;/code> described below.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -13096,6 +13297,7 @@ src="https://www.youtube.com/embed/rHsTd1fuMtw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Baby Bundle: English Audio Muted &amp;#43; German Audio Overlaid&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;h2 id="steps">Steps&lt;/h2>
 &lt;ol>
@@ -13127,6 +13329,7 @@ Template showing Language and Structure Options
 &lt;/li>
 &lt;li>
 &lt;p>Lets quickly &lt;code>create an item of type myTemplate&lt;/code>, called &lt;code>baby_bundle&lt;/code> and &lt;code>upload the video&lt;/code>. The voice&amp;rsquo;s are unsurprisingly, &lt;code>Australian female&lt;/code> which we will switch to &lt;code>German male&lt;/code> to demonstrate the multiple voices. Below is the original video from &lt;a href="https://twitter.com/NSWHealth">NSW Health&lt;/a>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -13138,6 +13341,7 @@ src="https://www.youtube.com/embed/O7ZER3ybKZk?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Baby Bundle: Original&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -13259,6 +13463,7 @@ Copy/Paste Captions into Audio
 &lt;/li>
 &lt;li>
 &lt;p>Please note that the &lt;code>German will be incorrect&lt;/code> - its just an AI. After translation, it is recommend that a &lt;code>human subject-matter expert clean up&lt;/code> the results. The Video Translator platform is built on the logic of &lt;code>AI assisting people&lt;/code>, the recommendation is to use the &lt;code>AI to do the heavy lifting&lt;/code>, and use the &lt;code>human to do the high value tasks&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -13270,6 +13475,7 @@ src="https://www.youtube.com/embed/rHsTd1fuMtw?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Baby Bundle: Completed Video Translation&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -13493,6 +13699,7 @@ Adding the Audio Overlay
 &lt;/li>
 &lt;li>
 &lt;p>This gives us the final product. Please note (a) &lt;code>original audio&lt;/code> has been &lt;code>muted&lt;/code>, (b) &lt;code>new audio&lt;/code> has been added, in this case the &lt;code>robotic voice&lt;/code> of the AI. Please note, there is no &lt;em>requirement&lt;/em> to use the AI, a human recorded audio codec is often preferable, depending on the target audience - &lt;code>click play below to have a listen&lt;/code>.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -13504,6 +13711,7 @@ src="https://www.youtube.com/embed/Va_Yi_NFKEE?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translate Video: Sample Video&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
@@ -14115,6 +14323,7 @@ Translate Video: Add Text Overlay
 &lt;/li>
 &lt;li>
 &lt;p>Play the video to see below. It should be noted, this is a &lt;code>Text Overlay&lt;/code>, and not a &lt;code>Caption&lt;/code>. We could also have used a caption here if required.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -14126,6 +14335,7 @@ src="https://www.youtube.com/embed/wSMM2cSfRRQ?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translate Video: Sample Video with Overlay&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -14167,6 +14377,7 @@ Translate Video: Set Name
 &lt;/li>
 &lt;li>
 &lt;p>Once complete, the process produces the below. Congratulations, you have translated your video.&lt;/p>
+&lt;div class="video-div">
 &lt;div class="embed video-player">
 &lt;iframe
 class="youtube-player"
@@ -14178,6 +14389,7 @@ src="https://www.youtube.com/embed/DeRlOtbQOsI?start=&amp;end=" allowfullscreen 
 &lt;figcaption>
 &lt;p>Translate Video: Sample Video with Translated Overlay&lt;/p>
 &lt;/figcaption>
+&lt;/div>
 &lt;/div>
 &lt;/li>
 &lt;/ol>
