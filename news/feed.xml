@@ -1,4 +1,40 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Year In Review 2020</title><link>https://videotranslator.ai/news/year-in-review-2020-may-you-live-in-interesting-times/</link><pubDate>January 6, 2021</pubDate><guid>https://videotranslator.ai/news/year-in-review-2020-may-you-live-in-interesting-times/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/2020_in_review_banner.jpg"/><description>Read about how VideoTranslator successfully negotiated 2020 despite several challenges. And Happy New Year!</description><content:encoded>&lt;h2 id="happy-new-year">Happy New Year&lt;/h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>What Is Next For VideoTranslator?</title><link>https://videotranslator.ai/news/what-is-next-for-video-translator/</link><pubDate>February 22, 2021</pubDate><guid>https://videotranslator.ai/news/what-is-next-for-video-translator/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/what_is_next_for_video_translator.png"/><description>Team VideoTranslator has big things planned for 2021. Read on to find out about what our pipeline looks like?</description><content:encoded>&lt;h2 id="what-comes-next">What Comes Next&lt;/h2>
+&lt;p>Things never go right in a startup.&lt;/p>
+&lt;p>Honestly. Even when the go right, generally something odd happens and it all works out for the best, but things tend to not go plan, so to speak.&lt;/p>
+&lt;p>Firstly, for those of you who have recently joined our little community, welcome!&lt;/p>
+&lt;p>We are very glad to have you here, and hopefully the work of Team VideoTranslator and our community of friends, well wishers, prospects, and clients will help you achieve your goals.&lt;/p>
+&lt;p>This is a short post about what comes next.&lt;/p>
+&lt;h2 id="turns-and-roundabouts">Turns And Roundabouts&lt;/h2>
+&lt;p>Renee moved on at the end of last year, to the far more important gig of being mum to her second child!&lt;/p>
+&lt;p>We wish her all the best! You&amp;rsquo;ll smash it for sure mate - best of luck.&lt;/p>
+&lt;p>We had a recent hire here at Team VideoTranslator, Tessa Joana, who takes the role previously held by Renee Dubé.&lt;/p>
+&lt;p>Tessa will be looking after our social media efforts, and also doing more besides in the video space.&lt;/p>
+&lt;p>Welcome &lt;a href="https://videotranslator.ai/people/" title="Our People: Tessa Joana">Tessa&lt;/a>!&lt;/p>
+&lt;h2 id="what-we-need-to-fix">What We Need To Fix&lt;/h2>
+&lt;p>Over the last few months, there have been numerous issues which need to be addressed in our Saas app. Putting together the feedback the main issues are listed below.&lt;/p>
+&lt;h3 id="lack-of-documentation">Lack Of Documentation&lt;/h3>
+&lt;p>Our documentation is just not every good. So the plan is to redo a lot of the documentation.&lt;/p>
+&lt;p>In addition, we will be turning a lot of the documentation into video content. This will all get put onto our YouTube channel which is getting a bunch more content and will be better tended to going forward.&lt;/p>
+&lt;h3 id="language--dialect-mapping-issues">Language / Dialect Mapping Issues&lt;/h3>
+&lt;p>While we have an comprehensive language dialect mapping which adds great value to our clients, we do a less than stellar job explaining this content.&lt;/p>
+&lt;p>It is also relatively hard to add/remove additional languages for a user in terms of the UX (user experience flow).&lt;/p>
+&lt;h3 id="general-ux-challenges">General UX Challenges&lt;/h3>
+&lt;p>Many of the workflows were developed a year or so ago, and large parts of the app are beginning to show their age.&lt;/p>
+&lt;ul>
+&lt;li>The material ui version needs to be patched.&lt;/li>
+&lt;li>The core text editor experience needs to be enhanced significantly.&lt;/li>
+&lt;li>Adding synthetic voices, that is the AI dubbing workflow, are simply terrible.&lt;/li>
+&lt;/ul>
+&lt;h3 id="forums">Forums&lt;/h3>
+&lt;p>We are looking at getting a forum up and running. This is where a lot of client correspondence will be put in, including where we are going with many of our projects.&lt;/p>
+&lt;p>Why?&lt;/p>
+&lt;p>The basic idea is to make a single source of truth which is searchable.&lt;/p>
+&lt;p>We have also added a search to our website, but we have not yet turned on tracking on the search, but it seems to work well.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/videotranslator-search-box.png" alt="Search function on VideoTranslator website" title="Search function on VideoTranslator website" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/videotranslator-search-box.png">Search function on VideoTranslator website &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>Good things are happening, and much more is in the pipeline. Reach out to us at &lt;a href="mailto:hello@videotranslator.ai" title="hello@videotranslator.ai">hello@videotranslator.ai&lt;/a> - to let us know what you think and what we can do to make your user experience better!&lt;/p>
+&lt;p>Thank you for all your support,&lt;/p>
+&lt;p>Tat Banerjee&lt;/p></content:encoded></item><item><title>Year In Review 2020</title><link>https://videotranslator.ai/news/year-in-review-2020-may-you-live-in-interesting-times/</link><pubDate>January 6, 2021</pubDate><guid>https://videotranslator.ai/news/year-in-review-2020-may-you-live-in-interesting-times/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/2020_in_review_banner.jpg"/><description>Read about how VideoTranslator successfully negotiated 2020 despite several challenges. And Happy New Year!</description><content:encoded>&lt;h2 id="happy-new-year">Happy New Year&lt;/h2>
 &lt;p>2020 is over. Thankfully.&lt;/p>
 &lt;p>This might be tempting the fates just a bit, but really, 2021 has got to be better right!&lt;/p>
 &lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/2021_video_translator_year_in-review.jpg" alt="Team VideoTranslator: Happy New Year" title="Team VideoTranslator: Happy New Year" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/2021_video_translator_year_in-review.jpg">Team VideoTranslator: Happy New Year &lt;/a> &lt;/div>&lt;/div>&lt;/p>
