@@ -1,4 +1,128 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How To Import And Edit SRT File To Adobe Premiere Pro</title><link>https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/</link><pubDate>May 31, 2021</pubDate><guid>https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-import-and-edit-srt-file-to-adobe-premiere-pro.jpg"/><description>This post will talk about what an SRT is, different ways to create an SRT file, how to import and edit SRT file to Adobe Premiere Pro and how to export video with subtitle in Adobe Premiere Pro.</description><content:encoded>&lt;p>Hello, fam!&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Cara Mengimpor Dan Mengedit File SRT Ke Adobe Premiere Pro</title><link>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</link><pubDate>May 31, 2021</pubDate><guid>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/cara-mengimpor-and-mengedit-file-srt-ke-adobe-premiere-pro.jpg"/><description>Postingan kali ini akan membahas tentang apa itu SRT, berbagai cara membuat file SRT, cara mengimpor dan mengedit file SRT ke Adobe Premiere Pro dan cara mengekspor video dengan subtitle di Adobe Premiere Pro.</description><content:encoded>&lt;p>Halo, semuanya!&lt;/p>
+&lt;p>Kembali lagi bersapa Video Translator dimana kami akan memberikan tips and tricks tentang dunia media dan terjemahan.&lt;/p>
+&lt;p>Kali ini, kami akan membahas cara agar kalian bisa mengimpor dan mengedit file SRT ke Adobe Premiere Pro.&lt;/p>
+&lt;p>Sebelum mulai, yuk kita cari tahu apa sih file SRT&amp;hellip;&lt;/p>
+&lt;h2 id="apa-itu-srt">Apa Itu SRT?&lt;/h2>
+&lt;p>&lt;a href="https://blog.hubspot.com/marketing/srt-file" title="Apa itu SRT">SRT adalah file teks biasa yang berisi informasi penting mengenai subtitle&lt;/a>, termasuk kode waktu awal dan akhir teks kalian untuk memastikan subtitle kalian cocok dengan audio kalian, dan nomor urut subtitle.&lt;/p>
+&lt;p>Dengan memiliki SRT, video kalian akan memiliki subtitle atau teks di layar. Memiliki subtitle atau teks pada video bakalan sangat membantu banyak orang, loh, terutama mereka yang memiliki gangguan pendengaran.&lt;/p>
+&lt;h2 id="bagaimana-cara-membuat-file-srt">Bagaimana Cara Membuat File SRT?&lt;/h2>
+&lt;p>Secara garis besar, kalian bisa bisa membuat file SRT dengan menggunakan editor teks apapun atau dengan menggunakan software SRT.&lt;/p>
+&lt;h3 id="menggunakan-editor-text-untuk-membuat-file-srt">Menggunakan Editor Text Untuk Membuat File SRT&lt;/h3>
+&lt;p>Untuk membuat file SRT di editor text, gunakan langkah-langkah berikut:&lt;/p>
+&lt;ol>
+&lt;li>Buka text editor apa saja, misalnya TextEdit atau Notepad.&lt;/li>
+&lt;li>Urutkan garis caption dengan nomor yang dimulai dari angka 1.&lt;/li>
+&lt;li>Tekan enter dan tempatkan cap waktu. Format dari cap waktu yang akan kalian tempatkan adalah &amp;lsquo;jam:menit:detik,milidetik &amp;ndash;&amp;gt; jam:menit:detik,milidetik&amp;rsquo;.&lt;/li>
+&lt;li>Tekan enter lagi dan mulailah menulis caption kalian.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Pastikan kalian tidak mengacaukan format cap waktu.&lt;/strong>&lt;/p>
+&lt;h4 id="menyimpan-file-srt-dari-textedit-di-mac">Menyimpan FIle SRT Dari TextEdit Di Mac&lt;/h4>
+&lt;p>Buka aplikasi TextEdit di Mac kalian.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Urutkan garis caption dengan nomor yang dimulai dari angka 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tekan enter dan tempatkan cap waktu. Format dari cap waktu yang akan kalian tempatkan adalah &amp;lsquo;jam:menit:detik,milidetik &amp;ndash;&amp;gt; jam:menit:detik,milidetik&amp;rsquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tekan enter lagi dan mulailah menulis caption kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik Format &amp;gt; &amp;lsquo;Make Plain Text&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg" alt="Pastikan kalian sudah mengatur &amp;amp;lsquo;make plain text&amp;amp;rsquo; di TextEdit untuk membuat file SRT" title="Pastikan kalian sudah mengatur &amp;#39;make plain text&amp;#39; di TextEdit untuk membuat file SRT" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg">Pastikan kalian sudah mengatur &amp;#39;make plain text&amp;#39; di TextEdit untuk membuat file SRT &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik File &amp;gt; save.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di kolom Save As, ketik nama file kalian. TextEdit akan secara otomatis membuat extension file kalian menjadi &lt;strong>.txt&lt;/strong> jadi kalian harus menggantinya menjadi &lt;strong>.srt&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg" alt="Menyimpan file SRT di TextEdit" title="Menyimpan file SRT di TextEdit" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg">Menyimpan file SRT di TextEdit &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hapus centang tulisan &amp;lsquo;If no extension is provided, use .txt&amp;rsquo; dan klik save.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="menggunakan-videotranslator-untuk-membuat-file-srt">Menggunakan VideoTranslator Untuk Membuat File SRT&lt;/h3>
+&lt;p>Kalau kalian tidak mau membuat file SRT secara manual, kalian bisa menggunakan VideoTranslator. VideoTranslator menggunakan kecerdasan buatan untuk mentranskripsikan video kalian. Dengan menggunakan VideoTranslator, kalian bisa menghemat banyak waktu.&lt;/p>
+&lt;p>Berikut merupakan langkah-langkah yang harus kalian lakukan untuk membuat file SRT dari VideoTranslator:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Kunjungi halaman &lt;a href="www.videotranslator.ai" title="Video Translator">www.videotranslator.ai&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalau kalian sudah memiliki akun, masuk ke akun kalian. Kalau kalian belum memiliki akun, kalian. bisa membuat akun baru atau melakukan &lt;a href="https://videotranslator.ai/free-trial/" title="Percobaan gratis videotranslator">percobaan gratis&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Unggah video kalian melalui tombol quicktranscribe.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih bahasa dan dialek dari video kalian dan pencet tombol accept untuk melakukan transkripsi.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg" alt="Menggunakan VideoTranslator untuk membuat file SRT" title="Menggunakan VideoTranslator untuk membuat file SRT" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg">Menggunakan VideoTranslator untuk membuat file SRT &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Setelah proses transkripsi selesai, cek kembali hasil transkripsi dan benarkan tata bahasa seperti huruf kapital dan tanda titik.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Unduh file &lt;code>srt&lt;/code>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="cara-mengimpor-file-srt-ke-adobe-premiere-pro">Cara Mengimpor File SRT Ke Adobe Premiere Pro&lt;/h2>
+&lt;p>Nah, setelah kalian tau gimana sih cara membuat file SRT, kalian bisa mengimpor file kalian ke Adobe Premiere Pro.&lt;/p>
+&lt;p>Berikut adalah cara untuk mengimpor file SRT di Adobe Premiere Pro:&lt;/p>
+&lt;ul>
+&lt;li>Buka proyek kalian di Adobe Premiere Pro. Adobe Premiere Pro yang kami gunakan adalah versi 2020.&lt;/li>
+&lt;li>Impor subtitle dengan mengklik File &amp;gt; Impor dan temukan file subtitle kalian kemudian klik impor.&lt;/li>
+&lt;/ul>
+&lt;p>Atau, kalian bisa menyeret file subtitle ke timeline.&lt;/p>
+&lt;h2 id="cara-mengedit-file-srt-ke-adobe-premiere-pro">Cara Mengedit File SRT Ke Adobe Premiere Pro&lt;/h2>
+&lt;p>Ada dua cara untuk mengedit subtitle di Adobe Premiere Pro.&lt;/p>
+&lt;h3 id="cara-pertama-untuk-mengedit-subtitle-di-adobe-premiere-pro">Cara Pertama Untuk Mengedit Subtitle Di Adobe Premiere Pro&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Window &amp;gt; Caption&lt;/strong>&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/click-on-the-captions-tab-to-edit-your-subtitle-in-adobe-premiere-pro.jpg" alt="Klik tombol caption untuk mengedit subtitle kalian di Adobe Premiere Pro" title="Klik tombol caption untuk mengedit subtitle kalian di Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/click-on-the-captions-tab-to-edit-your-subtitle-in-adobe-premiere-pro.jpg">Klik tombol caption untuk mengedit subtitle kalian di Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>import settings&lt;/strong>. Disini, kalian bisa melakukan pengaturan subtitle seperti font style, font size, dan lokasi subtitle secara keseluruhan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/click-import-to-edit-your-subtitle-in-adobe-premiere-pro.jpg" alt="Klik tombol import untuk mengedit subtitle kalian di Adobe Premiere Pro" title="Klik tombol import untuk mengedit subtitle kalian di Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/click-import-to-edit-your-subtitle-in-adobe-premiere-pro.jpg">Klik tombol import untuk mengedit subtitle kalian di Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dengan melakukan metode ini, seluruh pengaturan subtitle kalian akan seragam.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/caption-import-settings-at-adobe-premiere-pro.jpg" alt="Settingan caption di Adobe Premiere Pro" title="Settingan caption di Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/caption-import-settings-at-adobe-premiere-pro.jpg">Settingan caption di Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="cara-kedua-untuk-mengedit-subtitle-di-adobe-premiere-pro">Cara Kedua Untuk Mengedit Subtitle Di Adobe Premiere Pro&lt;/h3>
+&lt;ol>
+&lt;li>Pastikan bahwa file SRT kalian sudah ada di timeline.&lt;/li>
+&lt;li>Klik dua kali di file subtitle kalian.&lt;/li>
+&lt;li>Halaman caption akan dibuka. Disini, kalian bisa mengatur subtitle kalian satu persatu.&lt;/li>
+&lt;/ol>
+&lt;p>Metode ini bagus jika kaliaj hanya ingin mengedit beberapa bagian dari subtitle.&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/individually-edit-your-subtitle-at-adobe-premiere-pro.jpg" alt="Mengedit subtitle di Adobe Premiere Pro secara manual" title="Mengedit subtitle di Adobe Premiere Pro secara manual" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/individually-edit-your-subtitle-at-adobe-premiere-pro.jpg">Mengedit subtitle di Adobe Premiere Pro secara manual &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h2 id="apa-yang-harus-saya-lakukan-jika-saya-tidak-dapat-mengimpor-file-srt-ke-adobe-premiere-pro">Apa yang Harus Saya Lakukan Jika Saya Tidak Dapat Mengimpor File SRT Ke Adobe Premiere Pro?&lt;/h2>
+&lt;p>Jika kalian tidak bisa mengunggah file SRT kalian ke Adobe Premiere Pro, kalian bisan mencoba cara berikut ini:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Klik ikon &lt;strong>kunci inggris&lt;/strong> di timeline.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/click-on-the-wrench-icon-in-adobe-premiere-pro.jpg" alt="Cara untuk mengimport file SRT ke Adobe Premiere Pro" title="Cara untuk mengimport file SRT ke Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/click-on-the-wrench-icon-in-adobe-premiere-pro.jpg">Cara untuk mengimport file SRT ke Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Closed Captions Display&lt;/strong> dan pastikan bahwa kalian sudah mengaktifkan fungsi ini dengan mengklik &amp;lsquo;enable&amp;rsquo;.&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/make-sure-to-enable-closed-captions-display-in-adobe-premiere-pro-to-have-subtitle.jpg" alt="Pastikan fungsi &amp;amp;lsquo;enable closed captions&amp;amp;rsquo; di Adobe Premiere Pro sudah diaktifkan untuk menambahkan subtitle " title="Pastikan fungsi &amp;#39;enable closed captions&amp;#39; di Adobe Premiere Pro sudah diaktifkan untuk menambahkan subtitle " layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/make-sure-to-enable-closed-captions-display-in-adobe-premiere-pro-to-have-subtitle.jpg">Pastikan fungsi &amp;#39;enable closed captions&amp;#39; di Adobe Premiere Pro sudah diaktifkan untuk menambahkan subtitle &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="mengekspor-video-dengan-subtitle-dalam-adobe-premiere-pro">Mengekspor Video Dengan Subtitle Dalam Adobe Premiere Pro&lt;/h2>
+&lt;p>Untuk mengekspor video dengan subtitle di Adobe Premiere Pro, kalian dapat melakukan hal berikut:&lt;/p>
+&lt;ul>
+&lt;li>Klik &lt;strong>File &amp;gt; Export&lt;/strong>. Atau, kalian bisa memencet tombol command + M (untuk Mac).&lt;/li>
+&lt;li>Pilih pengaturan export dan preset.&lt;/li>
+&lt;li>Klik &lt;strong>export&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;p>Video kalian akan secara otomatis memiliki subtitle yang sudah tertanam.&lt;/p>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Di artikel ini, kita telah membahasa tentang apa itu SRT, berbagai cara untuk membuat file SRT, cara mengimpor dan mengedit file SRT ke Adobe Premiere Pro dan cara mengekspor video dengan subtitle di Adobe Premiere Pro.&lt;/p>
+&lt;p>Sekarang, kalian udah jago nih tentang hal mengenai SRT dan Adobe Premiere Pro. Nah, kenapa kalian nggak mencoba VideoTranslator untuk mentranskripsikan, menerjemahkan, dan menyulih suara video ? Baca bagaimana kalian bisa dengan mudah menerjemahkan video kalian &lt;a href="https://videotranslator.ai/news/how-to-conveniently-translate-your-videos/" title="conveniently translate your video">di sini&lt;/a>.&lt;/p>
+&lt;p>Untuk informasi lebih lanjut mengenai VideoTranslator, jangan ragu-ragu untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>Sampai jumpa lagi di artikel edukasi berikutnya!&lt;/p></content:encoded></item><item><title>How To Import And Edit SRT File To Adobe Premiere Pro</title><link>https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/</link><pubDate>May 31, 2021</pubDate><guid>https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-import-and-edit-srt-file-to-adobe-premiere-pro.jpg"/><description>This post will talk about what an SRT is, different ways to create an SRT file, how to import and edit SRT file to Adobe Premiere Pro and how to export video with subtitle in Adobe Premiere Pro.</description><content:encoded>&lt;p>Hello, fam!&lt;/p>
 &lt;p>Welcome back again to VideoTranslator support where we will be telling you the tips and tricks regarding the media and translation world.&lt;/p>
 &lt;p>This time, we will be explaining how you can import and edit SRT files to Adobe Premiere Pro.&lt;/p>
 &lt;p>Before we begin, let&amp;rsquo;s explain what an SRT file is first&amp;hellip;&lt;/p>
