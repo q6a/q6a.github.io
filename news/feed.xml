@@ -1,4 +1,156 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Cara Mengimpor Dan Mengedit File SRT Ke Adobe Premiere Pro</title><link>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</link><pubDate>May 31, 2021</pubDate><guid>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/cara-mengedit-file-srt.jpg"/><description>Postingan kali ini akan membahas tentang apa itu SRT, berbagai cara membuat file SRT, cara mengimpor dan mengedit file SRT ke Adobe Premiere Pro dan cara mengekspor video dengan subtitle di Adobe Premiere Pro.</description><content:encoded>&lt;p>Halo, semuanya!&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How To Add Subtitles To YouTube, Facebook and LinkedIn Video</title><link>https://videotranslator.ai/news/how-to-add-subtitle-youtube-facebook-linkedin/</link><pubDate>June 7, 2021</pubDate><guid>https://videotranslator.ai/news/how-to-add-subtitle-youtube-facebook-linkedin/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-add-subtitles-to-youtube-facebook-and-linkedin-video.jpg"/><description>This post will talk about different easy ways that you can create and add subtitles to your YouTube, Facebook and LinkedIn videos!</description><content:encoded>&lt;p>Hello lovely people!&lt;/p>
+&lt;p>Welcome back to VideoTranslator support where we will be telling you the tips and tricks regarding the media and translation world.&lt;/p>
+&lt;p>In the previous post, we have written about how you can create, import, and edit SRT files.&lt;/p>
+&lt;p>This time, we will be explaining how you can add subtitles to your YouTube, Facebook, and LinkedIn video.&lt;/p>
+&lt;p>So, without further ado, let&amp;rsquo;s begin!&lt;/p>
+&lt;h2 id="adding-subtitles-to-youtube-videos">Adding Subtitles To YouTube Videos&lt;/h2>
+&lt;p>Have you ever been on noisy public transport rides and struggled to watch your favorite YouTuber&amp;rsquo;s video? Well, that&amp;rsquo;s because the video has no subtitles.&lt;/p>
+&lt;p>Having subtitles to your video will help a great deal of people, especially deaf or hard-of-hearing viewers.&lt;/p>
+&lt;p>Most of the time, people do not like adding subtitles because it takes a lot of time and effort to do so.&lt;/p>
+&lt;p>YouTube tried to solve this problem by generating automatic captions.&lt;/p>
+&lt;h3 id="automatic-captions">Automatic Captions&lt;/h3>
+&lt;p>If automatic captions are available, YouTube will automatically generate captions.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg" alt="Youtube generating automatic captions" title="Youtube generating automatic captions" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg">Youtube generating automatic captions &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Currently, automatic captions are available in Dutch, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish, and Vietnamese.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>However, it is highly encouraged that you add professional captions first.&lt;/p>
+&lt;p>Automatic captions will not be accurate due to many different reasons. It can be because of mispronunciations, accents, dialects, or background noise.&lt;/p>
+&lt;h3 id="adding-professional-captions-and-subtitles">Adding Professional Captions and Subtitles&lt;/h3>
+&lt;p>To add professional captions and subtitles on YouTube, you want to follow the following steps:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Sign in to your YouTube account and go to &lt;a href="http://studio.youtube.com/" title="YouTube Studio">YouTube Studio&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>From the left menu, select &lt;strong>Subtitles&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select the video that you would like to edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>add language&lt;/strong>&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg" alt="How to add video subtitles on youtube" title="How to add video subtitles on youtube" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg">How to add video subtitles on youtube &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Select&lt;/strong> your language.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choose either &lt;strong>Title &amp;amp; description&lt;/strong> or &lt;strong>Subtitles&lt;/strong>, click &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/choose-whether-you-want-to-add-title-description-or-subtitles-on-youtube.jpg" alt="Choose whether you want to add title &amp;amp;amp; description or subtitles on youtube" title="Choose whether you want to add title &amp;amp; description or subtitles on youtube" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/choose-whether-you-want-to-add-title-description-or-subtitles-on-youtube.jpg">Choose whether you want to add title &amp;amp; description or subtitles on youtube &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>If you choose to add subtitles, there are 3 ways to do that - uploading a file, type manually, or auto-translate.&lt;/p>
+&lt;h3 id="adding-subtitles-by-uploading-a-file">Adding Subtitles By Uploading A File&lt;/h3>
+&lt;p>In the previous post, we did explain to you how you can create your subtitle file. If you already have your file ready, you can easily upload your file on YouTube!&lt;/p>
+&lt;p>Here&amp;rsquo;s how to do it:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select &lt;strong>Upload File&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg" alt="Adding subtitle on youtube by uploading a file" title="Adding subtitle on youtube by uploading a file" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg">Adding subtitle on youtube by uploading a file &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choose between &lt;strong>With Timing&lt;/strong> or &lt;strong>Without Timing&lt;/strong>, then select &lt;strong>Continue&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choose a &lt;strong>file&lt;/strong> to upload.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select &lt;strong>Save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="adding-subtitles-by-typing-manually">Adding Subtitles By Typing Manually&lt;/h3>
+&lt;p>If you do not have your SRT file, don&amp;rsquo;t worry. YouTube allows you to manually add it.&lt;/p>
+&lt;p>Here&amp;rsquo;s how you can manually add your subtitles:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>type manually&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Type your subtitles in the caption box and adjust the timing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you want to download your subtitles into an SRT file, you can click on the 3 &lt;strong>horizontal dots&lt;/strong> next to the &amp;lsquo;edit as text&amp;rsquo; writing and click &lt;strong>download subtitles&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-typing-manually.jpg" alt="Adding subtitle on youtube by typing manually" title="Adding subtitle on youtube by typing manually" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-typing-manually.jpg">Adding subtitle on youtube by typing manually &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When you are done, click publish.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="adding-subtitles-by-auto-translate">Adding Subtitles By Auto Translate&lt;/h3>
+&lt;p>Although English is widely spoken and understood, many people are not comfortable watching video content in English. So, to accommodate viewers who speak another language, you may choose to auto-translate your videos.&lt;/p>
+&lt;p>To do this, you have to:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>auto-translate&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg" alt="Adding subtitle on youtube by auto-translate" title="Adding subtitle on youtube by auto-translate" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg">Adding subtitle on youtube by auto-translate &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Your subtitles will be automatically translated.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Note: This method works based on YouTube&amp;rsquo;s technology to automatically translate your videos. If you understand the target language, you will still need to edit the auto-translated subtitles to ensure the accuracy of the translation.&lt;/p>
+&lt;h2 id="adding-subtitles-to-facebook-videos">Adding Subtitles To Facebook Videos&lt;/h2>
+&lt;p>Facebook now has a tab called &lt;strong>Watch&lt;/strong> where you can watch video content on Facebook. This tab is very addicting and you can easily spend hours scrolling through it.&lt;/p>
+&lt;p>Unlike YouTube, you can set a preference where the videos you&amp;rsquo;re watching on Facebook are automatically muted until you change the preference.&lt;/p>
+&lt;p>So, how can you intrigue the interest of viewers who have their video muted? Well, the answer is by adding subtitles.&lt;/p>
+&lt;p>To add subtitles on Facebook, you have to do the following:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>Photo/Video&lt;/strong> at the top of your timeline or News Feed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Choose a video from your computer, then click &lt;strong>upload&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>video options&lt;/strong> and &lt;strong>click add captions&lt;/strong>. Here, you can choose whether you want to upload your own file or have your video captions auto-generated.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-subtitle-on-facebook.jpg" alt="How to add subtitle on facebook" title="How to add subtitle on facebook" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-subtitle-on-facebook.jpg">How to add subtitle on facebook &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you choose to upload your captions, click the upload tab and select an srt file from your computer. Click &lt;strong>upload&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/upload-your-captions-on-facebook.jpg" alt="Upload your captions on facebook" title="Upload your captions on facebook" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/upload-your-captions-on-facebook.jpg">Upload your captions on facebook &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="naming-your-facebook-srt-file">Naming Your Facebook SRT File&lt;/h3>
+&lt;p>Facebook is fuzzy when it comes to naming your SRT file.&lt;/p>
+&lt;p>So, you need to make sure that your SRT file has been properly named.&lt;/p>
+&lt;p>The naming format that Facebook prefers is:&lt;/p>
+&lt;p>&lt;strong>filename.[language code]_[country code].srt&lt;/strong>&lt;/p>
+&lt;p>Language and country codes are case-sensitive. Language needs to be in lower case and the country needs to be in upper case.&lt;/p>
+&lt;p>For example, a United Kingdom English file would look like: &lt;strong>filename.en_UK.srt.&lt;/strong>&lt;/p>
+&lt;p>You can find the language and country code list &lt;a href="https://www.facebook.com/help/1528795707381162?helpref=faq_content" title="List of Facebook country code">here&lt;/a>.&lt;/p>
+&lt;h2 id="adding-subtitles-to-linkedin-videos">Adding Subtitles To LinkedIn Videos&lt;/h2>
+&lt;p>Although LinkedIn is not a popular site to share videos, there is no reason why you can&amp;rsquo;t share one.&lt;/p>
+&lt;p>If you happen to be sharing a video on LinkedIn, having subtitles will make your video stand out.&lt;/p>
+&lt;p>You can add subtitles to your LinkedIn videos by doing the following:&lt;/p>
+&lt;ol>
+&lt;li>Click the &lt;strong>Video&lt;/strong> icon from your share box.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-subtitle-on-your-linkedin-video.jpg" alt="How to add subtitle on your linkedin video" title="How to add subtitle on your linkedin video" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-subtitle-on-your-linkedin-video.jpg">How to add subtitle on your linkedin video &lt;/a> &lt;/div>&lt;/div>
+2. Select your video and click &lt;strong>upload&lt;/strong>.
+3. Click &lt;strong>Edit&lt;/strong> in the top right corner to view your video’s settings.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/click-on-the-pen-icon-to-add-captions-on-linkedin-video.jpg" alt="Click on the pen icon to add captions on linkedin video" title="Click on the pen icon to add captions on linkedin video" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/click-on-the-pen-icon-to-add-captions-on-linkedin-video.jpg">Click on the pen icon to add captions on linkedin video &lt;/a> &lt;/div>&lt;/div>
+4. If you scroll down, you will be able to find &amp;lsquo;Video Caption File (SRT Only)&amp;rsquo;. Click &lt;strong>select caption&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/upload-your-caption-on-your-linkedin-video.jpg" alt="Upload your caption on your linkedin video" title="Upload your caption on your linkedin video" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/upload-your-caption-on-your-linkedin-video.jpg">Upload your caption on your linkedin video &lt;/a> &lt;/div>&lt;/div>
+5. Select your SRT file and click &lt;strong>upload&lt;/strong>. When you are finished, you can click &lt;strong>done&lt;/strong>.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>In this article, we have discussed how you can add subtitles to your YouTube, Facebook, and LinkedIn videos.&lt;/p>
+&lt;p>It&amp;rsquo;s easy, isn&amp;rsquo;t it!&lt;/p>
+&lt;p>Now that you are an expert, why don&amp;rsquo;t you try VideoTranslator to transcribe, translate and dub your video? Read how you can conveniently translate your video &lt;a href="https://videotranslator.ai/news/how-to-conveniently-translate-your-videos/" title="Conveniently Translate Your Video">here&lt;/a>.&lt;/p>
+&lt;p>For more information regarding VideoTranslator, do not hesitate to contact us at &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>See you next time for more educational blog posts!&lt;/p></content:encoded></item><item><title>Cara Mengimpor Dan Mengedit File SRT Ke Adobe Premiere Pro</title><link>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</link><pubDate>May 31, 2021</pubDate><guid>https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/cara-mengedit-file-srt.jpg"/><description>Postingan kali ini akan membahas tentang apa itu SRT, berbagai cara membuat file SRT, cara mengimpor dan mengedit file SRT ke Adobe Premiere Pro dan cara mengekspor video dengan subtitle di Adobe Premiere Pro.</description><content:encoded>&lt;p>Halo, semuanya!&lt;/p>
 &lt;p>Kembali lagi bersapa Video Translator dimana kami akan memberikan tips and tricks tentang dunia media dan terjemahan.&lt;/p>
 &lt;p>Kali ini, kami akan membahas cara agar kalian bisa mengimpor dan mengedit file SRT ke Adobe Premiere Pro.&lt;/p>
 &lt;p>Sebelum mulai, yuk kita cari tahu apa sih file SRT&amp;hellip;&lt;/p>
