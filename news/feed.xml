@@ -1,4 +1,147 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Tips Canva Supaya Video Kalian Makin Keren</title><link>https://videotranslator.ai/news/tips-canva-supaya-video-kalian-makin-keren/</link><pubDate>June 16, 2021</pubDate><guid>https://videotranslator.ai/news/tips-canva-supaya-video-kalian-makin-keren/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/tips-canva-biar-video-makin-keren.jpg"/><description>Buat video yang menarik dengan tips Canva berikut ini! Mulai dari mengedit konten sampai membuat thumbnail keren, kami siap membantu kalian!</description><content:encoded>&lt;p>Halo, teman-teman!&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Different Ways To Reduce Audio Background Noise</title><link>https://videotranslator.ai/news/reduce-background-noise/</link><pubDate>June 21, 2021</pubDate><guid>https://videotranslator.ai/news/reduce-background-noise/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/1-13.jpg"/><description>Find out how you can reduce background noise on iPhone, Adobe Premiere Pro and iMovie to enhance your audio!</description><content:encoded>&lt;p>We all know how annoying it can be to listen to noisy audio.&lt;/p>
+&lt;p>Professionals who do speech-to-text transcription on a daily basis sure can relate to this matter.&lt;/p>
+&lt;p>Your audio quality matters when you are doing the transcription process, especially if what you are trying to transcribe is an important matter, such as a legal case.&lt;/p>
+&lt;p>If your audio is filled with loud background noises, not only that it will be hard for the AI to automatically transcribe your audio but also for a human to manually transcribe it.&lt;/p>
+&lt;p>So, how can you reduce background noise?&lt;/p>
+&lt;h2 id="how-to-reduce-audio-background-noise-on-iphone">How To Reduce Audio Background Noise On iPhone&lt;/h2>
+&lt;p>Many of us would utilise our mobile phones to do audio and video recordings.&lt;/p>
+&lt;p>For iPhone users, here&amp;rsquo;s how you can reduce your audio background noise:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Record&lt;/strong> your audio from Voice Memos.&lt;/li>
+&lt;li>Click on the &lt;strong>three-dot icon&lt;/strong> on the left side of your recording.&lt;/li>
+&lt;li>Select &lt;strong>edit recording&lt;/strong>.&lt;/li>
+&lt;li>Tap on the &lt;strong>magic wand icon&lt;/strong>. This will reduce your audio background noise.&lt;/li>
+&lt;li>Click &lt;strong>done&lt;/strong>.&lt;/li>
+&lt;/ol>
+&lt;p>Watch how to reduce your audio background noise on iPhone here:&lt;/p>
+&lt;div class="video-div">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/irVA3vqKMeY?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>How To Use iPhone To Reduce Background Noise&lt;/p>
+&lt;/figcaption>
+&lt;/div>
+&lt;/div>
+&lt;p>Obviously, the result of the magic wand is not perfect. However, it did reduce a lot of background noise.&lt;/p>
+&lt;p>To enhance your audio, you can also do these additional steps:&lt;/p>
+&lt;ol>
+&lt;li>Go to &lt;strong>settings&lt;/strong>.&lt;/li>
+&lt;li>Click on &lt;strong>Voice Memos&lt;/strong>.&lt;/li>
+&lt;li>Change the audio quality from compressed to &lt;strong>lossless&lt;/strong>.&lt;/li>
+&lt;/ol>
+&lt;p>We tried to find a similar function for Samsung users but could not find any.&lt;/p>
+&lt;p>Therefore, we recommend you use other tools to reduce the background noise.&lt;/p>
+&lt;h2 id="how-to-use-adobe-premiere-pro-to-reduce-background-noise">How To Use Adobe Premiere Pro To Reduce Background Noise&lt;/h2>
+&lt;p>To reduce background noise on Adobe Premiere Pro, here&amp;rsquo;s what you have to do:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Open your project&lt;/strong> in Adobe Premiere Pro.&lt;/li>
+&lt;li>Go to &lt;strong>Effects&lt;/strong> and click on &lt;strong>audio effects&lt;/strong>.&lt;/li>
+&lt;li>Select &lt;strong>noise reduction/restoration&lt;/strong> and apply the noise effect by dragging it to your audio.&lt;/li>
+&lt;li>In effects control, click &lt;strong>edit&lt;/strong> on the custom setup option.&lt;/li>
+&lt;li>A new tab will pop up. Here, you can &lt;strong>adjust&lt;/strong> the amount of noise cancellation that you want to put.&lt;/li>
+&lt;/ol>
+&lt;p>Alternatively, you can follow these directions:&lt;/p>
+&lt;ol>
+&lt;li>Select your audio and go to &lt;strong>Audio Track Mixer&lt;/strong>.&lt;/li>
+&lt;li>Click on &lt;strong>Show/Hide Effects and Sends&lt;/strong>.&lt;/li>
+&lt;li>Click on Effect Selection and choose &lt;strong>Noise Reduction/Restoration &amp;gt; DeNoise&lt;/strong>.&lt;/li>
+&lt;li>Double click on the &lt;strong>DeNoise&lt;/strong> option to bring out the Track FX Editor.&lt;/li>
+&lt;/ol>
+&lt;p>By adding this effect to your audio, it will significantly reduce your background noise. However, your audio quality will also be slightly reduced.&lt;/p>
+&lt;p>Watch how to reduce your audio background noise on Adobe Premiere pro here:&lt;/p>
+&lt;div class="video-div">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/k4iMSG9YT7E?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>How To Use Adobe Premiere Pro To Reduce Background Noise&lt;/p>
+&lt;/figcaption>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="how-to-reduce-background-noise-on-imovie">How To Reduce Background Noise On iMovie&lt;/h2>
+&lt;p>We know that Adobe Premiere Pro can get a bit pricey and not everyone uses the tool that often.&lt;/p>
+&lt;p>So, what is the alternative?&lt;/p>
+&lt;p>iMovie.&lt;/p>
+&lt;p>iMovie is a free video editing software for Mac users. The good thing is, it also allows you to reduce background noise.&lt;/p>
+&lt;p>Here&amp;rsquo;s how to do it:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Open&lt;/strong> your project on iMovie.&lt;/li>
+&lt;li>Select your &lt;strong>audio clip&lt;/strong>.&lt;/li>
+&lt;li>On the menu bar, click on the &lt;strong>Noise Reduction and Equalizer&lt;/strong> icon.&lt;/li>
+&lt;li>Check the &lt;strong>Reduce Background Noise box&lt;/strong> and adjust the amount of percentage of the effect.&lt;/li>
+&lt;/ol>
+&lt;p>Watch how to reduce your audio background noise on iMovie here:&lt;/p>
+&lt;div class="video-div">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/EeHw30wXCns?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>How To Use iMovie To Reduce Background Noise&lt;/p>
+&lt;/figcaption>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="how-to-have-a-better-audio-quality">How To Have A Better Audio Quality&lt;/h2>
+&lt;p>As we have mentioned earlier, your audio quality matters when you are doing the transcription process.&lt;/p>
+&lt;p>Whether you are using a tool or manually doing it, transcribing noisy audio is hard to do.&lt;/p>
+&lt;p>So, here are ways to have better audio quality.&lt;/p>
+&lt;h3 id="1---speak-closer-to-your-microphone">1 - Speak Closer To Your Microphone&lt;/h3>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/2-11.jpg" alt="Speak Closer To Your Microphone TO Have Better Audio Quality" title="Speak Closer To Your Microphone TO Have Better Audio Quality" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/2-11.jpg">Speak Closer To Your Microphone TO Have Better Audio Quality &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>If you are having a conversation with someone, you would prefer that person to stand closer to you so you can hear that person better.&lt;/p>
+&lt;p>The same concept goes with audio recording - the closer you are to the microphone, the clearer you will sound.&lt;/p>
+&lt;p>Do not be shy and speak too far from the microphone!&lt;/p>
+&lt;h3 id="2---invest-in-the-right-microphone">2 - Invest In The Right Microphone&lt;/h3>
+&lt;p>You may think that your phone microphone is enough. However, if you do speech-to-text transcription on a day-to-day basis, we really recommend you invest in a good microphone.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/3-11.jpg" alt="Invest In The Right Microphone To Have Better Audio Quality" title="Invest In The Right Microphone To Have Better Audio Quality" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/3-11.jpg">Invest In The Right Microphone To Have Better Audio Quality &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>A good microphone can help you do your job easier as you won&amp;rsquo;t be questioning &amp;lsquo;what the heck did I or this person say earlier?&amp;rsquo; anymore.&lt;/p>
+&lt;p>Here&amp;rsquo;s a &lt;a href="https://www.techsmith.com/blog/what-microphone-is-best-for-recording-video/" title="bets microphone for recording">list of the best microphones for recording&lt;/a> by Tech Smith.&lt;/p>
+&lt;h3 id="3---choose-the-right-spot">3 - Choose The Right Spot&lt;/h3>
+&lt;p>The quality of your audio recording can also be affected by your location.&lt;/p>
+&lt;p>Of course, if you are in a noisy room, it is hard to avoid noise.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/4-8.jpg" alt="Choose The Right Spot To Have Better Audio Quality" title="Choose The Right Spot To Have Better Audio Quality" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/4-8.jpg">Choose The Right Spot To Have Better Audio Quality &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>But, if you are in a location where you can choose where to record, try to avoid areas with these items:&lt;/p>
+&lt;ul>
+&lt;li>Fans&lt;/li>
+&lt;li>Refrigerators&lt;/li>
+&lt;li>Open Windows&lt;/li>
+&lt;li>Electronic devices&lt;/li>
+&lt;li>Washing machine and dryer&lt;/li>
+&lt;/ul>
+&lt;h2 id="advice-to-professional-transcribers">Advice To Professional Transcribers&lt;/h2>
+&lt;p>If you are a professional transcriber and are invited to an event where there is a lot of noise all around you, we really recommend you also take notes.&lt;/p>
+&lt;p>Of course, we understand that in some instances, you probably can&amp;rsquo;t take notes. But if you could, we highly recommend you do so.&lt;/p>
+&lt;p>Writing notes will allow you to ensure a high-quality transcription, especially when there is a lot of background noise.&lt;/p>
+&lt;p>Sometimes, it is easier to decipher what a person is saying when you listen to it on the spot compared to listening to a recording&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>In this article, we have shown you how you can reduce background noise on iPhone, Premiere Pro, and iMovie.&lt;/p>
+&lt;p>Here at VideoTranslator, we want to help you with your audio and video transcription, translation, and dubbing processes.&lt;/p>
+&lt;p>To transcribe your audio/video with VideoTranslator, follow the below process:&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg" alt="Transcribe your video with VideoTranslator.ai" title="Transcribe your video with VideoTranslator.ai" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg">Transcribe your video with VideoTranslator.ai &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;ul>
+&lt;li>Log in to your Video Translator account.&lt;/li>
+&lt;li>Upload your video/audio using the &lt;strong>quicktranscribe&lt;/strong> button.&lt;/li>
+&lt;li>Select the language and dialect of your content and &lt;strong>click the accept button to trigger the transcription&lt;/strong>. The transcription process will run in the background.&lt;/li>
+&lt;li>Once the transcription is complete, go through and check the transcription for proper grammar e.g. capitalisation and full stops. Embed the captions into the asset, or download the &lt;code>srt&lt;/code> file separately.&lt;/li>
+&lt;/ul>
+&lt;p>To try VideoTranslator for free, click &lt;a href="videotranslator.ai/free-trial" title="free trial">here&lt;/a>.&lt;/p>
+&lt;p>We hope this article helps you!&lt;/p>
+&lt;p>For more information regarding VideoTranslator, do not hesitate to contact us at &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>See you next time for more educational blog posts!&lt;/p></content:encoded></item><item><title>Tips Canva Supaya Video Kalian Makin Keren</title><link>https://videotranslator.ai/news/tips-canva-supaya-video-kalian-makin-keren/</link><pubDate>June 16, 2021</pubDate><guid>https://videotranslator.ai/news/tips-canva-supaya-video-kalian-makin-keren/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/tips-canva-biar-video-makin-keren.jpg"/><description>Buat video yang menarik dengan tips Canva berikut ini! Mulai dari mengedit konten sampai membuat thumbnail keren, kami siap membantu kalian!</description><content:encoded>&lt;p>Halo, teman-teman!&lt;/p>
 &lt;p>Kembali lagi bersama VideoTranslator dimana kami akan memberikan tips and tricks tentang dunia media dan terjemahan.&lt;/p>
 &lt;p>Kali ini, kami akan membahas aplikasi yang udah nggak asing lagi buat kita semua&amp;hellip; apalagi kalau bukan Canva!&lt;/p>
 &lt;p>Aplikasi Canva ini emang terkenal banget, teman-teman. Tiba-tiba, semua orang bisa jago grafik desain. Kita nggak perlu lagu punya gelar Sarjana DKV 😝&lt;/p>
