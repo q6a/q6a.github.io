@@ -1,4 +1,194 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Review Aplikasi Vixer Untuk Mengedit Video Di Iphone</title><link>https://videotranslator.ai/news/review-aplikasi-vixer-untuk-mengedit-video-di-iphone/</link><pubDate>June 29, 2021</pubDate><guid>https://videotranslator.ai/news/review-aplikasi-vixer-untuk-mengedit-video-di-iphone/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/review-aplikasi-vixer-untuk-mengedit-video-di-iphone.jpg"/><description>Tim kami menyoba editor video Vixer untuk kalian supaya kalian tahu apa yang bisa kalian lakukan dengan Vixer. Yuk, cari tahu fitur apa saja yang tersedia di Vixer!</description><content:encoded>&lt;p>Halo, semuanya!&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Multiple Ways To Translate Your YouTube Videos</title><link>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</link><pubDate>July 5, 2021</pubDate><guid>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/multiple-ways-to-translate-your-youtube-videos.jpg"/><description>Find out multiple ways to translate your YouTube videos without spending years learning different languages!</description><content:encoded>&lt;p>Did you know that YouTube was created in 2005, while Netflix was created in 1997?&lt;/p>
+&lt;p>Yes! Netflix is older than YouTube.&lt;/p>
+&lt;p>However, YouTube&amp;rsquo;s popularity surpassed Netflix.&lt;/p>
+&lt;p>According to &lt;a href="https://www.statista.com/statistics/910875/us-most-popular-video-streaming-services-by-monthly-average-users/" title="Statista.com">Statista.com&lt;/a>, Youtube currently has 163 M users, while Netflix has 46 M users.&lt;/p>
+&lt;p>Although YouTube has 163 M users, not all of them speak English. Therefore, providing subtitles in various languages is a great method for you to increase your channel&amp;rsquo;s reach and audience.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/there-are-at-least-23-languages-spoken-by-half-of-the-world-s-population.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;p>According to &lt;a href="https://www.ethnologue.com/guides/how-many-languages" title="Ethnologue">Ethnologue&lt;/a>, there are at least 23 languages spoken by half of the world&amp;rsquo;s population.&lt;/p>
+&lt;p>But&amp;hellip; how can one possibly know 23 different languages?&lt;/p>
+&lt;p>Sure, there are a lot of polyglots out there. But, how about those who only speak 1 or 2 languages? How can they translate their videos into multiple languages?&lt;/p>
+&lt;p>That&amp;rsquo;s exactly what we are going to discuss today!&lt;/p>
+&lt;h2 id="multiple-ways-to-translate-your-youtube-videos">Multiple Ways To Translate Your YouTube Videos&lt;/h2>
+&lt;h3 id="manually-translate-your-youtube-videos">Manually Translate Your YouTube Videos&lt;/h3>
+&lt;p>Of course, the most accurate way to translate your Youtube videos is by manually translating them. Doing so means that you either can speak in the target language or hire someone who can speak in the target language.&lt;/p>
+&lt;p>Here&amp;rsquo;s how you can manually translate your YouTube videos:&lt;/p>
+&lt;h4 id="1---create-an-srt-file">1 - Create an SRT file&lt;/h4>
+&lt;p>First of all, you will need to create an SRT file.&lt;/p>
+&lt;p>&lt;a href="https://blog.hubspot.com/marketing/srt-file" title="What is SRT">SRT is a plain-text file that contains critical information regarding subtitles&lt;/a>, including the start and end timecodes of your text to ensure your subtitles match your audio, and the sequential number of subtitles.&lt;/p>
+&lt;p>By having an SRT, your video will have subtitles or captions.&lt;/p>
+&lt;p>There are different software out there for you to manually create an SRT file, one of them is TextEditor.&lt;/p>
+&lt;p>Here&amp;rsquo;s how you can manually create an SRT file with TextEditor:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Order your caption lines with a number beginning from 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click enter and put your timestamp. The format of the timestamp will be &amp;lsquo;&lt;em>hours:minutes:seconds,milliseconds&lt;/em> &amp;ndash;&amp;gt; hours:minutes:seconds,milliseconds&amp;rsquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click enter again and start writing your caption.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to Format and click on &amp;lsquo;Make Plain Text&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg" alt="Make sure that you have set make plain text in TextEdit to make SRT file" title="Make sure that you have set make plain text in TextEdit to make SRT file" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg">Make sure that you have set make plain text in TextEdit to make SRT file &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to File and click save.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In the Save As text field, type down your file name. TextEdit will automatically put the file extension to &lt;strong>.txt&lt;/strong> so you want to change it to &lt;strong>.srt&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg" alt="Saving your SRT file in TextEdit" title="Saving your SRT file in TextEdit" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg">Saving your SRT file in TextEdit &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Uncheck the &amp;lsquo;If no extension is provided, use .txt&amp;rsquo; box and click save.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="2---translate-your-srt-file">2 - Translate Your SRT File&lt;/h4>
+&lt;p>Now that you have your SRT file ready, it&amp;rsquo;s time to translate it.&lt;/p>
+&lt;p>Here is how you can manually translate your SRT file:&lt;/p>
+&lt;ol>
+&lt;li>Make a copy of the original SRT file.&lt;/li>
+&lt;li>Change the language of the text while still &lt;strong>maintaining&lt;/strong> the same timestamp.&lt;/li>
+&lt;li>Save your translated SRT file.&lt;/li>
+&lt;/ol>
+&lt;h4 id="3---upload-your-srt-file">3 - Upload Your SRT File&lt;/h4>
+&lt;p>The final step is to upload your SRT file to YouTube.&lt;/p>
+&lt;p>To do this, you need to:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Sign in to your YouTube account and go to &lt;a href="http://studio.youtube.com/" title="YouTube Studio">YouTube Studio&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>From the left menu, select &lt;strong>Subtitles&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select the video that you would like to edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>add language&lt;/strong>&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg" alt="How to add video subtitles on youtube" title="How to add video subtitles on youtube" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg">How to add video subtitles on youtube &lt;/a> &lt;/div>&lt;/div>5. &lt;strong>Select&lt;/strong> your language.&lt;/p>
+&lt;p>6. Choose &lt;strong>Subtitles&lt;/strong>, click &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;p>7. Select &lt;strong>Upload File&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg" alt="Adding subtitle on youtube by uploading a file" title="Adding subtitle on youtube by uploading a file" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg">Adding subtitle on youtube by uploading a file &lt;/a> &lt;/div>&lt;/div>
+8. Choose between &lt;strong>With Timing&lt;/strong> or &lt;strong>Without Timing&lt;/strong>, then select &lt;strong>Continue&lt;/strong>.&lt;/p>
+&lt;p>9. Choose a &lt;strong>file&lt;/strong> to upload&lt;/p>
+&lt;p>10. Select &lt;strong>Save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="translate-your-youtube-videos-with-video-translator">Translate Your YouTube Videos With Video Translator&lt;/h3>
+&lt;p>Method #2 is to translate your videos with VideoTranslator.&lt;/p>
+&lt;h4 id="1---transcribe-your-video">1 - Transcribe Your Video&lt;/h4>
+&lt;p>The first step to translate your video with VideoTranslator is to transcribe your video.&lt;/p>
+&lt;p>&lt;a href="">Transcription&lt;/a> is the processing and transferring speech sounds into timed-text displayed on the video.&lt;/p>
+&lt;p>VideoTranslator uses artificial intelligence software to transcribe your videos automatically.&lt;/p>
+&lt;p>&lt;strong>Automatic video transcription can help you save time&lt;/strong> by instantly converts your speech into timed text. This way, you don’t have to manually type the text and adjust the timing like what we discussed in the previous point.&lt;/p>
+&lt;p>To transcribe your video with Video Translator, follow the below process:&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg" alt="Transcribe your video with VideoTranslator.ai" title="Transcribe your video with VideoTranslator.ai" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg">Transcribe your video with VideoTranslator.ai &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;ol>
+&lt;li>Log in to your Video Translator account.&lt;/li>
+&lt;li>Upload your video using the &lt;strong>quicktranscribe&lt;/strong> button.&lt;/li>
+&lt;li>Select the language and dialect of the video and &lt;strong>click the accept button to trigger the transcription&lt;/strong>. The transcription process will run in the background.&lt;/li>
+&lt;li>Once the transcription is complete, go through and check the transcription for proper grammar e.g. capitalisation and full stops.&lt;/li>
+&lt;/ol>
+&lt;p>You can save your transcription as an SRT file, and we will tell you why this is important as we go through other methods.&lt;/p>
+&lt;h4 id="2---translate-your-transcription">2 - Translate Your Transcription&lt;/h4>
+&lt;p>Once it is done, VideoTranslator can automatically translate your transcription.&lt;/p>
+&lt;p>To do this, you have to:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Go to the &lt;strong>action button&lt;/strong> &amp;gt; &lt;strong>Translate&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-translate-your-transcription.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Choose&lt;/strong> the language that you want it to be translated to and click accept.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Create&lt;/strong> a different name for the translated video. You can also choose to overwrite the existing video by ticking the box. Click submit.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/name-your-new-translated-file.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You will be redirected to the &lt;strong>Root&lt;/strong> page. Find your new file and click edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You will be able to find your translated transcription by clicking on the caption button.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Download&lt;/strong> the &lt;code>srt&lt;/code> file.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="3---upload-your-srt-file-1">3 - Upload Your SRT File&lt;/h4>
+&lt;p>You can upload your SRT file to YouTube by following the steps mentioned previously in Manually Translate Your YouTube Videos.&lt;/p>
+&lt;h3 id="translate-your-youtube-videos-with-youtube">Translate Your YouTube Videos With YouTube&lt;/h3>
+&lt;p>Method #3 is to use YouTube to translate your videos.&lt;/p>
+&lt;h4 id="1---create-caption">1 - Create Caption&lt;/h4>
+&lt;p>If automatic captions are available, YouTube will automatically generate captions.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg" alt="Youtube generating automatic captions" title="Youtube generating automatic captions" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg">Youtube generating automatic captions &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Currently, automatic captions are available in Dutch, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish, and Vietnamese.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>This means that there is a limited number of languages available for you to generate the caption. Without the caption, you won&amp;rsquo;t be able to translate your videos.&lt;/p>
+&lt;p>The other alternative is to &lt;strong>upload your original SRT file before it is translated.&lt;/strong>&lt;/p>
+&lt;p>Do you remember that we mentioned in method #2 that you can save your transcribed text as an SRT. This is where your original SRT file becomes useful.&lt;/p>
+&lt;p>The original SRT file is what YouTube needs to auto-translate your subtitles.&lt;/p>
+&lt;h4 id="2---translate-your-subtitles">2 - Translate Your Subtitles&lt;/h4>
+&lt;p>Here&amp;rsquo;s what you should do to translate your subtitles with YouTube:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>add language&lt;/strong> and &lt;strong>select&lt;/strong> your language.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>auto-translate&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg" alt="Adding subtitle on youtube by auto-translate" title="Adding subtitle on youtube by auto-translate" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg">Adding subtitle on youtube by auto-translate &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Your subtitles will be automatically translated.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="why-use-videotranslator-to-translate-your-youtube-videos">Why Use VideoTranslator to Translate Your YouTube Videos?&lt;/h2>
+&lt;p>Sure, you have learnt through this article that YouTube can automatically translate your videos. So, why use VideoTranslator?&lt;/p>
+&lt;h3 id="1---video-translator-offers-60-languages-and-150-dialects">1 - Video Translator Offers 60+ Languages And 150+ Dialects&lt;/h3>
+&lt;p>As we have mentioned in this article, you will need to have your videos transcribed before the translation process occurs.&lt;/p>
+&lt;p>&lt;em>As for YouTube, currently, automatic captions are available in Dutch, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Turkish, and Vietnamese.&lt;/em>&lt;/p>
+&lt;p>So, what happens if your content is in languages other than the 13 mentioned above?&lt;/p>
+&lt;p>That&amp;rsquo;s when VideoTranslator comes into play. Click &lt;a href="https://videotranslator.ai/available-languages/" title="available languages">here&lt;/a> for the list of languages and dialects we offer.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/videotranslator-offers-60-languages-and-150-dialects.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;h3 id="2---you-can-embed-your-subtitles-in-your-video">2 - You Can Embed Your Subtitles In Your Video&lt;/h3>
+&lt;p>With YouTube, your subtitles will only become available if you click on the CC button on your screen.&lt;/p>
+&lt;p>But, what if you want your subtitles to appear permanently on your video?&lt;/p>
+&lt;p>Well, VideoTranslator can help you do that!&lt;/p>
+&lt;p>To do that, you have to:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Open your video that&amp;rsquo;s already transcribed/translated in VideoTranslator.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on the action button &amp;gt; auto overlay.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Edit the font style, size and colour according to your preference.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/choose-your-font-styling-while-creating-auto-overlay-for-your-video.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can choose to add a stripe, highlight or not to put any styling on your text. Click confirm.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You will be redirected to the Root page. Click on your file and press the edit button.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Your video will have embedded captions on it.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/your-video-will-have-embedded-captions-on-it.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>In this article, we have discussed how you can manually translate your YouTube videos, or by using VideoTranslator and YouTube to automatically translate your YouTube videos.&lt;/p>
+&lt;p>We hope that this article helped you with your translation journey!&lt;/p>
+&lt;p>Here&amp;rsquo;s a little bonus&amp;hellip; Why don&amp;rsquo;t you try VideoTranslator for &lt;a href="videotranslator.ai/free-trial" title="free trial">FREE&lt;/a>?&lt;/p>
+&lt;p>Let us know how it goes 😉&lt;/p>
+&lt;p>For more information regarding VideoTranslator, do not hesitate to contact us at &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>See you next time for more educational blog posts!&lt;/p></content:encoded></item><item><title>Review Aplikasi Vixer Untuk Mengedit Video Di Iphone</title><link>https://videotranslator.ai/news/review-aplikasi-vixer-untuk-mengedit-video-di-iphone/</link><pubDate>June 29, 2021</pubDate><guid>https://videotranslator.ai/news/review-aplikasi-vixer-untuk-mengedit-video-di-iphone/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/review-aplikasi-vixer-untuk-mengedit-video-di-iphone.jpg"/><description>Tim kami menyoba editor video Vixer untuk kalian supaya kalian tahu apa yang bisa kalian lakukan dengan Vixer. Yuk, cari tahu fitur apa saja yang tersedia di Vixer!</description><content:encoded>&lt;p>Halo, semuanya!&lt;/p>
 &lt;p>Bulan lalu, kita baru aja nulis&lt;a href="https://videotranslator.ai/news/reviewing-splice-video-editor-on-iphone/" title="Review video editor splice"> review tentang video editor Splice&lt;/a>.&lt;/p>
 &lt;p>Aplikasi Splice ternyata berguna banget dan kami memberikan bintang 4 dari 5.&lt;/p>
 &lt;p>Kami masih nyari editor video lain untuk iphone yang lain dan kali ini kami bakalan membuat review tentang Vixer!&lt;/p>
