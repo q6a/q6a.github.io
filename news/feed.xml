@@ -1,4 +1,207 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Multiple Ways To Translate Your YouTube Videos</title><link>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</link><pubDate>July 5, 2021</pubDate><guid>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/multiple-ways-to.jpg"/><description>Find out multiple ways to translate your YouTube videos without spending years learning different languages!</description><content:encoded>&lt;p>Did you know that YouTube was created in 2005, while Netflix was created in 1997?&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Berbagai Cara Menerjemahkan Video YouTube</title><link>https://videotranslator.ai/news/berbagai-cara-menerjemahkan-video-youtube/</link><pubDate>July 6, 2021</pubDate><guid>https://videotranslator.ai/news/berbagai-cara-menerjemahkan-video-youtube/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/berbagai-cara-menerjemahkan-video-youtube.jpg"/><description>Cari tahu berbagai cara untuk menerjemahkan video YouTube tanpa harus menghabiskan waktu belajar banyak bahasa!</description><content:encoded>&lt;p>Taukah kalian bahwa YouTube dibuat pada tahun 2005, sedangkan Netflix dibuat pada tahun 1997?&lt;/p>
+&lt;p>Iya! Netflix umurnya lebih tua dari pada YouTube.&lt;/p>
+&lt;p>Tapi, &lt;strong>YouTube itu jauh lebih terkenal dibanding Netflix&lt;/strong>.&lt;/p>
+&lt;p>Menurut &lt;a href="https://www.statista.com/statistics/910875/us-most-popular-video-streaming-services-by-monthly-average-users/" title="Statista.com">Statista.com&lt;/a>, Youtube sekarang memiliki 163 juta pengguna, sedangkan Netflix memiliki 46 juta pengguna.&lt;/p>
+&lt;p>Walaupun YouTube memiliki 163 juta pengguna, tidak semuanya berbicara menggunakan bahasa yang sama. Oleh karena itu, &lt;em>keberadaan subtitel dalam berbagai bahasa adalah cara yang tepat untuk meningkatkan keberadaan dan jumlah pengguna kalian&lt;/em>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/setidaknya-ada-23-bahasa-yang-digunakan-oleh-setengah-dari-populasi-dunia.jpg" alt="Setidaknya ada 23 bahasa yang digunakan oleh setengah dari populasi duni" title="Setidaknya ada 23 bahasa yang digunakan oleh setengah dari populasi duni" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/setidaknya-ada-23-bahasa-yang-digunakan-oleh-setengah-dari-populasi-dunia.jpg">Setidaknya ada 23 bahasa yang digunakan oleh setengah dari populasi duni &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Menurut &lt;a href="https://www.ethnologue.com/guides/how-many-languages" title="Ethnologue">Ethnologue&lt;/a>, setidaknya ada 23 bahasa yang digunakan oleh setengah dari populasi dunia.&lt;/p>
+&lt;p>Tapi&amp;hellip; Nggak mungkin kan seseorang bisa mengetahui 23 bahasa yang berbeda?&lt;/p>
+&lt;p>Tentu aja ada banyak orang yang mengerti beragam bahasa. Tapi, bagaimana dengan mereka yang cuman mengerti 1 atau 2 bahasa? Bagaimana caranya mereka bisa menerjemahkan video mereka ke beragam bahasa?&lt;/p>
+&lt;p>Nah, inilah yang bakalan kami bahas kali ini!&lt;/p>
+&lt;h2 id="berbagai-cara-untuk-menerjemahkan-video-youtube">Berbagai Cara Untuk Menerjemahkan Video YouTube&lt;/h2>
+&lt;h3 id="menerjemahkan-video-secara-manual">Menerjemahkan Video Secara Manual&lt;/h3>
+&lt;p>Tentu saja, cara paling akurat untuk menerjemahkan video Youtube kalian adalah dengan menerjemahkannya secara manual. Melakukannya berarti kalian bisa berbicara dalam bahasa target atau mempekerjakan seseorang yang bisa berbicara dalam bahasa target.&lt;/p>
+&lt;p>Inilah cara supaya kalian bisa menerjemahkan video YouTube secara manual:&lt;/p>
+&lt;h4 id="1---buat-file-srt">1 - Buat File SRT&lt;/h4>
+&lt;p>Pertama-tama, kalian perlu membuat file SRT.&lt;/p>
+&lt;p>SRT adalah file teks biasa yang berisi informasi penting tentang subtitle, termasuk kode waktu mulai dan berakhir dari teks Anda untuk memastikan subtitle Anda cocok dengan audio Anda, dan nomor urut subtitle.&lt;/p>
+&lt;p>Dengan memiliki SRT, video kalian akan memiliki subtitel atau teks.&lt;/p>
+&lt;p>Ada berbagai perangkat lunak di luar sana bagi kalian untuk membuat file SRT secara manual, salah satunya adalah TextEditor.&lt;/p>
+&lt;p>Cara membuat file SRT di TextEditor:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Urutkan&lt;/strong> garis caption dengan nomor yang dimulai dari angka 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tekan enter dan tempatkan cap waktu. Format dari cap waktu yang akan kalian tempatkan adalah &amp;lsquo;jam:menit:detik,milidetik &amp;ndash;&amp;gt; jam:menit:detik,milidetik&amp;rsquo;.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tekan enter lagi dan mulailah &lt;strong>menulis&lt;/strong> caption kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>Format&lt;/strong> &amp;gt; &amp;lsquo;&lt;strong>Make Plain Text&lt;/strong>&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg" alt="Pastikan kalian sudah mengatur &amp;amp;lsquo;make plain text&amp;amp;rsquo; di TextEdit untuk membuat file SRT" title="Pastikan kalian sudah mengatur &amp;#39;make plain text&amp;#39; di TextEdit untuk membuat file SRT" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/make-sure-that-you-have-set-make-plain-text-in-textedit-to-make-srt-file.jpg">Pastikan kalian sudah mengatur &amp;#39;make plain text&amp;#39; di TextEdit untuk membuat file SRT &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>File&lt;/strong> &amp;gt; &lt;strong>save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di kolom Save As, ketik nama file kalian. TextEdit akan secara otomatis membuat extension file kalian menjadi &lt;strong>.txt&lt;/strong> jadi kalian harus menggantinya menjadi &lt;strong>.srt&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg" alt="Menyimpan file SRT di TextEdit" title="Menyimpan file SRT di TextEdit" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/saving-your-srt-file-in-textedit.jpg">Menyimpan file SRT di TextEdit &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hapus centang tulisan &amp;lsquo;&lt;strong>If no extension is provided, use .txt&lt;/strong>&amp;rsquo; dan klik save.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="2---terjemahkan-file-srt-kalian">2 - Terjemahkan File SRT Kalian&lt;/h4>
+&lt;p>Setelah file SRT kalian selesai dibuat, saatnya untuk menerjemahkan file tersebut.&lt;/p>
+&lt;p>Berikut adalah cara untuk menerjemahkan file SRT secara manual:&lt;/p>
+&lt;ol>
+&lt;li>Buat &lt;strong>salinan&lt;/strong> file SRT asli.&lt;/li>
+&lt;li>Terjemahkan bahasa teks di file SRT sambil &lt;strong>tetap mempertahankan stempel waktu yang sama&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Simpan&lt;/strong> file SRT terjemahan Anda.&lt;/li>
+&lt;/ol>
+&lt;h4 id="3---unggah-file-srt">3 - Unggah File SRT&lt;/h4>
+&lt;p>Langkah terakhir adalah mengunggah file SRT tersebut ke YouTube.&lt;/p>
+&lt;p>Untuk melakukan ini, kalian perlu:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Masuk&lt;/strong> ke akun YouTube kalian dan pergi ke &lt;a href="http://studio.youtube.com/" title="YouTube Studio">YouTube Studio&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dari kolum menu di sebelah kiri, pilih &lt;strong>Subtitles&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih &lt;strong>video&lt;/strong> yang ingin kalian edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih &lt;strong>add language&lt;/strong>&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg" alt="Cara menambahkan subtitle di YouTube " title="Cara menambahkan subtitle di YouTube " layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-video-subtitles-on-youtube.jpg">Cara menambahkan subtitle di YouTube &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Pilih&lt;/strong> bahasa kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih &lt;strong>Upload File&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg" alt="Menambahkan Subtitle Di YouTube Dengan Mengunggah File" title="Menambahkan Subtitle Di YouTube Dengan Mengunggah File" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-uploading-a-file.jpg">Menambahkan Subtitle Di YouTube Dengan Mengunggah File &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih antara &lt;strong>With Timing&lt;/strong> atau &lt;strong>Without Timing&lt;/strong>, kemudian pilih &lt;strong>Continue&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih &lt;strong>file&lt;/strong> yang ingin kalian unggah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>Save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="menerjemahkan-video-youtube-dengan-videotranslator">Menerjemahkan Video YouTube Dengan VideoTranslator&lt;/h3>
+&lt;p>Cara kedua adalah dengan menerjemahkan video kalian menggunakan Video Translator.&lt;/p>
+&lt;h4 id="1---mentranskripsikan-video">1 - Mentranskripsikan Video&lt;/h4>
+&lt;p>Langkah pertama untuk menerjemahkan video dengan VideoTranslator adalah mentranskripsikan video kalian.&lt;/p>
+&lt;p>Transkripsi adalah pemrosesan dan pemindahan suara ucapan ke dalam teks berjangka waktu yang ditampilkan pada video.&lt;/p>
+&lt;p>VideoTranslator menggunakan perangkat lunak kecerdasan buatan untuk mentranskripsikan video kalian secara otomatis.&lt;/p>
+&lt;p>Transkripsi video otomatis dapat membantu kalian menghemat waktu dengan langsung mengubah ucapan menjadi teks berjangka waktu. Dengan cara ini, kalian nggak perlu lagi mengetik teks secara manual dan mengatur waktu seperti yang kita bahas di poin sebelumnya.&lt;/p>
+&lt;p>Untuk mentranskripsikan video dengan VideoTranslator, ikuti proses di bawah ini:&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg" alt="Tambahkan transkripsi video dengan menggunakan VideoTranslator.ai" title="Tambahkan transkripsi video dengan menggunakan VideoTranslator.ai" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/add-subtitle-with-video-translator.jpg">Tambahkan transkripsi video dengan menggunakan VideoTranslator.ai &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Masuk&lt;/strong> ke akun Video Translator kalian.&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> video kalian menggunakan tombol &lt;strong>quicktranscribe&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>Pilih bahasa&lt;/strong> dan dialek dari video kalian dan klik tombol accept untuk memulai proses transkripsi.&lt;/li>
+&lt;li>Begitu proses transkripsi selesai, &lt;strong>cek hasil transkripsi&lt;/strong> dan benarkan tata bahasa seperti kapitalisasi dan tanda baca titik.&lt;/li>
+&lt;/ol>
+&lt;p>Kalian bisa menyimpan transkripsi kalian sebagai file SRT. Nanti bakalan kami bahas kenapa menyimpan file asli transkripsi (SRT yang belum diterjemahkan) kalian itu penting.&lt;/p>
+&lt;h4 id="2---terjemahkan-transkripsi">2 - Terjemahkan Transkripsi&lt;/h4>
+&lt;p>Setelah selesai, VideoTranslator bisa menerjemahkan transkripsi secara otomatis.&lt;/p>
+&lt;p>Untuk melakukan ini, kalian harus:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pergi ke t&lt;strong>ombol action&lt;/strong> &amp;gt; &lt;strong>translate&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-translate-your-transcription.jpg" alt="Menerjemahkan Transkripsi Kalian Menggunakan VideoTranslator" title="Menerjemahkan Transkripsi Kalian Menggunakan VideoTranslator" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-translate-your-transcription.jpg">Menerjemahkan Transkripsi Kalian Menggunakan VideoTranslator &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Pilih&lt;/strong> bahasa yang diinginkan untuk diterjemahkan dan klik accept.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Buat&lt;/strong> nama yang berbeda untuk video yang sudah diterjemahkan. Klik submit.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/name-your-new-translated-file.jpg" alt="Buat nama yang berbeda untuk video yang sudah diterjemahkan" title="Buat nama yang berbeda untuk video yang sudah diterjemahkan" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/name-your-new-translated-file.jpg">Buat nama yang berbeda untuk video yang sudah diterjemahkan &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian akan dibawa ke halaman &lt;strong>Root&lt;/strong>. Cari file kalian dan klik edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian bisa menemukan hasil dari terjemahan dengan menekan tombol &lt;strong>caption&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Unduh&lt;/strong> file SRT yang sudah dihasilkan.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="3---unggah-file-srt-1">3 - Unggah File SRT&lt;/h4>
+&lt;p>Sekarang, kalian bisa mengunggah file SRT tersebut ke YouTube dengan mengikuti langkah-langkah yang disebutkan sebelumnya dalam Menerjemahkan Video Secara Manual.&lt;/p>
+&lt;h3 id="menerjemahkan-video-dengan-youtube">Menerjemahkan Video Dengan YouTube&lt;/h3>
+&lt;p>Cara ketiga adalah dengan menerjemahkan video kalian menggunakan YouTube.&lt;/p>
+&lt;h4 id="1---buat-caption">1 - Buat Caption&lt;/h4>
+&lt;p>Kalau fungsi caption otomatis tersedia, maka YouTube akan secara otomatis memproduksi caption.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg" alt="YouTube bisa memproduksi subtitle secara otomatis " title="YouTube bisa memproduksi subtitle secara otomatis " layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/youtube-generating-automatic-captions.jpg">YouTube bisa memproduksi subtitle secara otomatis &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;blockquote>
+&lt;p>Saat ini, teks otomatis tersedia dalam bahasa Belanda, Inggris, Prancis, Jerman, Indonesia, Italia, Jepang, Korea, Portugis, Rusia, Spanyol, Turki, dan Vietnam.&lt;/p>
+&lt;/blockquote>
+&lt;p>Artinya, jumlah bahasa yang tersedia untuk kalian membuat caption itu terbatas. Tanpa caption, video kalian nggak bisa diterjemahkan YouTube.&lt;/p>
+&lt;p>Nah, alternatif lainnya adalah dengan mengunggah file SRT asli kalian yang belum diterjemahkan.&lt;/p>
+&lt;p>Kalian ingat nggak tadi di metode #2, kami bilang kalau kalian bisa menyimpan hasil transkripsi video kalian dalam file SRT? Nah, di sinilah file SRT asli kalian menjadi berguna.&lt;/p>
+&lt;p>File SRT asli adalah yang dibutuhkan YouTube untuk menerjemahkan subtitle kalian secara otomatis.&lt;/p>
+&lt;h4 id="2---terjemahkan-subtitel-kalian">2 - Terjemahkan Subtitel Kalian&lt;/h4>
+&lt;p>Berikut merupakan langkah-langkah untuk menerjemahkan subtitel kalian secara otomatis di YouTube:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Klik &lt;strong>tambah bahasa&lt;/strong> dan &lt;strong>pilih bahasa&lt;/strong> yang ingin diterjemahkan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>subtitles&lt;/strong> &amp;gt; &lt;strong>add&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>auto-translate&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg" alt="Menambahkan Subtitle Di YouTube Dengan Menerjemahkan Secara Otomatis" title="Menambahkan Subtitle Di YouTube Dengan Menerjemahkan Secara Otomatis" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adding-subtitle-on-youtube-by-auto-translate.jpg">Menambahkan Subtitle Di YouTube Dengan Menerjemahkan Secara Otomatis &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Subtitle kalian bakalan diterjemahkan secara &lt;strong>otomatis&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="mengapa-menggunakan-videotranslator-untuk-menerjemahkan-video-youtube-kalian">Mengapa Menggunakan VideoTranslator Untuk Menerjemahkan Video YouTube Kalian?&lt;/h2>
+&lt;p>Kalian udah belajar melalui artikel ini kalau YouTube bisa menerjemahkan video secara otomatis. Jadi, kenapa menggunakan VideoTranslator?&lt;/p>
+&lt;h3 id="1---videotranslator-menawarkan-60-bahasa-dan-150-dialek">1 - VideoTranslator Menawarkan 60+ Bahasa Dan 150+ Dialek&lt;/h3>
+&lt;p>Seperti yang telah kami sebutkan di artikel ini, video kalian harus ditranskripsi sebelum proses penerjemahan terjadi.&lt;/p>
+&lt;p>Sedangkan untuk YouTube, saat ini teks otomatis tersedia dalam bahasa Belanda, Inggris, Prancis, Jerman, Indonesia, Italia, Jepang, Korea, Portugis, Rusia, Spanyol, Turki, dan Vietnam.&lt;/p>
+&lt;p>Jadi, gimana kalau konten kalian menggunakan bahasa selain dari 13 bahasa yang disebutkan tadi?&lt;/p>
+&lt;p>Nah, inilah fungsinya VideoTranslator. Klik &lt;a href="https://videotranslator.ai/available-languages/" title="Jumlah bahasa">di sini&lt;/a> untuk melihat daftar bahasa dan dialek yang kami tawarkan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/videotranslator-menawarkan-60-bahasa-dan-150-dialek.jpg" alt="VideoTranslator menawarkan 60&amp;#43; Bahasa dan 150&amp;#43; Dialek" title="VideoTranslator menawarkan 60&amp;#43; Bahasa dan 150&amp;#43; Dialek" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/videotranslator-menawarkan-60-bahasa-dan-150-dialek.jpg">VideoTranslator menawarkan 60&amp;#43; Bahasa dan 150&amp;#43; Dialek &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h3 id="2---menanamkan-teks-di-video">2 - Menanamkan Teks Di Video&lt;/h3>
+&lt;p>Dengan YouTube, subtitle kalian hanya akan tersedia jika tombol CC di layar diklik.&lt;/p>
+&lt;p>Tapi, bagaimana jika kalian ingin subtitle tersebut muncul secara permanen di video kalian?&lt;/p>
+&lt;p>Dengan VideoTranslator, tentunya!&lt;/p>
+&lt;p>Untuk melakukannya, kalian harus:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buka&lt;/strong> video yang sudah ditranskrip/diterjemahkan di VideoTranslator.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>tombol action&lt;/strong> &amp;gt; &lt;strong>auto overlay&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Atur&lt;/strong> gaya font, ukuran dan warna sesuai dengan preferensi kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/choose-your-font-styling-while-creating-auto-overlay-for-your-video.jpg" alt="Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian" title="Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/choose-your-font-styling-while-creating-auto-overlay-for-your-video.jpg">Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian bisa memilih untuk menambahkan garis, latar belakang teks, atau tidak menambahkan gaya apa pun pada teks kalian. Klik &lt;strong>confirm&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian akan diarahkan ke halaman Root. &lt;strong>Klik&lt;/strong> file kalian dan tekan tombol edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Video kalian akan memiliki teks yang tertanam di dalamnya.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/your-video-will-have-embedded-captions-on-it.jpg" alt="Video kalian akan memiliki teks yang tertanam di dalamnya." title="Video kalian akan memiliki teks yang tertanam di dalamnya." layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/your-video-will-have-embedded-captions-on-it.jpg">Video kalian akan memiliki teks yang tertanam di dalamnya. &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Di artikel ini, kami sudah membahas bagaimana kalian bisa menerjemahkan video YouTube kalian secara manual, atau dengan menggunakan VideoTranslator dan YouTube untuk menerjemahkan video YouTube kalian secara otomatis.&lt;/p>
+&lt;p>Kami harap artikel ini membantu kalian dalam perjalanan penerjemahan kalian!&lt;/p>
+&lt;p>Ada sedikit bonus, nih&amp;hellip; Yuk coba VideoTranslator secara &lt;a href="videotranslator.ai/free-trial" title="free trial">GRATIS&lt;/a>!&lt;/p>
+&lt;p>Jangan lupa kasih tau kami ya gimana proses penerjemahan kalian. Kami mau tau nih hasilnya 😝&lt;/p>
+&lt;p>Untuk informasi lebih lanjut mengenai VideoTranslator, jangan segan-segan untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>Sampai jumpa di postingan blog edukasi lainnya!&lt;/p></content:encoded></item><item><title>Multiple Ways To Translate Your YouTube Videos</title><link>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</link><pubDate>July 5, 2021</pubDate><guid>https://videotranslator.ai/news/multiple-ways-to-translate-your-youtube-subtitles/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/multiple-ways-to.jpg"/><description>Find out multiple ways to translate your YouTube videos without spending years learning different languages!</description><content:encoded>&lt;p>Did you know that YouTube was created in 2005, while Netflix was created in 1997?&lt;/p>
 &lt;p>Yes! Netflix is older than YouTube.&lt;/p>
 &lt;p>However, &lt;strong>YouTube&amp;rsquo;s popularity surpassed Netflix&lt;/strong>.&lt;/p>
 &lt;p>According to &lt;a href="https://www.statista.com/statistics/910875/us-most-popular-video-streaming-services-by-monthly-average-users/" title="Statista.com">Statista.com&lt;/a>, Youtube currently has 163 M users, while Netflix has 46 M users.&lt;/p>
