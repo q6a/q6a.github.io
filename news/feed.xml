@@ -92,9 +92,10 @@ Here, you can change the font style, font size, position of the text, spacing, a
 &lt;li>
 &lt;p>Once you are happy with it, you can export it by clicking &lt;strong>File &amp;gt; Export&lt;/strong> or pressing command/control + M.&lt;/p>
 &lt;p>In this example, the video is saved in the HEVC (H.265) format with a custom preset. If you scroll down, you will be able to see the captions tab. Make sure to change the export options to &amp;lsquo;Burn Captions Into Video&amp;rsquo; and click export.&lt;/p>
-&lt;p>If you don&amp;rsquo;t, your video will be exported &lt;strong>without&lt;/strong> the burned in subtitles.&lt;/p>
 &lt;/li>
 &lt;/ol>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/create-burned-in-subtitles-with-adobe-premiere-pro.jpg" alt="Create burned in subtitles with adobe premiere pro" title="Create burned in subtitles with adobe premiere pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/create-burned-in-subtitles-with-adobe-premiere-pro.jpg">Create burned in subtitles with adobe premiere pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>If you don&amp;rsquo;t, your video will be exported &lt;strong>without&lt;/strong> the burned in subtitles.&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>In this article, we have talked about different types of video subtitle burning, when to use burned in subtitles, and different ways to create burned in subtitles.&lt;/p>
 &lt;p>We hope this article helps you in your video-creating journey!&lt;/p>
