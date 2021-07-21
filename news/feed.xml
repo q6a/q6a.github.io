@@ -1,4 +1,105 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How To Create Burned In Subtitles</title><link>https://videotranslator.ai/news/how-to-create-burned-in-subtitles/</link><pubDate>July 19, 2021</pubDate><guid>https://videotranslator.ai/news/how-to-create-burned-in-subtitles/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-create-burned-in-subtitles.jpg"/><description>Find out in this article about different types of video subtitle burning, when to use burned in subtitles, and different ways to create burned in subtitles.</description><content:encoded>&lt;p>In the past, we have talked about how &lt;a href="https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/" title="Create SRT file">you can create an SRT file&lt;/a>.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Cara Menggabungkan Subtitle Film Secara Permanen</title><link>https://videotranslator.ai/news/cara-menggabungkan-subtitle-film-secara-permanen-/</link><pubDate>July 20, 2021</pubDate><guid>https://videotranslator.ai/news/cara-menggabungkan-subtitle-film-secara-permanen-/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/cara-menggabungkan-subtitle-film-secara-permanen.jpg"/><description>Cari tahu di artikel ini tentang berbagai jenis subtitle video, kapan harus menggunakan subtitle yang permanen, dan berbagai cara untuk membuat subtitle yang permanen.</description><content:encoded>&lt;p>Sebelumnya, kami pernah membahas tentang bagaimana kalian bisa &lt;a href="https://videotranslator.ai/news/mengedit-dan-mengimpor-file-srt-ke-premiere-pro/" title="Membuat file SRT">membuat file SRT&lt;/a>.&lt;/p>
+&lt;p>Walaupun file SRT itu sangat berguna, tapi banyak juga platform yang nggak mendukung penggunaan file SRT, seperti Instagram, Snapchat, dan TikTok.&lt;/p>
+&lt;p>Jadi, untuk tetap memberikan teks di video kalian, subtitle tersebut harus digabungkan ke video secara permanen.&lt;/p>
+&lt;h2 id="jenis---jenis-subtitle-video">Jenis - Jenis Subtitle Video&lt;/h2>
+&lt;h3 id="1---online">1 - Online&lt;/h3>
+&lt;p>Subtitle video online adalah penggunaan teks berkode waktu sebagai file sespan yang menyertakan teks. Setelah selesai, penonton memiliki pilihan untuk mengaktifkan atau menonaktifkan subtitel atau beralih antar bahasa.&lt;/p>
+&lt;h3 id="2---broadcast">2 - Broadcast&lt;/h3>
+&lt;p>Subtitle video broadcast adalah saat subtitle digabungkan secara permanen ke dalam video.&lt;/p>
+&lt;p>Dengan kata lain, subtitle ditambahkan ke video secara permanen sebagai bagian dari gambar video. Hal ini memastikan bahwa teks tidak dapat diaktifkan dan dinonaktifkan oleh penonton, tetapi ditampilkan secara default.&lt;/p>
+&lt;h2 id="kapan-subtitle-video-yang-permanen-digunakan">Kapan Subtitle Video yang Permanen Digunakan?&lt;/h2>
+&lt;h3 id="1---postingan-media-sosial">1 - Postingan Media Sosial&lt;/h3>
+&lt;p>Banyak platform media sosial tidak mendukung file subtitle. Untuk membuat konten yang lebih menarik, subtitle yang permanen ditambahkan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/tambah-subtitle-permanen-untuk-membuat-konten-kalian-lebih-menarik.jpg" alt="Tambah subtitle permanen untuk membuat konten kalian lebih menarik" title="Tambah subtitle permanen untuk membuat konten kalian lebih menarik" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/tambah-subtitle-permanen-untuk-membuat-konten-kalian-lebih-menarik.jpg">Tambah subtitle permanen untuk membuat konten kalian lebih menarik &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Selain itu, beberapa video diputar secara otomatis dalam mode bisu (mute) atau diputar di lingkungan yang bising. Oleh karena itu, subtitel yang permanen memungkinkan penonton untuk mengetahui konteks konten.&lt;/p>
+&lt;h3 id="2---buat-video-kalian-semakin-mudah-diakses">2 - Buat Video Kalian Semakin Mudah Diakses&lt;/h3>
+&lt;p>Subtitel permanen sangat berguna bagi para Tunarunggu dan orang-orang yang memiliki gangguan pendengaran lainnya.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/buat-video-kalian-lebih-mudah-diakses.jpg" alt="Buat video kalian lebih mudah diakses" title="Buat video kalian lebih mudah diakses" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/buat-video-kalian-lebih-mudah-diakses.jpg">Buat video kalian lebih mudah diakses &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Seringkali, video postingan di media sosial tidak memiliki teks, sehingga mereka tidak bisa mengetahu konteks dari konten yang ditonton.&lt;/p>
+&lt;h3 id="3---video-multi-bahasa">3 - Video Multi Bahasa&lt;/h3>
+&lt;p>Tentunya, kalau video atau film yang kita tonton itu dibuatan asing, pasti kontennya bukan dalam Bahasa Indonesia. Maka oleh itu, subtitle video pasti digunakan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/burned-in-subtitles-can-be-used-when-your-video-is-in-a-foreign-language.jpg" alt="Subtitle video permanen bisa digunakan untuk video dalam bahasa asing" title="Subtitle video permanen bisa digunakan untuk video dalam bahasa asing" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/burned-in-subtitles-can-be-used-when-your-video-is-in-a-foreign-language.jpg">Subtitle video permanen bisa digunakan untuk video dalam bahasa asing &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Subtitle video juga digunakan ketika ada beberapa dialok, selain dari bahasa utama, yang menggunakan bahasa berbeda. Misalnya, waktu Cinta Laura ngomong 1 paragraf, bahasanya kan campur-campur antara Bahasa Indonesia sama Bahasa Inggris.&lt;/p>
+&lt;h3 id="4---e-learning">4 - E-Learning&lt;/h3>
+&lt;p>Beberapa orang belajar dengan mendengarkan, beberapa belajar dengan membaca, dan beberapa dengan melakukan keduanya.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/berbagai-metode-belajar.jpg" alt="Berbagai metode belajar" title="Berbagai metode belajar" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/berbagai-metode-belajar.jpg">Berbagai metode belajar &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Memiliki subtitle untuk konten e-learning akan membantu penonton untuk lebih memahami konten video. Hal ini juga sangat penting ketika konten video berbicara tentang istilah teknis, seperti pembahasan medis atau teknik.&lt;/p>
+&lt;h2 id="cara-menggabungkan-subtitle-film-secara-permanen">Cara Menggabungkan Subtitle Film Secara Permanen&lt;/h2>
+&lt;h3 id="1---video-translator">1 - Video Translator&lt;/h3>
+&lt;p>Cara pertama adalah dengan menggunakan VideoTranslator.&lt;/p>
+&lt;p>VideoTranslator adalah platform yang saat ini menawarkan 120+ bahasa dan 150+ dialek untuk proses transkripsi, terjemahan, dan sulih suara sintetis.&lt;/p>
+&lt;p>Kalian bisa mencobanya secara gratis &lt;a href="videotranslator.ai/free-trial" title="free trial">disini&lt;/a>.&lt;/p>
+&lt;p>Begini cara menggabungkan subtitle film secara permanen dengan VideoTranslator:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buka&lt;/strong> video yang sudah ditranskrip (sudah memiliki subtitle terpisah) di VideoTranslator.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>tombol action&lt;/strong> &amp;gt; &lt;strong>auto overlay&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Atur&lt;/strong> gaya font, ukuran dan warna sesuai dengan preferensi kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/choose-your-font-styling-while-creating-auto-overlay-for-your-video.jpg" alt="Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian" title="Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/choose-your-font-styling-while-creating-auto-overlay-for-your-video.jpg">Atur gaya font, ukuran dan warna sesuai dengan preferensi kalian &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian bisa memilih untuk menambahkan garis, latar belakang teks, atau tidak menambahkan gaya apa pun pada teks kalian. Klik &lt;strong>confirm&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian akan diarahkan ke halaman Root. &lt;strong>Klik&lt;/strong> file kalian dan tekan tombol edit.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Video kalian akan memiliki teks yang tertanam di dalamnya.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/your-video-will-have-embedded-captions-on-it.jpg" alt="Video kalian akan memiliki teks yang tertanam di dalamnya." title="Video kalian akan memiliki teks yang tertanam di dalamnya." layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/your-video-will-have-embedded-captions-on-it.jpg">Video kalian akan memiliki teks yang tertanam di dalamnya. &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="2---adobe-premiere-pro">2 - Adobe Premiere Pro&lt;/h3>
+&lt;p>Ada 2 cara untuk membuat subtitle yang permanen di Adobe Premiere Pro.&lt;/p>
+&lt;p>Metode pertama adalah dengan menambahkan teks ke video secara manual.&lt;/p>
+&lt;p>Begini caranya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Gunakan fungsi type dengan meng&lt;strong>klik&lt;/strong> ikon type di toolbar atau dengan &lt;strong>memencet&lt;/strong> huruf T di keyboard kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-text-in-adobe-premiere-pro-using-tytpe-tool.jpg" alt="Cara Menambahkan Text Di Adobe Premiere Pro Dengan Fungsi Type " title="Cara Menambahkan Text Di Adobe Premiere Pro Dengan Fungsi Type " layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-text-in-adobe-premiere-pro-using-tytpe-tool.jpg">Cara Menambahkan Text Di Adobe Premiere Pro Dengan Fungsi Type &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik di mana saja di panel program dan mulailah mengetik.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/menambahkan-teks-ke-video-dengan-adobe-premiere-pro.png" alt="Menambahkan Teks Ke Video Dengan Adobe Premiere Pro" title="Menambahkan Teks Ke Video Dengan Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/menambahkan-teks-ke-video-dengan-adobe-premiere-pro.png">Menambahkan Teks Ke Video Dengan Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Untuk mengedit teks, kalian harus pergi ke panel Essential Graphics. Untuk melakukannya, buka &lt;strong>Windows&lt;/strong> &amp;gt; &lt;strong>Essential Graphics&lt;/strong>. Ketika panel Essential Graphics ditampilkan, klik &lt;strong>Edit&lt;/strong> untuk mengedit teks.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/mengedit-teks-di-panel-essential-graphics.png" alt="Mengedit teks di panel Essential Graphics" title="Mengedit teks di panel Essential Graphics" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/mengedit-teks-di-panel-essential-graphics.png">Mengedit teks di panel Essential Graphics &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Di sini, kalian bisa mengubah gaya font, ukuran font, posisi teks, spasi, menambahkan highlight dan bayangan, dan banyak lagi.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Setelah kalian puas dengan aturan teks, kalian dapat membuat Master Style untuk menyatukan semua desain teks di seluruh video. Untuk melakukannya, klik &lt;strong>Master Styles&lt;/strong> &amp;gt; &lt;strong>Create Master Text Style&lt;/strong> &amp;gt; &lt;strong>ketik nama Master Text Style&lt;/strong> &amp;gt; klik &lt;strong>ok&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/create-master-text-style-in-adobe-premiere-pro.jpg" alt="Buat Master Text Style di Adobe Premiere Pro" title="Buat Master Text Style di Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/create-master-text-style-in-adobe-premiere-pro.jpg">Buat Master Text Style di Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sekarang kalian memiliki desain Master Style!&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/unify-all-of-your-text-designs-in-adobe-premiere-pro.jpg" alt="Menyatukan semua desain teks di Adobe Premiere Pro " title="Menyatukan semua desain teks di Adobe Premiere Pro " layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/unify-all-of-your-text-designs-in-adobe-premiere-pro.jpg">Menyatukan semua desain teks di Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Video kalian akan memiliki subtitle yang tertanam di dalamnya saat video diekspor.&lt;/p>
+&lt;p>Cara kedua adalah dengan &lt;strong>mengekspor file SRT ke Adobe Premiere Pro.&lt;/strong>&lt;/p>
+&lt;p>Berikut cara melakukannya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Siapkan&lt;/strong> file SRT kalian dan seret ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Klik&lt;/strong> dua kali di file subtitle kalian dan edit subtitle tersebut, seperti posisi pada layar, dll.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Setelah kalian puas dengan hasil subtitle, klik &lt;strong>File &amp;gt; Export&lt;/strong> atau ctrl/cmd+ M.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/buat-subtitle-film-permanen-dengan-adobe-premiere-pro.jpg" alt="Buat subtitle film permanen dengan Adobe premiere Pro" title="Buat subtitle film permanen dengan Adobe premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/buat-subtitle-film-permanen-dengan-adobe-premiere-pro.jpg">Buat subtitle film permanen dengan Adobe premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Dalam contoh ini, video disimpan dalam format HEVC (H.265) dengan preset khusus. Jika kalian menggulir ke bawah, kalian bisa melihat tab teks. Pastikan untuk mengubah opsi ekspor ke &amp;lsquo;Burn Captions Into Video&amp;rsquo; dan klik &lt;strong>ekspor&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Pada artikel ini, kita telah membahas tentang berbagai jenis subtitle video, kapan harus menggunakan subtitle yang permanen, dan berbagai cara untuk membuat subtitle yang permanen.&lt;/p>
+&lt;p>Kami harap artikel ini membantu kalian dalam perjalanan pembuatan video!&lt;/p>
+&lt;p>Untuk informasi lebih lanjut mengenai VideoTranslator, jangan ragu-ragu untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>Sampai jumpa di postingan blog lainnya!&lt;/p></content:encoded></item><item><title>How To Create Burned In Subtitles</title><link>https://videotranslator.ai/news/how-to-create-burned-in-subtitles/</link><pubDate>July 19, 2021</pubDate><guid>https://videotranslator.ai/news/how-to-create-burned-in-subtitles/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-create-burned-in-subtitles.jpg"/><description>Find out in this article about different types of video subtitle burning, when to use burned in subtitles, and different ways to create burned in subtitles.</description><content:encoded>&lt;p>In the past, we have talked about how &lt;a href="https://videotranslator.ai/news/import-and-edit-srt-file-to-adobe-premiere-pro-/" title="Create SRT file">you can create an SRT file&lt;/a>.&lt;/p>
 &lt;p>Although creating an SRT file is great, many platforms do not support the usage of SRT files, such as Instagram, Snapchat, and TikTok.&lt;/p>
 &lt;p>So, in order for you to still provide captions to the viewers, you need to create burned-in subtitles.&lt;/p>
 &lt;h2 id="different-types-of-video-subtitle-burning">Different Types Of Video Subtitle Burning&lt;/h2>
