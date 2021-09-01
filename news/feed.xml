@@ -1,4 +1,106 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How To Change Video Background (Green, Blue and White Screen)</title><link>https://videotranslator.ai/news/how-to-change-video-background/</link><pubDate>August 30, 2021</pubDate><guid>https://videotranslator.ai/news/how-to-change-video-background/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-change-video-background_.jpg"/><description>This article will explain how to remove green, blue and white screen background with Adobe Premiere Pro and iMovie</description><content:encoded>&lt;p>When we were younger, we might have been fascinated with the background of the news anchor.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Cara Mengganti Background Video (Green, Blue, White Screen)</title><link>https://videotranslator.ai/news/cara-mengganti-background-video/</link><pubDate>August 31, 2021</pubDate><guid>https://videotranslator.ai/news/cara-mengganti-background-video/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/cara-mengganti-layar-video.jpg"/><description>Yuk cari tau cara menghapus latar belakang layar hijau, biru dan putih dengan Adobe Premiere Pro dan iMovie</description><content:encoded>&lt;p>Waktu kalian masih kecil, kalian pernah nggak sih terpesona sama latar belakang pembawa berita? Kok bisa ya latar belakang mereka selalu aja gedung-gedung tinggi?&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/news-anchor-reporting-news.jpg" alt="Pembawa berita di stasiun televisi" title="Pembawa berita di stasiun televisi" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/news-anchor-reporting-news.jpg">Pembawa berita di stasiun televisi &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Nah, ternyata trik mereka adalah dengan menggunakan green screen atau layar hijau!&lt;/p>
+&lt;p>Jadi, green screen itu apaan sih?&lt;/p>
+&lt;h2 id="apa-itu-green-screen">Apa Itu Green Screen?&lt;/h2>
+&lt;p>Green screen atau layar hijau adalah latar belakang hijau besar yang ditempatkan di latar belakang bidikan yang biasa digunakan untuk menambahkan efek khusus atau mengubah latar belakang video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/what-is-a-green-screen_.jpg" alt="Apa itu green screen?" title="Apa itu green screen?" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/what-is-a-green-screen_.jpg">Apa itu green screen? &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Walau disebut layar hijau, layar ini sebenernya nggak selalu harus berwarna hijau.&lt;/p>
+&lt;p>Pada tahun 1898, &lt;a href="https://www.studiobinder.com/blog/what-is-a-green-screen-video/" title="George Albert Smith">George Albert Smith &lt;/a>awalnya menggunakan kain hitam untuk membuat benda &amp;lsquo;menghilang&amp;rsquo;.&lt;/p>
+&lt;p>Kemudian, orang-orang mulai menggunakan layar biru karena ketika diedit bisa menghasilkan tepi yang lebih bersih, lebih sedikit tumpahan warna, dan berfungsi lebih baik di malam hari.&lt;/p>
+&lt;p>Nah, orang-orang baru mulai menggunakan layar hijau karena warna latar belakang harus berbeda dari warna kulit dan pakaian. Ketika warna biru lebih umum digunakan sebagai pakaian, kemungkinan untuk warna hijau neon dipakai itu jauh lebih kecil. Oleh karena itu, layar ini sekarang sering disebut layar hijau.&lt;/p>
+&lt;h2 id="contoh-pemakaian-green-screen">Contoh Pemakaian Green Screen&lt;/h2>
+&lt;h3 id="1---penyiaran">1 - Penyiaran&lt;/h3>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/broadcasting-use-of-green-screen.jpg" alt="Green Screen digunakan untuk penyiaran" title="Green Screen digunakan untuk penyiaran" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/broadcasting-use-of-green-screen.jpg">Green Screen digunakan untuk penyiaran &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Seperti yang sudah kita sebut tadi, green screen oini sering kali digunakan dalam penyiaran untuk mengganti latar belakang. Dengan demikian, foto atau gambar bisa ditambahkan ke belakang penyiar ketika berita sedang ditampilkan.&lt;/p>
+&lt;h3 id="2---film">2 - Film&lt;/h3>
+&lt;p>Film Avenger yang barusan kalian tonton itu direkam menggunakan green screen. Film Superman? Green screen. Batman? Green screen juga.&lt;/p>
+&lt;p>Kebanyakan film akhir-akhir ini direkam menggunakan layar hijau untuk menciptakan nuansa yang lebih realistis.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/movies-set-up-with-green-screen.jpg" alt="Film-film yang direkam menggunakan layar hijau" title="Film-film yang direkam menggunakan layar hijau" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/movies-set-up-with-green-screen.jpg">Film-film yang direkam menggunakan layar hijau &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Bukan cuman film, acara TV juga direkam menggunakan layar hijau. Misalnya, adegan Italia dalam K-drama Vincenzo difilmkan di depan layar hijau.&lt;/p>
+&lt;h3 id="3---vloggers">3 - Vloggers&lt;/h3>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/vloggers-use-green-screen-to-create-aesthetically-pleasing-videos.jpg" alt="Vloggers juga menggunakan layar hijau" title="Vloggers juga menggunakan layar hijau" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/vloggers-use-green-screen-to-create-aesthetically-pleasing-videos.jpg">Vloggers juga menggunakan layar hijau &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Banyak blogger saat ini menggunakan layar hijau untuk merekam video mereka atau melakukan streaming langsung. Layar hijau ini memungkinkan mereka untuk mengubah latar belakang dan membuat video yang lebih estetis.&lt;/p>
+&lt;h3 id="4---rapat-online">4 - Rapat Online&lt;/h3>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/using-green-screen-for-your-zoom-meeting.jpg" alt="Menggunakan layar hijau untuk rapat online" title="Menggunakan layar hijau untuk rapat online" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/using-green-screen-for-your-zoom-meeting.jpg">Menggunakan layar hijau untuk rapat online &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>Buat kalian yang udah sering rapat online selama pandemi ini, kalian pasti tau persis apa yang sedang kita bicarakan.&lt;/p>
+&lt;p>Berkat layar hijau Zoom, ruang tamu kalian yang berantakan bisa seketika disulap menjadi pegunungan Swiss.&lt;/p>
+&lt;h2 id="cara-mengganti-background-video">Cara Mengganti Background Video?&lt;/h2>
+&lt;h3 id="mengganti-background-video-menggunakan-adobe-premiere-pro">Mengganti Background Video Menggunakan Adobe Premiere Pro&lt;/h3>
+&lt;p>Nggak salah lagi, Premiere Pro memang merupakan salah satu software pengeditan video paling oke.&lt;/p>
+&lt;p>Begini caranya untuk mengganti background video di Premiere Pro:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Buka proyek kalian di Adobe Premiere Pro dan letakkan video di &lt;strong>layer kedua&lt;/strong> (layer pertama untuk background video yang ingin ditambahkan).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects&lt;/strong> &amp;gt; &lt;strong>Video Effects&lt;/strong> &amp;gt; &lt;strong>Keying&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/change-your-video-background-with-adobe-premiere-pro.jpg" alt="Mengganti Background Video Menggunakan Adobe Premiere Pro" title="Mengganti Background Video Menggunakan Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/change-your-video-background-with-adobe-premiere-pro.jpg">Mengganti Background Video Menggunakan Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tarik efek &lt;strong>Ultra Key&lt;/strong> ke video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/change-your-video-background-using-ultra-key-effects.jpg" alt="Ubah Latar Belakang Video Anda menggunakan efek ultra key" title="Ubah Latar Belakang Video Anda menggunakan efek ultra key" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/change-your-video-background-using-ultra-key-effects.jpg">Ubah Latar Belakang Video Anda menggunakan efek ultra key &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di effects control, klik &lt;strong>pen tool&lt;/strong> dan klik &lt;strong>area hijau atau biru&lt;/strong> di layar kalian. Background kalian akan dihapus secara otomatis.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-green-screen-with-adobe-premiere-pro.jpg" alt="Hapus layar hijau dengan adobe premiere pro" title="Hapus layar hijau dengan adobe premiere pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-green-screen-with-adobe-premiere-pro.jpg">Hapus layar hijau dengan adobe premiere pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Kadang-kadang, efek Ultra Key ini nggak bekerja seperti yang kalian bayangkan. Misalnya, waktu latar belakang berwarna putih, efek ini mungkin nggak berfungsi. Tapi, jangan khawatir! Ada cara lain!&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Impor video kalian di &lt;strong>layer 2&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects&lt;/strong> &amp;gt; &lt;strong>Video Effects&lt;/strong> &amp;gt; &lt;strong>Keying&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tarik efek &lt;strong>Color Key&lt;/strong> ke video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/change-your-video-background-using-color-key-effects.jpg" alt="Ubah Latar Belakang Video Anda Menggunakan Efek Color Key" title="Ubah Latar Belakang Video Anda Menggunakan Efek Color Key" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/change-your-video-background-using-color-key-effects.jpg">Ubah Latar Belakang Video Anda Menggunakan Efek Color Key &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di effects control, klik pada pen tool kemudian klik area putih di layar kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Atur color tolerance&lt;/strong> sesuai preferensi kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adjust-the-color-tolerance-effects.jpg" alt="Sesuaikan efek toleransi warna" title="Sesuaikan efek toleransi warna" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adjust-the-color-tolerance-effects.jpg">Sesuaikan efek toleransi warna &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Dalam contoh ini, Premiere Pro juga menghilangkan warna putih dari logo VideoTranslator. Jadi, gimana cara memperbaikinya?&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Di effects control, klik pada logo &lt;strong>ellipse&lt;/strong> atau &lt;strong>4-point polygon mask&lt;/strong> dan tentukan area yang ingin kalian pilih. Dalam kasus kami, kami ingin membalikkan area yang dipilih.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Centang kotak &lt;strong>inverted box&lt;/strong>, dan&amp;hellip; jadi deh!&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/mask-your-image-to-select-areas-that-will-receive-the-effect.jpg" alt="Gunakan fungsi mask untuk menentukan area yang menerima efek" title="Gunakan fungsi mask untuk menentukan area yang menerima efek" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/mask-your-image-to-select-areas-that-will-receive-the-effect.jpg">Gunakan fungsi mask untuk menentukan area yang menerima efek &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="mengganti-background-video-menggunakan-imovie">Mengganti Background Video Menggunakan iMovie&lt;/h3>
+&lt;p>Kalau kalian nggak berlangganan Adobe Premiere Pro, nggak masalah! Kalian bisa menghapus layar hijau menggunakan alat pengeditan video gratis dari Apple, iMovie!&lt;/p>
+&lt;p>Begini caranya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Muat background video/gambar&lt;/strong> ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Tambahkan video yang memiliki layar hijau atau biru&lt;/strong> diatas background gambar/video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/change-your-video-background-with-imovie.jpg" alt="Mengganti Background Video Menggunakan iMovie" title="Mengganti Background Video Menggunakan iMovie" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/change-your-video-background-with-imovie.jpg">Mengganti Background Video Menggunakan iMovie &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik video yang memiliki layar hijau/biru kemudian pilih ikon &lt;strong>Video Overlay Settings&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ganti pengaturan dari Cutaway menjadi &lt;strong>Green/Blue screen&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/use-the-green_blue-screen-effects-in-imovie.jpg" alt="Gunakan efek layar Hijau/Biru di iMovie" title="Gunakan efek layar Hijau/Biru di iMovie" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/use-the-green_blue-screen-effects-in-imovie.jpg">Gunakan efek layar Hijau/Biru di iMovie &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Iya! Menghilangkan background hijau atau biru itu segampang itu!&lt;/p>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Selamat! Kalian telah berhasil mempelajari cara mengubah latar belakang video dengan menggunakan layar hijau, biru, atau putih!&lt;/p>
+&lt;p>Oh ya, tahukah kalian bahwa di VideoTranslator, kami memiliki alat online untuk menyalin, menerjemahkan, dan menyulih suara video ke 65 bahasa yang berbeda?&lt;/p>
+&lt;p>Yuk coba secara GRATIS &lt;a href="videotranslator.ai/free-trial" title="free trial">disini&lt;/a>!&lt;/p>
+&lt;p>Untuk informasi lebih lanjut tentang VideoTranslator, jangan ragu untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a> ✨&lt;/strong>&lt;/p></content:encoded></item><item><title>How To Change Video Background (Green, Blue and White Screen)</title><link>https://videotranslator.ai/news/how-to-change-video-background/</link><pubDate>August 30, 2021</pubDate><guid>https://videotranslator.ai/news/how-to-change-video-background/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-change-video-background_.jpg"/><description>This article will explain how to remove green, blue and white screen background with Adobe Premiere Pro and iMovie</description><content:encoded>&lt;p>When we were younger, we might have been fascinated with the background of the news anchor.&lt;/p>
 &lt;p>How do they almost always have a background of the skyscrapers?&lt;/p>
 &lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/news-anchor-reporting-news.jpg" alt="News anchor reporting news" title="News anchor reporting news" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/news-anchor-reporting-news.jpg">News anchor reporting news &lt;/a> &lt;/div>&lt;/div>&lt;/p>
 &lt;p>It is not until you get older that you realize they were all shot in front of a green screen.&lt;/p>
