@@ -1,4 +1,122 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>5 Easy Premiere Pro Effects For Beginners</title><link>https://videotranslator.ai/news/easy-premiere-pro-effects/</link><pubDate>September 6, 2021</pubDate><guid>https://videotranslator.ai/news/easy-premiere-pro-effects/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/5-easy-premiere-pro-effects-for-beginners.jpg"/><description>Are you an amateur video editor? Find out 5 easy premiere pro effects you can use to make you look like a PRO!</description><content:encoded>&lt;p>Adobe Premiere Pro is undoubtedly one of the most powerful video editing tools. Since it is powerful, it can be a little overwhelming for new users to use.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>5 Effect Mudah Untuk Pemula Di Premiere Pro</title><link>https://videotranslator.ai/news/5-effect-mudah-pemula-premiere-pro/</link><pubDate>September 7, 2021</pubDate><guid>https://videotranslator.ai/news/5-effect-mudah-pemula-premiere-pro/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/5-efek-mudah-di-premiere-pro.jpg"/><description>Kalian editor video amatir? Cari tahu 5 efek premiere pro yang mudah digunakan agar hasil video kalian terlihat seperti seorang PRO!</description><content:encoded>&lt;p>Adobe Premiere Pro itu nggak salah lagi merupakan salah satu aplikasi pengeditan video yang paling manjur. Tapi, sangking manjurnya, kita bisa kewalahan pas mau ngedit video!&lt;/p>
+&lt;p>Tapi nggak apa-apa, tenang&amp;hellip; Ada kita disini yang mau ngebantu kalian para pemula Premiere Pro!&lt;/p>
+&lt;p>Di artikel kali ini, kami akan membahas 5 effect mudah yang bisa kalian gunakan di Premiere Pro.&lt;/p>
+&lt;p>Cekidot!&lt;/p>
+&lt;h2 id="apa-itu-efek-video">Apa Itu Efek Video?&lt;/h2>
+&lt;p>Efek video adalah teknik pasca produksi yang digunakan dalam pengeditan film atau video yang dapat menciptakan tampilan yang lebih menarik atau artistik pada video kalian.&lt;/p>
+&lt;p>Dengan menambahkan efek video, kalian bisa menciptakan nuansa tertentu, beralih ke sudut pandang lain, menambahkan bumbu bumbu cinta pada narasi, atau bergerak mundur atau maju dalam waktu.&lt;/p>
+&lt;p>Nah, ada dua jenis efek video:&lt;/p>
+&lt;h3 id="1---efek-transisi-video">1 - Efek Transisi Video&lt;/h3>
+&lt;p>Transisi video adalah efek yang digunakan untuk menghubungkan satu bidikan ke bidikan lainnya. Jadi, bukan cuman sekedar menggabungkan berbagai shot video, editor film menggunakan transisi video untuk menghubungkan satu shot ke shot agar alur cerita bisa mengalir dengan baik dan memandu penonton dari adegan ke adegan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/transisi-video-adalah-efek-yang-digunakan-untuk-menghubungkan-satu-bidikan-ke-bidikan-lainnya.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;p>Beberapa contoh efek transisi video: Fade in, Fade Out, Dissolves, Pan, Zoom.&lt;/p>
+&lt;h3 id="2---efek-visual">2 - Efek Visual&lt;/h3>
+&lt;p>Efek Visual adalah istilah yang digunakan untuk menggambarkan citra yang dibuat, dimanipulasi, atau ditingkatkan untuk film apa pun, atau media bergerak lainnya yang tidak terjadi selama pengambilan gambar berlangsung.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/efek-visual-adalah-istilah-yang-digunakan-untuk-menggambarkan-citra-yang-dibuat-dimanipulasi-atau-ditingkatkan-untuk-film-apa-pun-atau-media-bergerak-lainnya-yang-tidak-terjadi-selama-pengambilan-gambar-berlangsung.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;p>Untuk melakukannya, editor video biasanya menggunakan Computer-Generated Imagery (CGI) dan software VFX tertentu.&lt;/p>
+&lt;p>Beberapa contoh software Visual Effects: Adobe After Effects, Maxon Cinema 4D, Autodesk Maya, Syntheyes, 3Ds Max.&lt;/p>
+&lt;h2 id="5-effect-mudah-untuk-pemula-di-premiere-pro">5 Effect Mudah Untuk Pemula Di Premiere Pro&lt;/h2>
+&lt;p>Nah, sekarang mari kita cari tau efek-efek apa aja yang bisa dan mudah kalian gunakan!&lt;/p>
+&lt;h3 id="1---efek-kecepatan-mundur-reverse-speed">1 - Efek Kecepatan Mundur (Reverse Speed)&lt;/h3>
+&lt;p>Efek ini membuat video kalian diputar dari akhir ke awal.&lt;/p>
+&lt;p>Begini cara memasukkan efek ini:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Seret&lt;/strong> klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Klik kanan&lt;/strong> pada klip yang kalian pilih, dan gulir ke bawah ke &amp;lsquo;Kecepatan/Durasi&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-reverse-speed-effect-to-your-video.jpg" alt="Cara menambahkan efek kecepatan mundur atau reverse speed di Premiere Pro" title="Cara menambahkan efek kecepatan mundur atau reverse speed di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-reverse-speed-effect-to-your-video.jpg">Cara menambahkan efek kecepatan mundur atau reverse speed di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kalian bisa terlebih dahulu menyesuaikan kecepatan video, apakah ingin dibuat lebih cepat atau lebih lambat. Kalau kalian puas dengan kecepatan normal, centang kotak &amp;lsquo;&lt;strong>Kecepatan Terbalik&lt;/strong> atau &lt;strong>Reverse Speed&lt;/strong>&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/tick-the-reverse-speed-box-in-clip-speed_duration-to-reverse-your-video-speed-in-premiere-pro.jpg" alt="Atur kecepatan yang ingin kalian tambahkan di video" title="Atur kecepatan yang ingin kalian tambahkan di video" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/tick-the-reverse-speed-box-in-clip-speed_duration-to-reverse-your-video-speed-in-premiere-pro.jpg">Atur kecepatan yang ingin kalian tambahkan di video &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="2---efek-blur">2 - Efek Blur&lt;/h3>
+&lt;p>Bikin konten kalian makin menarik dengan menggoda para penonton dengan efek blur.&lt;/p>
+&lt;p>Caranya gampang loh:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Seret&lt;/strong> klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects &amp;gt; Blur &amp;amp; Pertajam (Blur &amp;amp; Sharpen) &amp;gt; Gaussian Blur&lt;/strong>. Kalau kalian tidak bisa menemukan panel efek, buka &lt;strong>Window &amp;gt; Workspaces &amp;gt; Effects&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-blur-effect-to-your-video.jpg" alt="Cara menambahkan efek blur di Premiere Pro" title="Cara menambahkan efek blur di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-blur-effect-to-your-video.jpg">Cara menambahkan efek blur di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seret efek &lt;strong>Gaussian Blur&lt;/strong> ke klip kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di &lt;strong>effects control panel&lt;/strong>, atur intensitas dari efek blur. Semakin banyak angka yang kalian tulis, semakin kabur video kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adjust-the-intensity-of-the-blur-effect.jpg" alt="Atur intensitas efek blur di video kalian" title="Atur intensitas efek blur di video kalian" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adjust-the-intensity-of-the-blur-effect.jpg">Atur intensitas efek blur di video kalian &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="efek-video-hitam-dan-putih">Efek Video Hitam dan Putih&lt;/h3>
+&lt;p>Warna monokrom bisa membuat video kalian lebih unik. Misalnya, video kalian bisa terlihat lebih kuno, atau bahkan membantu penonton untuk fokus pada keadaan emosional subjek.&lt;/p>
+&lt;p>Berikut adalah langkah-langkah untuk menambahkan efek hitam putih ke video:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Seret&lt;/strong> klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects &amp;gt; Image Control &amp;gt; Black and White&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-black-and-white-effect-to-your-video.jpg" alt="Cara menambahkan efek hitam dan putih di Premiere Pro" title="Cara menambahkan efek hitam dan putih di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-black-and-white-effect-to-your-video.jpg">Cara menambahkan efek hitam dan putih di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seret efek &lt;strong>Black and White&lt;/strong> ke klip yang diinginkan, jadi deh!&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="4---efek-glitch">4 - Efek Glitch&lt;/h3>
+&lt;p>Secara teknis, glitch adalah hasil tak terduga dari malfungsi. Namun, &amp;lsquo;kerusakan&amp;rsquo; ini telah berkembang menjadi sesuatu yang artistik dan membawa banyak interpretasi pada karya kalian.&lt;/p>
+&lt;p>Inilah cara mudah menambahkan efek glitch ke video:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Seret&lt;/strong> klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects &amp;gt; Immersive Video &amp;gt; VR Digital Glitch&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-glitch-effect-to-your-video.jpg" alt="Cara menambahkan efek glitch di Premiere Pro" title="Cara menambahkan efek glitch di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-glitch-effect-to-your-video.jpg">Cara menambahkan efek glitch di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seret efek &lt;strong>VR Digital Glitch&lt;/strong> ke klip yang diinginkan.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di &lt;strong>effects control panel&lt;/strong>, kalian bisa mengatur jumlah distorsi atau kebisingan untuk efek glitch sesuai keinginan kalian.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adjust-the-amount-of-distortion-or-noise-for-your-glitch-effect.jpg" alt="Atur jumlah distorsi dan kebisingan pada efek glitch" title="Atur jumlah distorsi dan kebisingan pada efek glitch" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adjust-the-amount-of-distortion-or-noise-for-your-glitch-effect.jpg">Atur jumlah distorsi dan kebisingan pada efek glitch &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="5---efek-gledek-thunder">5 - Efek Gledek (Thunder)&lt;/h3>
+&lt;p>Nggak harus menggunakan aplikasi special effects seperti After Effect, sekarang kalian bisa menambahkan efek gledek ke video dengan Premiere Pro.&lt;/p>
+&lt;p>Caranya gampang banget:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Seret&lt;/strong> klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Effects &amp;gt; Generate &amp;gt; Lightning&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-add-lightning-effect-to-your-video.jpg" alt="Cara menambahkan efek glitch di Premiere Pro" title="Cara menambahkan efek guntur di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/how-to-add-lightning-effect-to-your-video.jpg">Cara menambahkan efek guntur di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seret &lt;strong>Lightning Effect&lt;/strong> ke klip kalian.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Di &lt;strong>effects control panel&lt;/strong>, kalian bisa menyesuaikan tampilan efek petir. Misalnya, mengubah posisi, sudut cabang, kecepatan, warna, dan banyak lagi!&lt;br>
+&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/adjust-the-look-of-your-lightning-effect.jpg" alt="Atur tampilan efek petir kalian di Premiere Pro" title="Atur tampilan efek petir kalian di Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/adjust-the-look-of-your-lightning-effect.jpg">Atur tampilan efek petir kalian di Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Selamat! Kalian baru saja mempelajari jenis-jenis efek video dan cara menambahkan 5 efek paling mudah di Adobe Premiere Pro!&lt;/p>
+&lt;p>Sambilan belajar mengedit video, yuk dibaca juga posting blog lain yang kami tulis tentang cara menggunakan Premiere Pro!&lt;/p>
+&lt;p>&lt;a href="https://videotranslator.ai/news/cara-mengganti-background-video/" title="Ganti background video">Cara Mengganti Background Video&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://videotranslator.ai/news/4-cara-mudah-mengubah-video-menjadi-mp3/" title="mp4 ke mp3">Cara Mudah Mengubah Video Menjadi MP3&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://videotranslator.ai/news/cara-menambahkan-watermark-ke-video-youtube/" title="watermark ke video">Cara Menambahkan Watermark Ke Video YouTube&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://videotranslator.ai/news/cara-menggabungkan-subtitle-film-secara-permanen-/" title="subtitel film permanen">Cara Menggabungkan Subtitel Film Secara Permanen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="">Menambahkan Teks Di Premiere Pro&lt;/a>&lt;/p>
+&lt;p>Kalau kalian suka dengan postingan kita, yuk dicoba juga aplikasi kami di VideoTranslator!&lt;/p>
+&lt;p>Di VideoTranslator, kami memiliki alat online untuk menyalin, menerjemahkan, dan menyulih video ke 65 bahasa berbeda!&lt;/p>
+&lt;p>Yuk coba secara GRATIS &lt;a href="videotranslator.ai/free-trial" title="free trial">di sini&lt;/a>!&lt;/p>
+&lt;p>Untuk informasi lebih lanjut tentang VideoTranslator, jangan ragu untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a> ✨&lt;/strong>&lt;/p></content:encoded></item><item><title>5 Easy Premiere Pro Effects For Beginners</title><link>https://videotranslator.ai/news/easy-premiere-pro-effects/</link><pubDate>September 6, 2021</pubDate><guid>https://videotranslator.ai/news/easy-premiere-pro-effects/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/5-easy-premiere-pro-effects-for-beginners.jpg"/><description>Are you an amateur video editor? Find out 5 easy premiere pro effects you can use to make you look like a PRO!</description><content:encoded>&lt;p>Adobe Premiere Pro is undoubtedly one of the most powerful video editing tools. Since it is powerful, it can be a little overwhelming for new users to use.&lt;/p>
 &lt;p>But, that&amp;rsquo;s alright! We got your back!&lt;/p>
 &lt;p>In this article, we are going to tell you 5 of the easiest effects you can add to your video!&lt;/p>
 &lt;h2 id="what-are-video-effects">What Are Video Effects?&lt;/h2>
