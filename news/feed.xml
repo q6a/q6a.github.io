@@ -1,4 +1,139 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>Alasan Kenapa Video Marketing Itu Penting</title><link>https://videotranslator.ai/news/alasan-menggunakan-video-marketing/</link><pubDate>October 12, 2021</pubDate><guid>https://videotranslator.ai/news/alasan-menggunakan-video-marketing/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/alasan-kenapa-video-marketing-itu-penting.jpg"/><description>Kurang yakin kalau video lebih efektif daripada teks? Mungkin kami bisa mengubah pikiran kalian! Cari tahu 5 alasannya di sini.</description><content:encoded>&lt;p>Kemajuan teknologi berperan besar dalam pergeseran metode pemasaran. Konsumer sekarang lebih memilih untuk menonton konten video dibandingkan dengan membaca tulisan di artikel atau blog.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>7 Ways To Remove Audio From Video</title><link>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</link><pubDate>October 18, 2021</pubDate><guid>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/7-ways-to-remove-audio-from-video.jpg"/><description>Find out 7 different ways to remove unwanted audio from video using free and paid tools on Mac, Windows, iPhone and Android</description><content:encoded>&lt;p>A video is always better with sound, but sometimes the video you want to share has unwanted background noises or music.&lt;/p>
+&lt;p>So, how can you remove the unwanted audio?&lt;/p>
+&lt;p>In this article, we will tell you 7 different ways to remove audio from your video!&lt;/p>
+&lt;h2 id="7-ways-to-remove-audio-from-video">7 Ways To Remove Audio From Video&lt;/h2>
+&lt;h3 id="1--remove-audio-from-video-using-adobe-premiere-pro">1- Remove Audio From Video Using Adobe Premiere Pro&lt;/h3>
+&lt;p>There are 2 ways to remove audio from your video in Adobe Premiere Pro.&lt;/p>
+&lt;p>The first method is used when you want to remove audio individually.&lt;/p>
+&lt;p>For example, you have 5 different clips and you only want to remove the audio of your first clip.&lt;/p>
+&lt;p>Here&amp;rsquo;s how to do it:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Create&lt;/strong> a project in Adobe Premiere Pro and load your clip/s to the timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Select&lt;/strong> your clip and right-click on it.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Click&lt;/strong> unlink. Your video and audio clip will be separated.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select your audio clip, press right-click, and select &lt;strong>clear&lt;/strong>. Alternatively, you can press &lt;strong>delete&lt;/strong> on your keyboard.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-individual-video-using-adobe-premiere-pro.jpg" alt="Remove Audio From Individual Video Using Adobe Premiere Pro" title="Remove Audio From Individual Video Using Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-individual-video-using-adobe-premiere-pro.jpg">Remove Audio From Individual Video Using Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The second method is used when you want to remove all of your video audio.&lt;/p>
+&lt;p>Here&amp;rsquo;s how to do it:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Create&lt;/strong> a project in Adobe Premiere Pro and load your clip/s to the timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>File &amp;gt; Export &amp;gt; Media&lt;/strong> or press &lt;strong>cmd + M&lt;/strong>. Under the output name, untick the &amp;lsquo;&lt;strong>Export Audio&lt;/strong>&amp;rsquo; box.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-all-video-using-adobe-premiere-pro.jpg" alt="Remove Audio From All Video Using Adobe Premiere Pro" title="Remove Audio From All Video Using Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-all-video-using-adobe-premiere-pro.jpg">Remove Audio From All Video Using Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>export&lt;/strong>. Your video will be exported without the audio.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="2---remove-audio-from-video-using-imovie">2 - Remove Audio From Video Using iMovie&lt;/h3>
+&lt;p>If you use Mac and do not have Adobe Premiere Pro, iMovie is a good alternative to edit your video.&lt;/p>
+&lt;p>Here&amp;rsquo;s how to remove audio from your video in iMovie:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Open&lt;/strong> iMovie and load your clip/s.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-imovie.jpg" alt="Remove Audio From Video Using iMovie" title="Remove Audio From Video Using iMovie" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-imovie.jpg">Remove Audio From Video Using iMovie &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Right-click on your selected video and press &lt;strong>detach audio&lt;/strong> or &lt;strong>option + cmd + B&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select your audio clip and press &lt;strong>delete&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="3---remove-audio-from-video-using-vlc">3 - Remove Audio From Video Using VLC&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Open&lt;/strong> your VLC media player.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to &lt;strong>File &amp;gt; Convert/Stream&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Load&lt;/strong> your selected clip.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-vlc.jpg" alt="Remove Audio From Video Using VLC" title="Remove Audio From Video Using VLC" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-vlc.jpg">Remove Audio From Video Using VLC &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>On the Choose &lt;strong>Profile Tab&lt;/strong>, click on &lt;strong>customise&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to &lt;strong>Audio Codec&lt;/strong>, &lt;strong>untick&lt;/strong> the audio box and press apply.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/untick-the-audio-box-in-vlc.jpg" alt="Untick The Audio Box In VLC" title="Untick The Audio Box In VLC" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/untick-the-audio-box-in-vlc.jpg">Untick The Audio Box In VLC &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>save as file&lt;/strong> and your video new video will not have audio in it.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="4---remove-audio-from-video-using-quicktime-player">4 - Remove Audio From Video Using QuickTime Player&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Open&lt;/strong> QuickTime Player and load your clip.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to &lt;strong>Edit &amp;gt; Remove Audio&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-quicktime-player.jpg" alt="Remove Audio From Video Using QuickTime Player" title="Remove Audio From Video Using QuickTime Player" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-quicktime-player.jpg">Remove Audio From Video Using QuickTime Player &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>To save the video, go to &lt;strong>File &amp;gt; Save&lt;/strong>, then choose the title and destination for your new video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/save-your-new-video-that-does-not-have-audio-in-quicktime-player.jpg" alt="Save Your New Video That Does Not Have Audio In QuickTime Player" title="Save Your New Video That Does Not Have Audio In QuickTime Player" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/save-your-new-video-that-does-not-have-audio-in-quicktime-player.jpg">Save Your New Video That Does Not Have Audio In QuickTime Player &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="5---remove-audio-from-video-using-iphone">5 - Remove Audio From Video Using iPhone&lt;/h3>
+&lt;p>Removing the audio from your video on iPhone is super easy!&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Go to your &lt;strong>Photos Gallery&lt;/strong> and select the video clip.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-iphone.jpg" alt="Remove Audio From Video Using iPhone" title="Remove Audio From Video Using iPhone" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-iphone.jpg">Remove Audio From Video Using iPhone &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>edit&lt;/strong> and tap the &lt;strong>yellow speaker icon&lt;/strong> in the upper-left corner of the screen.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="6---remove-audio-from-video-using-samsung">6 - Remove Audio From Video Using Samsung&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Open your &lt;strong>Gallery&lt;/strong> and select your video clip.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on the &lt;strong>pencil&lt;/strong> (edit) icon and select the &lt;strong>music&lt;/strong> (audio) icon.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-google-photos.jpg" alt="Remove Audio From Video Using Samsung" title="Remove Audio From Video Using Samsung" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-google-photos.jpg">Remove Audio From Video Using Samsung &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Slide the video &lt;strong>volume&lt;/strong> all the way to the left and click &lt;strong>save&lt;/strong>. You will now have a new video that does not have audio in it.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="7---remove-audio-from-video-using-google-photos">7 - Remove Audio From Video Using Google Photos&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Open &lt;strong>Google Photos&lt;/strong> and select your video clip.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on &lt;strong>edit&lt;/strong> and tap the &lt;strong>speaker icon&lt;/strong> to mute the audio.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-samsung.jpg" alt="Remove Audio From Video Using Google Photos" title="Remove Audio From Video Using Google Photos" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-samsung.jpg">Remove Audio From Video Using Google Photos &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>save copy&lt;/strong>. You will now have a new video that does not have audio in it.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>In this article, we have discussed 7 different ways to remove unwanted audio from video using free and paid tools on Mac, Windows, iPhone, and Android.&lt;/p>
+&lt;p>If you find them useful, why don&amp;rsquo;t you also give &lt;strong>VideoTranslator&lt;/strong> a try?&lt;/p>
+&lt;p>At VideoTranslator, we have an online tool to &lt;strong>transcribe, translate and dub&lt;/strong> videos into 65 different languages and 120+ different dialects!&lt;/p>
+&lt;p>Why don&amp;rsquo;t you try it out for &lt;strong>FREE&lt;/strong> &lt;a href="videotranslator.ai/free-trial" title="Free Trial">here&lt;/a>!&lt;/p>
+&lt;p>For more information about VideoTranslator, do not hesitate to reach out to us at &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong> ✨&lt;/p></content:encoded></item><item><title>Alasan Kenapa Video Marketing Itu Penting</title><link>https://videotranslator.ai/news/alasan-menggunakan-video-marketing/</link><pubDate>October 12, 2021</pubDate><guid>https://videotranslator.ai/news/alasan-menggunakan-video-marketing/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/alasan-kenapa-video-marketing-itu-penting.jpg"/><description>Kurang yakin kalau video lebih efektif daripada teks? Mungkin kami bisa mengubah pikiran kalian! Cari tahu 5 alasannya di sini.</description><content:encoded>&lt;p>Kemajuan teknologi berperan besar dalam pergeseran metode pemasaran. Konsumer sekarang lebih memilih untuk menonton konten video dibandingkan dengan membaca tulisan di artikel atau blog.&lt;/p>
 &lt;p>Kapan sih pergeseran dari teks ke video tersebut terjadi? Mengapa video lebih efektif daripada teks?&lt;/p>
 &lt;p>Yuk cari tahu di artikel ini!&lt;/p>
 &lt;h2 id="sejarah-singkat-dari-video-marketing">Sejarah Singkat Dari Video Marketing&lt;/h2>
