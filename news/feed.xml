@@ -1,4 +1,142 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>7 Ways To Remove Audio From Video</title><link>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</link><pubDate>October 18, 2021</pubDate><guid>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/7-ways-to-remove-audio-from-video.jpg"/><description>Find out 7 different ways to remove unwanted audio from video using free and paid tools on Mac, Windows, iPhone and Android</description><content:encoded>&lt;p>A video is always better with sound, but sometimes the video you want to share has unwanted background noises or music.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>7 Cara Menghilangkan Suara Video</title><link>https://videotranslator.ai/news/7-cara-menghilangkan-suara-video/</link><pubDate>October 19, 2021</pubDate><guid>https://videotranslator.ai/news/7-cara-menghilangkan-suara-video/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/7-cara-menghilangkan-suara-video.jpg"/><description>Cari tau 7 cara untuk menghapus audio video menggunakan alat gratis dan berbayar di Mac, Windows, iPhone, dan Android</description><content:encoded>&lt;p>Kata orang, sebuah gambar bernilai seribu kata. Berarti, sebuah video bernilai jutaan kata. Tapi&amp;hellip; pernah ngerasa nggak sih, video kalian yang udah mengandung jutaan kata itu terganggu gara-gara suara yang tidak diinginkan?&lt;/p>
+&lt;p>Videonya udah keren nih, tapi kok suara yang kedengeran malah suara tetangga yang lagi ngebor dinding 😅&lt;/p>
+&lt;p>Nyebelin banget, kan!&lt;/p>
+&lt;p>Nah, di artikel ini, kami akan membagikan 7 cara untuk menghilangkan suara di video!&lt;/p>
+&lt;p>Yuk, cari tau!&lt;/p>
+&lt;h2 id="7-cara-untuk-menghilangkan-suara-di-video">7 Cara Untuk Menghilangkan Suara di Video&lt;/h2>
+&lt;h3 id="1--menghilangkan-audio-di-video-menggunakan-adobe-premiere-pro">1- Menghilangkan Audio di Video Menggunakan Adobe Premiere Pro&lt;/h3>
+&lt;p>Ada 2 cara untuk menghapus audio dari video kalian di Adobe Premiere Pro.&lt;/p>
+&lt;p>Cara yang pertama digunakan ketika kalian mau menghapus audio dari vide satu per satu.&lt;/p>
+&lt;p>Misalnya, dari 5 klip yang berbeda, audio yang mau dihapus cuman dari audio klip pertama.&lt;/p>
+&lt;p>Berikut cara melakukannya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buat&lt;/strong> proyek di Adobe Premiere Pro dan muat klip kalian ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Pilih&lt;/strong> klip yang mau dihapus audionya dan klik kanan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-adobe-premiere-pro.jpg" alt="Menghilangkan Audio di Video Menggunakan Adobe Premiere Pro" title="Menghilangkan Audio di Video Menggunakan Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-adobe-premiere-pro.jpg">Menghilangkan Audio di Video Menggunakan Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Klik&lt;/strong> unlink. Video and audio kalian akan dipisah.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilih audio yang sudah dipisah, klik kanan dan tekan &lt;strong>clear&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-individual-video-using-adobe-premiere-pro.jpg" alt="Menghilangkan Audio Satu Per Satu di Video Menggunakan Adobe Premiere Pro" title="Menghilangkan Audio Satu Per Satu di Video Menggunakan Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-individual-video-using-adobe-premiere-pro.jpg">Menghilangkan Audio Satu Per Satu di Video Menggunakan Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Cara yang kedua digunakan ketika kalian mau menghapus semua audio video.&lt;/p>
+&lt;p>Berikut cara melakukannya:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buat&lt;/strong> proyek di Adobe Premiere Pro dan muat klip ke timeline.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>File &amp;gt; Export &amp;gt; Media&lt;/strong> atau tekan &lt;strong>cmd + M&lt;/strong>. Dibawah output name, hapus centang di kotak &amp;lsquo;&lt;strong>Export Audio&lt;/strong>&amp;rsquo;.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-all-video-using-adobe-premiere-pro.jpg" alt="Menghilangkan Semua Audio di Video Menggunakan Adobe Premiere Pro" title="Menghilangkan Semua Audio di Video Menggunakan Adobe Premiere Pro" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-all-video-using-adobe-premiere-pro.jpg">Menghilangkan Semua Audio di Video Menggunakan Adobe Premiere Pro &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>export&lt;/strong>. Video kalian akan diekspor tanpa audio.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="2---menghilangkan-audio-di-video-menggunakan-imovie">2 - Menghilangkan Audio di Video Menggunakan iMovie&lt;/h3>
+&lt;p>Kalau kalian pengguna Mac dan nggak punya Adobe Premiere Pro, iMovie adalah alternatif lain untuk mengedit video.&lt;/p>
+&lt;p>Berikut cara menghapus audio dari video di iMovie:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buka&lt;/strong> iMovie and muat klip.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-imovie.jpg" alt="Menghilangkan Audio di Video Menggunakan iMovie" title="Menghilangkan Audio di Video Menggunakan iMovie" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-imovie.jpg">Menghilangkan Audio di Video Menggunakan iMovie &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik kanan pada video yang kalian pilih dan tekan &lt;strong>detach audio&lt;/strong> atau tekan &lt;strong>option + cmd + B&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik audio klip yang sudah dipisah dan tekan &lt;strong>delete&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="3---menghilangkan-audio-di-video-menggunakan-vlc">3 - Menghilangkan Audio di Video Menggunakan VLC&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buka&lt;/strong> VLC media player.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>File &amp;gt; Convert/Stream&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Muatkan&lt;/strong> klip yang kalian inginkan.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-vlc.jpg" alt="Menghilangkan Audio di Video Menggunakan VLC" title="Menghilangkan Audio di Video Menggunakan VLC" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-vlc.jpg">Menghilangkan Audio di Video Menggunakan VLC &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pada kotak &lt;strong>Choose Profile&lt;/strong>, klik &lt;strong>customise&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Audio Codec&lt;/strong> kemudian &lt;strong>hapus centang&lt;/strong> pada kotak audio dan tekan &lt;strong>apply&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/untick-the-audio-box-in-vlc.jpg" alt="Hapus Centang Kotak Audio Pada VLC" title="Hapus Centang Kotak Audio Pada VLC" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/untick-the-audio-box-in-vlc.jpg">Hapus Centang Kotak Audio Pada VLC &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>save as file&lt;/strong> dan video kalian sekarang tidak akan memiliki audio.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="4---menghilangkan-audio-di-video-menggunakan-quicktime-player">4 - Menghilangkan Audio di Video Menggunakan QuickTime Player&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Buka&lt;/strong> QuickTime Player dan muatkan klip.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Edit &amp;gt; Remove Audio&lt;/strong>.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-quicktime-player.jpg" alt="Menghilangkan Audio di Video Menggunakan QuickTime Player" title="Menghilangkan Audio di Video Menggunakan QuickTime Player" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-quicktime-player.jpg">Menghilangkan Audio di Video Menggunakan QuickTime Player &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Untuk menyimpan video, pergi ke &lt;strong>File &amp;gt; Save&lt;/strong>, kemudian ketik judul dan destinasi video.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/save-your-new-video-that-does-not-have-audio-in-quicktime-player.jpg" alt="Simpan Video Baru Yang Tidak Memiliki Audio di QuickTime Player" title="Simpan Video Baru Yang Tidak Memiliki Audio di QuickTime Player" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/save-your-new-video-that-does-not-have-audio-in-quicktime-player.jpg">Simpan Video Baru Yang Tidak Memiliki Audio di QuickTime Player &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="5---menghilangkan-audio-di-video-menggunakan-iphone">5 - Menghilangkan Audio di Video Menggunakan iPhone&lt;/h3>
+&lt;p>Menghilangkan audio di iPhone itu gampang banget!&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Pergi ke &lt;strong>Galeri Foto&lt;/strong> dan pilih video yang mau kalian edit.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-iphone.jpg" alt="Menghilangkan Audio di Video Menggunakan iPhone" title="Menghilangkan Audio di Video Menggunakan iPhone" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-iphone.jpg">Menghilangkan Audio di Video Menggunakan iPhone &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>edit&lt;/strong> dan pencet ikon &lt;strong>speaker warna kuning&lt;/strong> di sudut kiri layar.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>save&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="6---menghilangkan-audio-di-video-menggunakan-samsung">6 - Menghilangkan Audio di Video Menggunakan Samsung&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Buka &lt;strong>Galeri&lt;/strong> kalian dan pilih video yang mau di edit. n&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik pada ikon &lt;strong>pensil&lt;/strong> (edit) dan tekan ikon &lt;strong>music&lt;/strong> (audio).&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-google-photos.jpg" alt="Menghilangkan Audio di Video Menggunakan Samsung" title="Menghilangkan Audio di Video Menggunakan Samsung" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-google-photos.jpg">Menghilangkan Audio di Video Menggunakan Samsung &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seret &lt;strong>volume&lt;/strong> ke arah paling kiri dan tekan &lt;strong>save&lt;/strong>. Audio akan dihilangkan dari video.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="7---menghilangkan-audio-di-video-menggunakan-google-photos">7 - Menghilangkan Audio di Video Menggunakan Google Photos&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Buka &lt;strong>Google Photos&lt;/strong> dan pilih video yang ingin diedit..&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>edit&lt;/strong> dan pencet ikom &lt;strong>speaker&lt;/strong> untuk mematikan audio.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/remove-audio-from-video-using-samsung.jpg" alt="Menghilangkan Audio di Video Menggunakan Google Photos" title="Menghilangkan Audio di Video Menggunakan Google Photos" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/remove-audio-from-video-using-samsung.jpg">Menghilangkan Audio di Video Menggunakan Google Photos &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Klik &lt;strong>save copy&lt;/strong>. Video kalian sekarang tidak akan memiliki audio.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="kesimpulan">Kesimpulan&lt;/h2>
+&lt;p>Di artikel ini, kami sudah membahas 7 cara berbeda untuk menghapus audio yang tidak diinginkan dari video menggunakan alat gratis dan berbayar di Mac, Windows, iPhone, dan Android.&lt;/p>
+&lt;p>Kalau menurut kalian artikel ini bermanfaat, yuk coba VideoTranslator juga!&lt;/p>
+&lt;p>Di VideoTranslator, kami memiliki alat online untuk menyalin, menerjemahkan, dan menyulih video ke dalam 65 bahasa dan 120+ dialek yang berbeda!&lt;/p>
+&lt;p>Coba secara &lt;strong>GRATIS&lt;/strong> &lt;a href="videotranslator.ai/free-trial" title="Free Trial">disini&lt;/a> !&lt;/p>
+&lt;p>Untuk informasi lebih lanjut tentang VideoTranslator, jangan segan untuk menghubungi kami di &lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong> ✨&lt;/p></content:encoded></item><item><title>7 Ways To Remove Audio From Video</title><link>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</link><pubDate>October 18, 2021</pubDate><guid>https://videotranslator.ai/news/7-ways-to-remove-audio-from-video/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/7-ways-to-remove-audio-from-video.jpg"/><description>Find out 7 different ways to remove unwanted audio from video using free and paid tools on Mac, Windows, iPhone and Android</description><content:encoded>&lt;p>A video is always better with sound, but sometimes the video you want to share has unwanted background noises or music.&lt;/p>
 &lt;p>So, how can you remove the unwanted audio?&lt;/p>
 &lt;p>In this article, we will tell you 7 different ways to remove audio from your video!&lt;/p>
 &lt;h2 id="7-ways-to-remove-audio-from-video">7 Ways To Remove Audio From Video&lt;/h2>
