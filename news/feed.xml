@@ -1,4 +1,58 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>What Team VideoTranslator Did In 2021</title><link>https://videotranslator.ai/news/what-team-videotranslator-did-in-2021/</link><pubDate>January 9, 2022</pubDate><guid>https://videotranslator.ai/news/what-team-videotranslator-did-in-2021/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/what-team-videotranslator-made-happen-in-2021.jpg"/><description>2021 was a bit of a complex year. As I'm sure it was for many of you. Read more to learn about how Team VideoTranslator navigated 2021.</description><content:encoded>&lt;p>The plan was to get this news item out prior to the end of the 2021. Unfortunately that did not work out.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>What Team VT Is Planning In 2022!</title><link>https://videotranslator.ai/news/what-team-vt-is-planning-in-2022/</link><pubDate>January 16, 2022</pubDate><guid>https://videotranslator.ai/news/what-team-vt-is-planning-in-2022/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/what-team-vt-is-planning-for-2022.jpg"/><description>Happy New Year 2022, the feeling around the office is that a pretty messy 2021 is done, and we are looking forward optimistically to 2022. Today we are going to talk about our plans for 2022!</description><content:encoded>&lt;p>Hello and before anything else, Happy New Year 2022. The feeling around the office is that a pretty messy 2021 is done, and we are looking forward optimistically to 2022. Today we are going to talk about our plans for 2022!&lt;/p>
+&lt;p>So what is on the menu for 2022? Hopefully quite a few things.&lt;/p>
+&lt;h2 id="a-quick-refresh">A Quick Refresh&lt;/h2>
+&lt;p>VideoTranslator is, as the name suggests, a video translator which uses AI to translate video content. Currently, the VT app can:&lt;/p>
+&lt;ul>
+&lt;li>Allows the user to &lt;strong>transcribe video content&lt;/strong> and produce captions.&lt;/li>
+&lt;li>With video content and a captions file, the app allows the user to &lt;strong>translate captions&lt;/strong> into a different language.&lt;/li>
+&lt;li>With video content and a captions file, the app allows the user to &lt;strong>create a synthetic dubbing with an AI voice&lt;/strong> - which can then be pasted over the original video to create a &amp;lsquo;translated video&amp;rsquo;.&lt;/li>
+&lt;/ul>
+&lt;p>Clearly, we think this is really cool and we are very proud of our work. But&amp;hellip;&lt;/p>
+&lt;h2 id="how-to-build-an-app-for-scale">How To Build An App For Scale&lt;/h2>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/why-a-new-videotranslator-app.jpg" alt="Why A New VideoTranslator App" title="Why A New VideoTranslator App" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/why-a-new-videotranslator-app.jpg">Why A New VideoTranslator App &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;p>We have had a really good run with our current application. Over 8000 people have tried it, and we are proud to say that some of them even pay us on the regular as subscribers!&lt;/p>
+&lt;p>Ok - so why a new app? Well, let&amp;rsquo;s just say very very few people of the ~8k actually converted into paying customers. So the core problem is a massive churn rate.&lt;/p>
+&lt;p>In addition, the following were major issues we saw happening:&lt;/p>
+&lt;ol>
+&lt;li>The core problem of very large churn percentages. The upload/download is also hard to handle (at scale) and there are escalating issues with the async nature of larger files. That is, video files 1GB + can be exciting, which is more and more of them due to 4K and expected future increases in video quality.&lt;/li>
+&lt;li>The original vision for the product was to be a multilingual website creator. Hence the current app has a large number of functions no one has ever used.&lt;/li>
+&lt;li>Old code base, which is dodgy. As this product was originally meant for enterprise clients, the switch in focus to a more retail client base has meant the technology stack chosen is no longer a good fit for the use case.&lt;/li>
+&lt;/ol>
+&lt;h2 id="why-build-a-multi-lingual-website">Why Build A Multi-Lingual Website&lt;/h2>
+&lt;p>Another major issue we are having is the diversity of the client base. A large number of our clients are looking at going from &amp;lsquo;&lt;em>their&lt;/em>&amp;rsquo; language to English. Why?&lt;/p>
+&lt;p>One of the core assumptions of the VideoTranslator was that the primary audience would be folks who were looking to take their content from English to a secondary language.&lt;/p>
+&lt;p>So this is important, but oddly enough, not &lt;em>that&lt;/em> important. What do we mean?&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/why-you-need-to-translate-your-marketing-collateral.jpg" alt="Why You Should Translate Your Marketing Collateral" title="Why You Should Translate" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/why-you-need-to-translate-your-marketing-collateral.jpg">Why You Should Translate &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h3 id="you-are-looking-to-sell-to-a-non-english-audience">You Are Looking To Sell To A Non-English Audience&lt;/h3>
+&lt;p>A large number of our prospects and clients are keen on using our product to sell to an English audience.&lt;/p>
+&lt;p>When we say sell we mean actual sales/exports and also stakeholder engagement. So let&amp;rsquo;s talk about who you might be:&lt;/p>
+&lt;ol>
+&lt;li>Content Creator with a social presence and you are either already using or looking at going big on video.&lt;/li>
+&lt;li>Marketers looking to increase sales in different geography using video because it scales easily, as a commercial priority.&lt;/li>
+&lt;li>Government, University or Non-Profit looking to reach stakeholders in different languages - think Healthcare, Education etc, which is many of our current clients.&lt;/li>
+&lt;/ol>
+&lt;h3 id="you-are-looking-to-sell-to-english-speakers">You Are Looking To Sell To English Speakers&lt;/h3>
+&lt;p>Given the size of the English-speaking market, this is a really good strategy. What do we mean by the English speaking market?&lt;/p>
+&lt;p>This is essentially the largest &amp;lsquo;cultural&amp;rsquo; market in the world but there are major parts. There is the US, UK, Canada, Australia and New Zealand.&lt;/p>
+&lt;p>But there are also all the people who speak English, VideoTranslator has 13 different dialects, including Indian English, Singaporean English, and the more international &lt;em>posh&lt;/em> type English spoken in major European cities with an international profile.&lt;/p>
+&lt;p>So, if you are an exporter, this is something you really really care about, including exporters in Japan, Korea, Germany, and various APAC manufacturing hubs.&lt;/p>
+&lt;h2 id="how-the-changing-nature-of-the-client-base-is-informing-our-plans">How The Changing Nature Of the Client Base Is Informing Our Plans&lt;/h2>
+&lt;p>Ok - so the above is the different kinds of clients who use VideoTranslator. Practically, we also have many of the problems which our clients are trying to address.&lt;/p>
+&lt;p>What does this mean? Essentially -&lt;/p>
+&lt;ol>
+&lt;li>How do you create content on an ongoing basis consistently? For VideoTranslator, this is about making our website multilingual, and then driving traffic using intelligent SEO. Normally, this is not hard for one or two languages, and several CMS&amp;rsquo;s exist to make this happen. However, how do you do dozens of languages from an operational point of view?&lt;/li>
+&lt;li>How do you provide support documentation in dozens of languages? Especially for our core product, how do you offer intelligent, up to date, documentation in both text and video format. Given our internationalization efforts, this could be in up to 20 languages.&lt;/li>
+&lt;/ol>
+&lt;p>The challenge - translate consistently in not one/two languages, but into 10/20/25 languages. The scale is what makes this hard.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/how-to-build-a-multi-lingual-website.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
+&lt;p>The above is the model we are going with, and &lt;em>&amp;lsquo;Other&amp;rsquo;&lt;/em> represents &lt;em>n&lt;/em> languages above.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>We have big plans for 2022, including a rebuild of the core platform, a refresh of the website, and probably better messaging and help center. We are also looking at a forum pretty soon.&lt;/p>
+&lt;p>We are really excited about this year, and we think the client base will be really happy with a lot of the work we are doing to get you a better product.&lt;/p>
+&lt;p>Thank you so much for your support over the last two years or so, as we polished up the current VideoTranslator.AI app.&lt;/p>
+&lt;p>When the new app is released, all clients will be able to switch over at no extra cost, and we will work with our clients to move their content over. Please keep an eye out for communications.&lt;/p>
+&lt;p>Thank you so much for all your support, patience, feedback and patronage of our product. Thank you so much.&lt;/p>
+&lt;p>Team VideoTranslator.&lt;/p></content:encoded></item><item><title>What Team VideoTranslator Did In 2021</title><link>https://videotranslator.ai/news/what-team-videotranslator-did-in-2021/</link><pubDate>January 9, 2022</pubDate><guid>https://videotranslator.ai/news/what-team-videotranslator-did-in-2021/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/what-team-videotranslator-made-happen-in-2021.jpg"/><description>2021 was a bit of a complex year. As I'm sure it was for many of you. Read more to learn about how Team VideoTranslator navigated 2021.</description><content:encoded>&lt;p>The plan was to get this news item out prior to the end of the 2021. Unfortunately that did not work out.&lt;/p>
 &lt;p>So&amp;hellip; Happy New Year. Ok - we will do another post saying Happy New Year and listing out what we are looking forward to in 2022. But for the moment, we want to talk about 2021.&lt;/p>
 &lt;h2 id="thankfully-thats-a-wrap-on-2021">Thankfully, that&amp;rsquo;s a wrap on 2021!&lt;/h2>
 &lt;p>2021 was a bit of a hard year for Team VideoTranslator. We still made a lot of progress, and there is a lot of gratitude on this side for all the kind people who helped us out.&lt;/p>
