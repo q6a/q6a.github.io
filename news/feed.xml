@@ -1,4 +1,60 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>VideoTranslator Is Retiring Our Existing App</title><link>https://videotranslator.ai/news/videotranslator-is-retiring-our-existing-app/</link><pubDate>March 17, 2022</pubDate><guid>https://videotranslator.ai/news/videotranslator-is-retiring-our-existing-app/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/videotranslator-is-retiring-our-existing-app-banner.jpg"/><description>We are in the process of reaching out to all our subscribers to tell them about our current platform being retired</description><content:encoded>&lt;p>We have big news! We are retiring our existing VideoTranslator SaaS (Software as a Service) application. In this blog post we talk about why the app is being retired, ongoing support provision during/after retirement and what will replace the current value proposition.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How To Use An AI Assurance Framework</title><link>https://videotranslator.ai/news/how-to-use-an-ai-assurance-framework/</link><pubDate>May 16, 2022</pubDate><guid>https://videotranslator.ai/news/how-to-use-an-ai-assurance-framework/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-to-use-an-ai-assurance-framework_banner.jpg"/><description>What is an AI assurance framework and how to apply it to your projects.</description><content:encoded>&lt;p>Today we are going to be looking at AI Assurance Frameworks! Clearly, this is a fantastic topic that we are all super interested in :)&lt;/p>
+&lt;p>Ok - it&amp;rsquo;s not exactly riveting stuff, but it is important stuff!&lt;/p>
+&lt;h3 id="what-is-an-ai-assurance-framework">What Is An AI Assurance Framework?&lt;/h3>
+&lt;p>The good folks over at the &lt;a href="https://www.nsw.gov.au/customer-service" title="Department of Customer Service">Department Of Customer Service&lt;/a> have done really good work on this front. From their documentation:&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;The AI Assurance Framework will help you design, build and use AI technology appropriately. The framework contains questions that you will need to answer at every stage of your project and while you are operating an AI system. If you cannot answer the questions, the framework will let you know how to get help.&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>What is happening here is pretty clear when you have a look at the context. Like many governments worldwide, the people running the NSW (New South Wales) Government understand AI can be a very useful tool.&lt;/p>
+&lt;p>But how to deploy AI solutions at scale for enterprise use cases? That is where their AI Assurance Framework comes into place.&lt;/p>
+&lt;h3 id="who-should-use-an-ai-assurance-framework">Who Should Use An AI Assurance Framework?&lt;/h3>
+&lt;p>AI Assurance Frameworks are generally tailored to a specific audience. In government technology circles, this means:&lt;/p>
+&lt;ul>
+&lt;li>project teams who are using AI systems in their solutions&lt;/li>
+&lt;li>operational teams who are managing AI systems&lt;/li>
+&lt;li>senior officers who are accountable for the design and use of AI systems&lt;/li>
+&lt;li>internal assessors conducting agency self-assessments and the AI review body&lt;/li>
+&lt;/ul>
+&lt;p>An AI Assurance Framework is NOT required if,&lt;/p>
+&lt;ul>
+&lt;li>you are using an AI system that is a widely available commercial application, and&lt;/li>
+&lt;li>you are not customizing this AI system in any way or using it in a way other than as intended.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/who-should-use-an-ai-assurance-framework.jpg" alt="Who Should Use An AI Assurance Framework" title="Who Should Use An AI Assurance Framework" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/who-should-use-an-ai-assurance-framework.jpg">Who Should Use An AI Assurance Framework &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h3 id="what-resources-might-you-need-in-addition-to-the-ai-assurance-framework">What Resources Might You Need In Addition To The AI Assurance Framework?&lt;/h3>
+&lt;p>Generally, you should have access to a number of resources that can be used in addition to the AI Assurance Framework.&lt;/p>
+&lt;p>These include:&lt;/p>
+&lt;ul>
+&lt;li>AI Ethics Policy Framework&lt;/li>
+&lt;li>AI Strategy Document&lt;/li>
+&lt;/ul>
+&lt;p>Typically, an AI Strategy Document should be in place which provides guidance around what the organisation/enterprise is looking to get out of AI. This is the starting point.&lt;/p>
+&lt;p>Next, once you have an idea about an AI project you are looking to pursue, that is when the AI Assurance Framework comes into play.&lt;/p>
+&lt;p>Finally, once you have a product/service that is being worked on, you need to think about whether the product or service addresses any AI Ethics issues that might have come up in the process.&lt;/p>
+&lt;p>Note, in the below image, AI Ethics is the last stop. This does not mean you don&amp;rsquo;t consider AI Ethics ramifications until the end of the project!&lt;/p>
+&lt;p>What it means is that you incorporate looking at AI Ethics all the way, and then use the last step to make sure the product is appropriate prior to large scale production usage.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/ai-strategy-assurance-and-ethics.jpg" alt="AI Strategy, Assurance and Ethics" title="AI Strategy, Assurance and Ethics" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/ai-strategy-assurance-and-ethics.jpg">AI Strategy, Assurance and Ethics &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h3 id="operational-vs-non-operational-ai">Operational vs. Non-Operational AI?&lt;/h3>
+&lt;h4 id="operational-ai">Operational AI&lt;/h4>
+&lt;p>Operational AI systems are those that have a real-world effect. The purpose is to generate an action, either prompting a human to act, or the system acting by itself.&lt;/p>
+&lt;p>Operational AI systems often work in real-time (or near real-time) using a live environment for their source data.&lt;/p>
+&lt;p>Not all operational AI systems are high risk. An example of lower-risk operational AI is the digital information boards that show the time of arrival of the next bus.&lt;/p>
+&lt;p>Operational AI that uses real-time data to recommend or make a decision that adversely impacts a human will likely be considered High or Very high risk.&lt;/p>
+&lt;p>The question for operational AI is, whether &lt;em>AI should deliver the best outcome for the citizen, and key insights into decision-making,&lt;/em> essentially the question is around &lt;strong>community benefit&lt;/strong>.&lt;/p>
+&lt;h4 id="non-operational-ai">Non-operational AI&lt;/h4>
+&lt;p>Non-operational AI systems do not use a live environment for their source data. Most frequently, they produce analysis and insight from historical data.&lt;/p>
+&lt;p>Non-operational AI typically represents a lower level of risk. However, the risk level needs to be carefully and consciously determined, especially where there is a possibility that AI insights and outputs may be used to influence important future policy positions.&lt;/p>
+&lt;p>For non-operational AI, &lt;em>will the use of AI include safeguards to manage data bias or data quality risks, and follow best practices&lt;/em>, with the critical question being around &lt;strong>fairness.&lt;/strong>&lt;/p>
+&lt;h3 id="ai-risk-factors---a-spectrum-of-risks">AI Risk Factors - A Spectrum Of Risks!&lt;/h3>
+&lt;p>In summary, AI Assurance Frameworks is a really important milestone in delivering on a complex AI project.&lt;/p>
+&lt;p>You need, (a) AI Strategy Guide, (b) AI Assurance Framework, and (c) AI Ethics Guide, and across these three it should be possible for you to be aware of, measure, and react to challenges in your enterprise AI project.&lt;/p>
+&lt;p>Once you have these, consider your risks across the AI spectrum. This means,&lt;/p>
+&lt;ul>
+&lt;li>Non-Operational AI&amp;rsquo;s generally have a lower risk profile.&lt;/li>
+&lt;li>If it is a non-operational AI, is it fair?&lt;/li>
+&lt;li>Operational AI&amp;rsquo;s generally have a higher risk profile.&lt;/li>
+&lt;li>If it is an operational AI, does it have a community benefit?&lt;/li>
+&lt;/ul>
+&lt;p>Have a think around many of these issues! With future blog posts, we are looking at expanding on these topics.&lt;/p>
+&lt;p>Let us know if you would like to hear something specific, contact us [hello@videotranslator.ai](mailto: &lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a> &amp;ldquo;&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&amp;rdquo;) and we will do our best to help you!&lt;/p></content:encoded></item><item><title>VideoTranslator Is Retiring Our Existing App</title><link>https://videotranslator.ai/news/videotranslator-is-retiring-our-existing-app/</link><pubDate>March 17, 2022</pubDate><guid>https://videotranslator.ai/news/videotranslator-is-retiring-our-existing-app/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/videotranslator-is-retiring-our-existing-app-banner.jpg"/><description>We are in the process of reaching out to all our subscribers to tell them about our current platform being retired</description><content:encoded>&lt;p>We have big news! We are retiring our existing VideoTranslator SaaS (Software as a Service) application. In this blog post we talk about why the app is being retired, ongoing support provision during/after retirement and what will replace the current value proposition.&lt;/p>
 &lt;h2 id="are-we-done">Are We Done?&lt;/h2>
 &lt;p>Absolutely not. Our VideoTranslator app lived a good life, but this post is about celebrating our efforts, what we learned, and where we are going.&lt;/p>
 &lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/lifecycle-videotranslator-v1-1.jpg" alt="" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;/div>&lt;/p>
