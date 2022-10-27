@@ -1,4 +1,66 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>We Are Participating in NSW Small Business Month 2022</title><link>https://videotranslator.ai/news/participating-in-nsw-small-business-month/</link><pubDate>October 20, 2022</pubDate><guid>https://videotranslator.ai/news/participating-in-nsw-small-business-month/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/nsw-small-business-month-for-facebook1.jpg"/><description>NSW Small Business Month is running this November and VideoTranslatorAi is part of it!</description><content:encoded>&lt;p>NSW Small Business Month is running this November and VideoTranslatorAi is a collaboration partner!&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>News on Video Translator</title><link>https://videotranslator.ai/news/</link><description>Video Translator News</description><language>en</language><atom:link href="https://videotranslator.ai/news/feed.xml" rel="self" type="application/rss+xml"/><item><title>How VideoTranslatorAI Helps Multicultural Communities In Emergencies</title><link>https://videotranslator.ai/news/videotranslatorai-helps-multicultural-communities-in-emergencies/</link><pubDate>October 26, 2022</pubDate><guid>https://videotranslator.ai/news/videotranslatorai-helps-multicultural-communities-in-emergencies/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/how-videotranslatorai.jpg"/><description>VideoTranslatorAI helps multicultural communities by translating audio, video, and text emergency broadcasts into 20+ languages.</description><content:encoded>&lt;h3 id="background">Background&lt;/h3>
+&lt;p>During an emergency, multicultural families in Australia can be badly affected.&lt;/p>
+&lt;p>For example, during the recent flooding, a Syrian family in Victoria felt like they were forgotten.&lt;/p>
+&lt;p>&amp;ldquo;&lt;a href="https://www.abc.net.au/news/2022-10-22/multicultural-community-victorian-flood-crisis/101550828">Mohammad Tajer, the father, decided to call triple 0 and state emergency services to request an evacuation, but could not understand the person on the other end of the line because he does not speak English fluently.&lt;/a>&amp;rdquo;&lt;/p>
+&lt;p>In fact, it wasn&amp;rsquo;t the first time that the issue arose. After the 2019-20 bushfires occurred, there is a &lt;a href="https://www.abc.net.au/news/2020-10-01/vic-emergency-app-only-in-english-investment-in-translation/12710414">call for the Victorian Government to make bushfire information more accessible to non-English speakers in time for the summer fire season&lt;/a>.&lt;/p>
+&lt;p>&amp;ldquo;Recorded video and audio translations of emergency information by a community leader or interpreter worked best for my community because ours was primarily a spoken language,&amp;rdquo; said Amina Khatun.&lt;/p>
+&lt;p>Aside from emergency broadcasts, volunteers also find difficulties in understanding what people at the flood relief center need.&lt;/p>
+&lt;p>These are just &lt;em>some&lt;/em> examples of communication issues during an emergency.&lt;/p>
+&lt;h3 id="the-challenge">The Challenge&lt;/h3>
+&lt;p>Australia has 7 million people who self-identified as speaking a language other than English at home&lt;a href="#_ftn1">[1]&lt;/a>. Of these, about 750,000 speak no or little English, and as many as about 2 million have average language skills&lt;a href="#_ftn2">[2]&lt;/a>.&lt;/p>
+&lt;p>But does this mean that they cannot understand simple instructions? We all know immigrants who speak good English, is this a real problem?&lt;/p>
+&lt;p>The final report from the 2020 Royal Commission into National Natural Disaster Arrangements said, ‘All governments need to continue working together to ensure that the system … uses the best available technology to improve the communication of warnings across Australia, including to … people from culturally and linguistically diverse communities.&lt;a href="#_ftn3">[3]&lt;/a>’&lt;/p>
+&lt;p>Additional research from the Bushfire and Natural Hazards Cooperative Research Centre&lt;a href="#_ftn4">[4]&lt;/a> on building inclusive partnerships with CALD communities also called attention to, (a) concepts that might not be understood, such as ‘bushfire survival plan’, (b) framing issues and solutions in a culturally appropriate way, and (c) differences between spoken and written languages.&lt;/p>
+&lt;p>In effect, we think somewhere between 5%-15% of the population may find themselves in a sticky situation during a natural hazard because they could not understand instructions under duress during a natural hazard scenario – &lt;strong>this is a big problem.&lt;/strong>&lt;/p>
+&lt;p>So, how can we quickly translate emergency broadcasts for multicultural communities so they can access the appropriate information?&lt;/p>
+&lt;h3 id="our-solution">Our Solution&lt;/h3>
+&lt;p>The solution is a custom Artificial Intelligence solution, which will in real-time translate audio, video, and text emergency broadcasts into 20+ languages.&lt;/p>
+&lt;p>&lt;div class="render-img-div">&lt;img loading="lazy" src="https://videotranslator.ai/uploads/ai-bushfires-and-natural-hazards-project-videotraslatorai.jpg" alt="AI Helping In Emergency Broadcasts" title="AI Helping In Emergency Broadcasts" layout="responsive" class="img-responsive lazyload" loading="lazy" />&lt;div class="render-img-txt">&lt;a href="https://videotranslator.ai/uploads/ai-bushfires-and-natural-hazards-project-videotraslatorai.jpg">AI Helping In Emergency Broadcasts &lt;/a> &lt;/div>&lt;/div>&lt;/p>
+&lt;h3 id="how-real-time-video-translation-works">How Real-Time Video Translation Works&lt;/h3>
+&lt;p>First, you will have to create the original audio, video or text emergency broadcast. In this case, it&amp;rsquo;s in English.&lt;/p>
+&lt;p>Let&amp;rsquo;s take a look at the example below. This video is originally made in English.&lt;/p>
+&lt;div class="video-div">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/w1vx2P96MQw?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Scandinavian Flags By Flag Monkey&lt;/p>
+&lt;/figcaption>
+&lt;/div>
+&lt;/div>
+&lt;p>Next, the media will be translated into the target languages. Yes, including the audio!&lt;/p>
+&lt;p>The video sample you watched earlier is translated into Swedish!&lt;/p>
+&lt;div class="video-div">
+&lt;div class="embed video-player">
+&lt;iframe
+class="youtube-player"
+type="text/html"
+width="100%"
+height="100%"
+src="https://www.youtube.com/embed/1FvK1LzLp74?start=&amp;end=" allowfullscreen frameborder="0">
+&lt;/iframe>
+&lt;figcaption>
+&lt;p>Scandinavian Flags by Flag Monkey (Swedish)&lt;/p>
+&lt;/figcaption>
+&lt;/div>
+&lt;/div>
+&lt;p>And that&amp;rsquo;s it! Now it can be shared with various communities.&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>The purpose is to ensure that these multicultural communities have access to the same information as English-speaking communities.&lt;/p>
+&lt;p>Have a question or need a custom AI task?&lt;/p>
+&lt;p>Reach out at &lt;strong>&lt;a href="mailto:enterprise@videotranslator.ai">enterprise@videotranslator.ai&lt;/a>&lt;/strong> or just drop a query at&lt;br>
+&lt;strong>&lt;a href="mailto:hello@videotranslator.ai">hello@videotranslator.ai&lt;/a>&lt;/strong> and our team will come back to you!&lt;/p>
+&lt;hr>
+&lt;h3 id="references">References&lt;/h3>
+&lt;p>&lt;a href="#_ftnref1">[1]&lt;/a> ABS Census of Population and Housing, Cultural diversity data summary, 2021 – Table 5&lt;/p>
+&lt;p>&lt;a href="#_ftnref2">[2]&lt;/a> ABS Census of Population and Housing, Cultural diversity data summary, 2021 – Table 6&lt;/p>
+&lt;p>&lt;a href="#_ftnref3">[3]&lt;/a> Royal Commission Report - &lt;a href="https://naturaldisaster.royalcommission.gov.au/publications/royal-commission-national-natural-disaster-arrangements-report">The Royal Commission into National Natural Disaster Arrangements Report | Royal Commission into National Natural Disaster Arrangements&lt;/a>&lt;/p>
+&lt;p>&lt;a href="#_ftnref4">[4]&lt;/a> Bushfire &amp;amp; Natural Hazards CRC, 2021 - &lt;a href="https://www.bnhcrc.com.au/sites/default/files/managed/downloads/building_inclusive_partnerships_with_cald_communities_2021_0.pdf">building_inclusive_partnerships_with_cald_communities_2021_0.pdf (bnhcrc.com.au)&lt;/a>, Page 10&lt;/p></content:encoded></item><item><title>We Are Participating in NSW Small Business Month 2022</title><link>https://videotranslator.ai/news/participating-in-nsw-small-business-month/</link><pubDate>October 20, 2022</pubDate><guid>https://videotranslator.ai/news/participating-in-nsw-small-business-month/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/nsw-small-business-month-for-facebook1.jpg"/><description>NSW Small Business Month is running this November and VideoTranslatorAi is part of it!</description><content:encoded>&lt;p>NSW Small Business Month is running this November and VideoTranslatorAi is a collaboration partner!&lt;/p>
 &lt;p>Join us and thousands of small businesses participating in the sixth NSW Small Business Month. There are hundreds of activities to choose from for small businesses in New South Wales. Learn about building your supply chain, leading your team, leveraging collaboration opportunities, diving into the latest social media trend for your small business, and many more!&lt;/p>
 &lt;p>Events are available online and face-to-face across New South Wales. It’s easy and free to take part in. Check out &lt;a href="https://www.smallbusinessmonth.nsw.gov.au/" title="NSW Small Business Month">www.smallbusinessmonth.nsw.gov.au&lt;/a> to find the event for you!&lt;/p>
 &lt;p>Let’s Connect for Success this #NSWSmallBizMonth.&lt;/p></content:encoded></item><item><title>We Are Now A Microsoft Partner!</title><link>https://videotranslator.ai/news/we-are-now-a-microsoft-partner/</link><pubDate>October 13, 2022</pubDate><guid>https://videotranslator.ai/news/we-are-now-a-microsoft-partner/</guid><dc:creator>VideoTranslator Support</dc:creator><media:content type="image/jpeg" medium="image" width="300" height="200" url="/uploads/we-are-now-a-microsoft-partner.jpg"/><description>VideoTranslator is now a Microsoft partner under the Microsoft Cloud Partner Program!</description><content:encoded>&lt;p>VideoTranslator is now a Microsoft partner under the Microsoft Cloud Partner Program!&lt;/p>
